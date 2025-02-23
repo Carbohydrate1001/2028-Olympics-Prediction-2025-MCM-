@@ -1,0 +1,439 @@
+Name,NOC,Year,Sport,Medal,isCoached,Scoring_Exponential,ExperienceScoring_Exponential,CombinedScoring,TeamScoring
+Hou Yuzhu,CHN,1984,Volleyball,5,0,0.465913214,0,0.302796998,0.302796998
+Jiang Ying,CHN,1984,Volleyball,5,0,0.465913214,0,0.302796998,0.302796998
+Lang Ping,CHN,1984,Volleyball,5,0,0.465913214,0,0.302796998,0.302796998
+Li Yanjun,CHN,1984,Volleyball,5,0,0.465913214,0,0.302796998,0.302796998
+Liang Yan,CHN,1984,Volleyball,5,0,0.465913214,0,0.302796998,0.302796998
+Yang Xiaojun,CHN,1984,Volleyball,5,0,0.465913214,0,0.302796998,0.302796998
+Yang Xilan,CHN,1984,Volleyball,5,0,0.465913214,0,0.302796998,0.302796998
+Zhang Rongfang,CHN,1984,Volleyball,5,0,0.465913214,0,0.302796998,0.302796998
+Zheng Meizhu,CHN,1984,Volleyball,5,0,0.465913214,0,0.302796998,0.302796998
+Zhu Ling,CHN,1984,Volleyball,5,0,0.465913214,0,0.302796998,0.302796998
+Cui Yongmei,CHN,1988,Volleyball,1,0,0.096388177,0,0.062642676,0.279636052
+Hou Yuzhu,CHN,1988,Volleyball,1,0,0.604445587,0.420448208,0.540028104,0.279636052
+Jiang Ying,CHN,1988,Volleyball,1,0,0.604445587,0.420448208,0.540028104,0.279636052
+Li Guojun,CHN,1988,Volleyball,1,0,0.096388177,0,0.062642676,0.279636052
+Li Yueming,CHN,1988,Volleyball,1,0,0.096388177,0,0.062642676,0.279636052
+Su Huijuan,CHN,1988,Volleyball,1,0,0.096388177,0,0.062642676,0.279636052
+Wang Yajun,CHN,1988,Volleyball,1,0,0.096388177,0,0.062642676,0.279636052
+Wu Dan,CHN,1988,Volleyball,1,0,0.096388177,0,0.062642676,0.279636052
+Yang Xiaojun,CHN,1988,Volleyball,1,0,0.604445587,0.420448208,0.540028104,0.279636052
+Yang Xilan,CHN,1988,Volleyball,1,0,0.604445587,0.420448208,0.540028104,0.279636052
+Zheng Meizhu,CHN,1988,Volleyball,1,0,0.604445587,0.420448208,0.540028104,0.279636052
+Chen Fengqin,CHN,1992,Volleyball,0,0,0,0,0,0.052696455
+Gao Lin,CHN,1992,Volleyball,0,0,0,0,0,0.052696455
+Lai Yawen,CHN,1992,Volleyball,0,0,0,0,0,0.052696455
+Li Guojun,CHN,1992,Volleyball,0,0,0.096388177,0.272626933,0.158089365,0.052696455
+Li Yueming,CHN,1992,Volleyball,0,0,0.096388177,0.272626933,0.158089365,0.052696455
+Ma Fang,CHN,1992,Volleyball,0,0,0,0,0,0.052696455
+Su Huijuan,CHN,1992,Volleyball,0,0,0.096388177,0.272626933,0.158089365,0.052696455
+Su Liqun,CHN,1992,Volleyball,0,0,0,0,0,0.052696455
+Sun Yue,CHN,1992,Volleyball,0,0,0,0,0,0.052696455
+Wang Yi,CHN,1992,Volleyball,0,0,0,0,0,0.052696455
+Wu Dan,CHN,1992,Volleyball,0,0,0.096388177,0.272626933,0.158089365,0.052696455
+Zhou Hong,CHN,1992,Volleyball,0,0,0,0,0,0.052696455
+Cui Yongmei,CHN,1996,Volleyball,3,1,0.353553391,0.353553391,0.353553391,0.227083001
+He Qi,CHN,1996,Volleyball,3,1,0.259593009,0,0.168709497,0.227083001
+Lai Yawen,CHN,1996,Volleyball,3,1,0.259593009,0.324209889,0.282215379,0.227083001
+Li Yan,CHN,1996,Volleyball,3,1,0.259593009,0,0.168709497,0.227083001
+Sun Yue,CHN,1996,Volleyball,3,1,0.259593009,0.324209889,0.282215379,0.227083001
+Wang Lina,CHN,1996,Volleyball,3,1,0.259593009,0,0.168709497,0.227083001
+Wang Yi,CHN,1996,Volleyball,3,1,0.259593009,0.324209889,0.282215379,0.227083001
+Wang Ziling,CHN,1996,Volleyball,3,1,0.259593009,0,0.168709497,0.227083001
+Wu Yongmei,CHN,1996,Volleyball,3,1,0.259593009,0,0.168709497,0.227083001
+Chen Jing,CHN,2000,Volleyball,0,0,0,0,0,0.166480918
+Gui Chaoran,CHN,2000,Volleyball,0,0,0,0,0,0.166480918
+He Qi,CHN,2000,Volleyball,0,0,0.259593009,0.324209889,0.282215379,0.166480918
+Li Shan,CHN,2000,Volleyball,0,0,0,0,0,0.166480918
+Li Yan,CHN,2000,Volleyball,0,0,0.259593009,0.324209889,0.282215379,0.166480918
+Qiu Aihua,CHN,2000,Volleyball,0,0,0,0,0,0.166480918
+Sun Yue,CHN,2000,Volleyball,0,0,0.259593009,1,0.518809497,0.166480918
+Wang Lina,CHN,2000,Volleyball,0,0,0.259593009,0.324209889,0.282215379,0.166480918
+Wu Dan,CHN,2000,Volleyball,0,0,0,1,0.3501,0.166480918
+Wu Yongmei,CHN,2000,Volleyball,0,0,0.259593009,0.324209889,0.282215379,0.166480918
+Yin Yin,CHN,2000,Volleyball,0,0,0,0,0,0.166480918
+Zhu Yunying,CHN,2000,Volleyball,0,0,0,0,0,0.166480918
+Chen Jing,CHN,2004,Volleyball,5,0,0.465913214,0.385552706,0.437779,0.383394249
+Feng Kun,CHN,2004,Volleyball,5,0,0.465913214,0,0.302796998,0.383394249
+Li Shan,CHN,2004,Volleyball,5,0,0.465913214,0.385552706,0.437779,0.383394249
+Liu Yanan,CHN,2004,Volleyball,5,0,0.465913214,0,0.302796998,0.383394249
+Song Nina,CHN,2004,Volleyball,5,0,0.465913214,0,0.302796998,0.383394249
+Wang Lina,CHN,2004,Volleyball,5,0,1,1,1,0.383394249
+Yang Hao,CHN,2004,Volleyball,5,0,0.465913214,0,0.302796998,0.383394249
+Zhang Na,CHN,2004,Volleyball,5,0,0.465913214,0,0.302796998,0.383394249
+Zhang Ping,CHN,2004,Volleyball,5,0,0.465913214,0,0.302796998,0.383394249
+Zhang Yuehong,CHN,2004,Volleyball,5,0,0.465913214,0,0.302796998,0.383394249
+Zhao Ruirui,CHN,2004,Volleyball,5,0,0.465913214,0,0.302796998,0.383394249
+Zhou Suhong,CHN,2004,Volleyball,5,0,0.465913214,0,0.302796998,0.383394249
+Feng Kun,CHN,2008,Volleyball,1,0,0.604445587,0.420448208,0.540028104,0.30133539
+Li Juan,CHN,2008,Volleyball,1,0,0.096388177,0,0.062642676,0.30133539
+Liu Yanan,CHN,2008,Volleyball,1,0,0.604445587,0.420448208,0.540028104,0.30133539
+Ma Yunwen,CHN,2008,Volleyball,1,0,0.096388177,0,0.062642676,0.30133539
+Wang Yimei,CHN,2008,Volleyball,1,0,0.096388177,0,0.062642676,0.30133539
+Wei Qiuyue,CHN,2008,Volleyball,1,0,0.096388177,0,0.062642676,0.30133539
+Xu Yunli,CHN,2008,Volleyball,1,0,0.096388177,0,0.062642676,0.30133539
+Xue Ming,CHN,2008,Volleyball,1,0,0.096388177,0,0.062642676,0.30133539
+Yang Hao,CHN,2008,Volleyball,1,0,0.604445587,0.420448208,0.540028104,0.30133539
+Zhang Na,CHN,2008,Volleyball,1,0,0.604445587,0.420448208,0.540028104,0.30133539
+Zhao Ruirui,CHN,2008,Volleyball,1,0,0.604445587,0.420448208,0.540028104,0.30133539
+Zhou Suhong,CHN,2008,Volleyball,1,0,0.604445587,0.420448208,0.540028104,0.30133539
+Chu Jinling,CHN,2012,Volleyball,0,0,0,0,0,0.052696455
+Hui Ruoqi,CHN,2012,Volleyball,0,0,0,0,0,0.052696455
+Ma Yunwen,CHN,2012,Volleyball,0,0,0.096388177,0.272626933,0.158089365,0.052696455
+Mi Yang,CHN,2012,Volleyball,0,0,0,0,0,0.052696455
+Shan Danna,CHN,2012,Volleyball,0,0,0,0,0,0.052696455
+Wang Yimei,CHN,2012,Volleyball,0,0,0.096388177,0.272626933,0.158089365,0.052696455
+Wei Qiuyue,CHN,2012,Volleyball,0,0,0.096388177,0.272626933,0.158089365,0.052696455
+Xu Yunli,CHN,2012,Volleyball,0,0,0.096388177,0.272626933,0.158089365,0.052696455
+Yang Junjing,CHN,2012,Volleyball,0,0,0,0,0,0.052696455
+Zeng Chunlei,CHN,2012,Volleyball,0,0,0,0,0,0.052696455
+Zhang Lei,CHN,2012,Volleyball,0,0,0,0,0,0.052696455
+Zhang Xian,CHN,2012,Volleyball,0,0,0,0,0,0.052696455
+Ding Xia,CHN,2016,Volleyball,5,1,0.465913214,0,0.302796998,0.387400863
+Gong Xiangyu,CHN,2016,Volleyball,5,1,0.465913214,0,0.302796998,0.387400863
+Hui Ruoqi,CHN,2016,Volleyball,5,1,0.465913214,0.385552706,0.437779,0.387400863
+Lin Li,CHN,2016,Volleyball,5,1,0.465913214,0,0.302796998,0.387400863
+Liu Xiaotong,CHN,2016,Volleyball,5,1,0.465913214,0,0.302796998,0.387400863
+Wei Qiuyue,CHN,2016,Volleyball,5,1,0.604445587,1,0.742929187,0.387400863
+Xu Yunli,CHN,2016,Volleyball,5,1,0.604445587,1,0.742929187,0.387400863
+Yan Ni,CHN,2016,Volleyball,5,1,0.465913214,0,0.302796998,0.387400863
+Yang Fangxu,CHN,2016,Volleyball,5,1,0.465913214,0,0.302796998,0.387400863
+Yuan Xinyue,CHN,2016,Volleyball,5,1,0.465913214,0,0.302796998,0.387400863
+Zhang Changning,CHN,2016,Volleyball,5,1,0.465913214,0,0.302796998,0.387400863
+Zhu Ting,CHN,2016,Volleyball,5,1,0.465913214,0,0.302796998,0.387400863
+Xia Ding,CHN,2020,Volleyball,0,1,0,0,0,0
+Xiangyu Gong,CHN,2020,Volleyball,0,1,0,0,0,0
+Yingying Li,CHN,2020,Volleyball,0,1,0,0,0,0
+Xiaotong Liu,CHN,2020,Volleyball,0,1,0,0,0,0
+Yanhan Liu,CHN,2020,Volleyball,0,1,0,0,0,0
+Mengjie Wang,CHN,2020,Volleyball,0,1,0,0,0,0
+Yuanyuan Wang,CHN,2020,Volleyball,0,1,0,0,0,0
+Ni Yan,CHN,2020,Volleyball,0,1,0,0,0,0
+Di Yao,CHN,2020,Volleyball,0,1,0,0,0,0
+Xinyue Yuan,CHN,2020,Volleyball,0,1,0,0,0,0
+Changning Zhang,CHN,2020,Volleyball,0,1,0,0,0,0
+Ting Zhu,CHN,2020,Volleyball,0,1,0,0,0,0
+Linyu Diao,CHN,2024,Volleyball,0,0,0,0,0,0.053861538
+Xia Ding,CHN,2024,Volleyball,0,0,0,0.25,0.087525,0.053861538
+Yi Gao,CHN,2024,Volleyball,0,0,0,0,0,0.053861538
+Xiangyu Gong,CHN,2024,Volleyball,0,0,0,0.25,0.087525,0.053861538
+Yingying Li,CHN,2024,Volleyball,0,0,0,0.25,0.087525,0.053861538
+Mengjie Wang,CHN,2024,Volleyball,0,0,0,0.25,0.087525,0.053861538
+Mengjie Wu,CHN,2024,Volleyball,0,0,0,0,0,0.053861538
+Xinyue Yuan,CHN,2024,Volleyball,0,0,0,0.25,0.087525,0.053861538
+Changning Zhang,CHN,2024,Volleyball,0,0,0,0.25,0.087525,0.053861538
+Yushan Zhuang,CHN,2024,Volleyball,0,0,0,0,0,0.053861538
+Yuanyuan Wang,CHN,2024,Volleyball,0,0,0,0.25,0.087525,0.053861538
+Yixin Zheng,CHN,2024,Volleyball,0,0,0,0,0,0.053861538
+Ting Zhu,CHN,2024,Volleyball,0,0,0,0.25,0.087525,0.053861538
+Jeanne (-reeves),United States,1984,Volleyball,3,0,0.231120425,0,0.144034249,0.144034249
+Carolyn Becker,United States,1984,Volleyball,3,0,0.231120425,0,0.144034249,0.144034249
+Linda Chisholm,United States,1984,Volleyball,3,0,0.231120425,0,0.144034249,0.144034249
+Rita (-buck),United States,1984,Volleyball,3,0,0.231120425,0,0.144034249,0.144034249
+Laura (-corbelli),United States,1984,Volleyball,3,0,0.231120425,0,0.144034249,0.144034249
+Deborah (-vargas),United States,1984,Volleyball,3,0,0.231120425,0,0.144034249,0.144034249
+Flora Hyman,United States,1984,Volleyball,3,0,0.231120425,0,0.144034249,0.144034249
+Rose (-powell),United States,1984,Volleyball,3,0,0.231120425,0,0.144034249,0.144034249
+Kimberly Ruddins,United States,1984,Volleyball,3,0,0.231120425,0,0.144034249,0.144034249
+Julie (-melli),United States,1984,Volleyball,3,0,0.231120425,0,0.144034249,0.144034249
+Paula (-hanold),United States,1984,Volleyball,3,0,0.231120425,0,0.144034249,0.144034249
+Susan Woodstra,United States,1984,Volleyball,3,0,0.231120425,0,0.144034249,0.144034249
+Deitre (-parker),United States,1988,Volleyball,0,0,0,0,0,0.015118129
+Caren Kemner,United States,1988,Volleyball,0,0,0,0,0,0.015118129
+Laurel Kessel,United States,1988,Volleyball,0,0,0,0,0,0.015118129
+Elizabeth Masakayan,United States,1988,Volleyball,0,0,0,0,0,0.015118129
+Jayne (gibson-),United States,1988,Volleyball,0,0,0,0,0,0.015118129
+Melissa (-kleespies),United States,1988,Volleyball,0,0,0,0,0,0.015118129
+Kimberley Oden,United States,1988,Volleyball,0,0,0,0,0,0.015118129
+Prikeba Phipps,United States,1988,Volleyball,0,0,0,0,0,0.015118129
+Angela Rock,United States,1988,Volleyball,0,0,0,0,0,0.015118129
+Kimberly Ruddins,United States,1988,Volleyball,0,0,0.231120425,0.099212566,0.181417543,0.015118129
+Liane Sato,United States,1988,Volleyball,0,0,0,0,0,0.015118129
+Tammy Webb-liley,United States,1988,Volleyball,0,0,0,0,0,0.015118129
+Janet (-mulholland),United States,1992,Volleyball,1,0,0.087042337,0,0.054244785,0.078612444
+Tara Cross-battle,United States,1992,Volleyball,1,0,0.087042337,0,0.054244785,0.078612444
+Lori (-vandersnick),United States,1992,Volleyball,1,0,0.087042337,0,0.054244785,0.078612444
+Caren Kemner,United States,1992,Volleyball,1,0,0.087042337,0.072908065,0.081716544,0.078612444
+Ruth (-kenan),United States,1992,Volleyball,1,0,0.087042337,0,0.054244785,0.078612444
+Elaina Oden,United States,1992,Volleyball,1,0,0.087042337,0,0.054244785,0.078612444
+Kimberley Oden,United States,1992,Volleyball,1,0,0.087042337,0.072908065,0.081716544,0.078612444
+Tonya (-slacanin),United States,1992,Volleyball,1,0,0.087042337,0,0.054244785,0.078612444
+Liane Sato,United States,1992,Volleyball,1,0,0.087042337,0.072908065,0.081716544,0.078612444
+Tammy Webb-liley,United States,1992,Volleyball,1,0,0.087042337,0.072908065,0.081716544,0.078612444
+Paula (-hanold),United States,1992,Volleyball,1,0,0.309950198,0.115734339,0.236769662,0.078612444
+Yoko -hiroshi),United States,1992,Volleyball,1,0,0.087042337,0,0.054244785,0.078612444
+Tara Cross-battle,United States,1996,Volleyball,0,0,0.087042337,0.072908065,0.081716544,0.073045163
+Lori (-vandersnick),United States,1996,Volleyball,0,0,0.087042337,0.072908065,0.081716544,0.073045163
+Caren Kemner,United States,1996,Volleyball,0,0,0.087042337,0.270014935,0.155986412,0.073045163
+Kristin Klein,United States,1996,Volleyball,0,0,0,0,0,0.073045163
+Beverly Oden,United States,1996,Volleyball,0,0,0,0,0,0.073045163
+Elaina Oden,United States,1996,Volleyball,0,0,0.087042337,0.072908065,0.081716544,0.073045163
+Tonya (-slacanin),United States,1996,Volleyball,0,0,0.087042337,0.072908065,0.081716544,0.073045163
+Danielle Scott-arruda,United States,1996,Volleyball,0,0,0,0,0,0.073045163
+Tammy Webb-liley,United States,1996,Volleyball,0,0,0.087042337,0.270014935,0.155986412,0.073045163
+Paula (-hanold),United States,1996,Volleyball,0,0,0.087042337,0.270014935,0.155986412,0.073045163
+Elaine Youngs,United States,1996,Volleyball,0,0,0,0,0,0.073045163
+Yoko -hiroshi),United States,1996,Volleyball,0,0,0.087042337,0.072908065,0.081716544,0.073045163
+Robyn Mow-santos,United States,2000,Volleyball,0,0,0,0,0,0.014961368
+Heather Bown,United States,2000,Volleyball,0,0,0,0,0,0.014961368
+Tara Cross-battle,United States,2000,Volleyball,0,0,0.087042337,0.270014935,0.155986412,0.014961368
+Mickisha Hurley,United States,2000,Volleyball,0,0,0,0,0,0.014961368
+Sarah Noriega,United States,2000,Volleyball,0,0,0,0,0,0.014961368
+Demetria Sance,United States,2000,Volleyball,0,0,0,0,0,0.014961368
+Danielle Scott-arruda,United States,2000,Volleyball,0,0,0,0.0625,0.02355,0.014961368
+Stacy Sykora,United States,2000,Volleyball,0,0,0,0,0,0.014961368
+Charlene Tagaloa,United States,2000,Volleyball,0,0,0,0,0,0.014961368
+Logan Tom,United States,2000,Volleyball,0,0,0,0,0,0.014961368
+Kerri Jennings,United States,2000,Volleyball,0,0,0,0,0,0.014961368
+Allison Weston,United States,2000,Volleyball,0,0,0,0,0,0.014961368
+Robyn Mow-santos,United States,2004,Volleyball,0,0,0,0.0625,0.02355,0.035325
+Elisabeth (-mccutcheon),United States,2004,Volleyball,0,0,0,0,0,0.035325
+Lindsey Berg,United States,2004,Volleyball,0,0,0,0,0,0.035325
+Heather Bown,United States,2004,Volleyball,0,0,0,0.0625,0.02355,0.035325
+Tara Cross-battle,United States,2004,Volleyball,0,0,0,0.5625,0.21195,0.035325
+Tayyiba Haneef-park,United States,2004,Volleyball,0,0,0,0,0,0.035325
+Nancy (meendering-),United States,2004,Volleyball,0,0,0,0,0,0.035325
+Ogonna Nnamani,United States,2004,Volleyball,0,0,0,0,0,0.035325
+Prikeba Phipps,United States,2004,Volleyball,0,0,0,0.0625,0.02355,0.035325
+Danielle Scott-arruda,United States,2004,Volleyball,0,0,0,0.25,0.0942,0.035325
+Stacy Sykora,United States,2004,Volleyball,0,0,0,0.0625,0.02355,0.035325
+Logan Tom,United States,2004,Volleyball,0,0,0,0.0625,0.02355,0.035325
+Robyn Mow-santos,United States,2008,Volleyball,3,1,0.231120425,0.314980262,0.262718812,0.21238169
+Lindsey Berg,United States,2008,Volleyball,3,1,0.231120425,0.099212566,0.181417543,0.21238169
+Heather Bown,United States,2008,Volleyball,3,1,0.231120425,0.314980262,0.262718812,0.21238169
+Nicole Davis,United States,2008,Volleyball,3,1,0.231120425,0,0.144034249,0.21238169
+Kimberly Glass,United States,2008,Volleyball,3,1,0.231120425,0,0.144034249,0.21238169
+Tayyiba Haneef-park,United States,2008,Volleyball,3,1,0.231120425,0.099212566,0.181417543,0.21238169
+Jennifer (-tamas),United States,2008,Volleyball,3,1,0.231120425,0,0.144034249,0.21238169
+Ogonna Nnamani,United States,2008,Volleyball,3,1,0.231120425,0.099212566,0.181417543,0.21238169
+Danielle Scott-arruda,United States,2008,Volleyball,3,1,0.231120425,0.619111359,0.377315409,0.21238169
+Stacy Sykora,United States,2008,Volleyball,3,1,0.231120425,0.314980262,0.262718812,0.21238169
+Logan Tom,United States,2008,Volleyball,3,1,0.231120425,0.314980262,0.262718812,0.21238169
+Kim Willoughby,United States,2008,Volleyball,3,1,0.231120425,0,0.144034249,0.21238169
+Foluke Akinradewo,United States,2012,Volleyball,3,0,0.231120425,0,0.144034249,0.298792463
+Lindsey Berg,United States,2012,Volleyball,3,0,0.508761886,0.396850263,0.466593586,0.298792463
+Nicole Davis,United States,2012,Volleyball,3,0,0.508761886,0.157490131,0.376402689,0.298792463
+Tayyiba Haneef-park,United States,2012,Volleyball,3,0,0.508761886,0.396850263,0.466593586,0.298792463
+Christa Harmotto-dietzen,United States,2012,Volleyball,3,0,0.231120425,0,0.144034249,0.298792463
+Megan Hodge,United States,2012,Volleyball,3,0,0.231120425,0,0.144034249,0.298792463
+Destinee Hooker,United States,2012,Volleyball,3,0,0.231120425,0,0.144034249,0.298792463
+Jordan Larson-burbach,United States,2012,Volleyball,3,0,0.231120425,0,0.144034249,0.298792463
+Tamari Miyashiro,United States,2012,Volleyball,3,0,0.231120425,0,0.144034249,0.298792463
+Danielle Scott-arruda,United States,2012,Volleyball,3,0,0.508761886,1,0.693860407,0.298792463
+Courtney Thompson,United States,2012,Volleyball,3,0,0.231120425,0,0.144034249,0.298792463
+Logan Tom,United States,2012,Volleyball,3,0,0.508761886,0.681420222,0.573819547,0.298792463
+Rachael Adams,United States,2016,Volleyball,1,0,0.087042337,0,0.054244785,0.115086411
+Foluke Akinradewo,United States,2016,Volleyball,1,0,0.309950198,0.115734339,0.236769662,0.115086411
+Kayla Banwarth,United States,2016,Volleyball,1,0,0.087042337,0,0.054244785,0.115086411
+Alisha Glass,United States,2016,Volleyball,1,0,0.087042337,0,0.054244785,0.115086411
+Christa Harmotto-dietzen,United States,2016,Volleyball,1,0,0.309950198,0.115734339,0.236769662,0.115086411
+Kimberly Hill,United States,2016,Volleyball,1,0,0.087042337,0,0.054244785,0.115086411
+Jordan Larson-burbach,United States,2016,Volleyball,1,0,0.309950198,0.115734339,0.236769662,0.115086411
+Carli Lloyd,United States,2016,Volleyball,1,0,0.087042337,0,0.054244785,0.115086411
+Karsta Lowe,United States,2016,Volleyball,1,0,0.087042337,0,0.054244785,0.115086411
+Kelly Murphy,United States,2016,Volleyball,1,0,0.087042337,0,0.054244785,0.115086411
+Kelsey Robinson,United States,2016,Volleyball,1,0,0.087042337,0,0.054244785,0.115086411
+Courtney Thompson,United States,2016,Volleyball,1,0,0.309950198,0.115734339,0.236769662,0.115086411
+Foluke Akinradewo,United States,2020,Volleyball,5,0,1,0.5,0.8116,0.317693152
+Michelle Bartsch-hackley,United States,2020,Volleyball,5,0,0.400783134,0,0.249768049,0.317693152
+Andrea Drews,United States,2020,Volleyball,5,0,0.400783134,0,0.249768049,0.317693152
+Micha Hancock,United States,2020,Volleyball,5,0,0.400783134,0,0.249768049,0.317693152
+Kimberly Hill,United States,2020,Volleyball,5,0,0.508761886,0.157490131,0.376402689,0.317693152
+Jordan Larson,United States,2020,Volleyball,5,0,0.400783134,0,0.249768049,0.317693152
+Chiaka Ogbogu,United States,2020,Volleyball,5,0,0.400783134,0,0.249768049,0.317693152
+Jordyn Poulter,United States,2020,Volleyball,5,0,0.400783134,0,0.249768049,0.317693152
+Kelsey Robinson,United States,2020,Volleyball,5,0,0.508761886,0.157490131,0.376402689,0.317693152
+Jordan Thompson,United States,2020,Volleyball,5,0,0.400783134,0,0.249768049,0.317693152
+Haleigh Washington,United States,2020,Volleyball,5,0,0.400783134,0,0.249768049,0.317693152
+Justine Wong-orantes,United States,2020,Volleyball,5,0,0.400783134,0,0.249768049,0.317693152
+Lauren Carlini,United States,2024,Volleyball,3,0,0.231120425,0,0.144034249,0.463452863
+Andrea Drews,United States,2024,Volleyball,3,0,0.800531764,0.214310996,0.579643778,0.463452863
+Micha Hancock,United States,2024,Volleyball,3,0,0.800531764,0.214310996,0.579643778,0.463452863
+Jordan Larson,United States,2024,Volleyball,3,0,0.800531764,0.214310996,0.579643778,0.463452863
+Chiaka Ogbogu,United States,2024,Volleyball,3,0,0.800531764,0.214310996,0.579643778,0.463452863
+Kathryn Plummer,United States,2024,Volleyball,3,0,0.231120425,0,0.144034249,0.463452863
+Jordyn Poulter,United States,2024,Volleyball,3,0,0.800531764,0.214310996,0.579643778,0.463452863
+Dana Rettke,United States,2024,Volleyball,3,0,0.231120425,0,0.144034249,0.463452863
+Kelsey Robinson,United States,2024,Volleyball,3,0,1,0.5,0.8116,0.463452863
+Avery Skinner,United States,2024,Volleyball,3,0,0.231120425,0,0.144034249,0.463452863
+Jordan Thompson,United States,2024,Volleyball,3,0,0.800531764,0.214310996,0.579643778,0.463452863
+Haleigh Washington,United States,2024,Volleyball,3,0,0.800531764,0.214310996,0.579643778,0.463452863
+Justine Wong-orantes,United States,2024,Volleyball,3,0,0.800531764,0.214310996,0.579643778,0.463452863
+Pamela (-flat),United States,1984,Gymnastics,0,1,0,0,0,0.026753116
+Pamela (-flat),United States,1984,Gymnastics,3,1,0.069438548,0.004411327,0.046672518,0.026753116
+Pamela (-flat),United States,1984,Gymnastics,0,1,0,0.01384083,0.004845675,0.026753116
+Pamela (-flat),United States,1984,Gymnastics,0,1,0,0.031141869,0.010902768,0.026753116
+Pamela (-flat),United States,1984,Gymnastics,0,1,0,0.055363322,0.019382699,0.026753116
+Pamela (-flat),United States,1984,Gymnastics,0,1,0,0.08650519,0.030285467,0.026753116
+Michelle (-farrell),United States,1984,Gymnastics,0,1,0,0,0,0.026753116
+Michelle (-farrell),United States,1984,Gymnastics,3,1,0.069438548,0.004411327,0.046672518,0.026753116
+Michelle (-farrell),United States,1984,Gymnastics,0,1,0,0.01384083,0.004845675,0.026753116
+Michelle (-farrell),United States,1984,Gymnastics,0,1,0,0.031141869,0.010902768,0.026753116
+Michelle (-farrell),United States,1984,Gymnastics,0,1,0,0.055363322,0.019382699,0.026753116
+Michelle (-farrell),United States,1984,Gymnastics,0,1,0,0.08650519,0.030285467,0.026753116
+Kathleen (-clarke),United States,1984,Gymnastics,0,1,0,0,0,0.026753116
+Kathleen (-clarke),United States,1984,Gymnastics,3,1,0.069438548,0.004411327,0.046672518,0.026753116
+Kathleen (-clarke),United States,1984,Gymnastics,0,1,0,0.01384083,0.004845675,0.026753116
+Kathleen (-clarke),United States,1984,Gymnastics,0,1,0,0.031141869,0.010902768,0.026753116
+Kathleen (-clarke),United States,1984,Gymnastics,0,1,0,0.055363322,0.019382699,0.026753116
+Kathleen (-clarke),United States,1984,Gymnastics,1,1,0.025811648,0.089583346,0.048138119,0.026753116
+Julianne (-zeile),United States,1984,Gymnastics,0,1,0,0,0,0.026753116
+Julianne (-zeile),United States,1984,Gymnastics,3,1,0.069438548,0.004411327,0.046672518,0.026753116
+Julianne (-zeile),United States,1984,Gymnastics,3,1,0.069438548,0.016627487,0.050949395,0.026753116
+Julianne (-zeile),United States,1984,Gymnastics,0,1,0,0.031141869,0.010902768,0.026753116
+Julianne (-zeile),United States,1984,Gymnastics,5,1,0.108186649,0.06807568,0.094143799,0.026753116
+Julianne (-zeile),United States,1984,Gymnastics,0,1,0,0.08650519,0.030285467,0.026753116
+Mary (-kelley),United States,1984,Gymnastics,5,1,0.108186649,0,0.070310503,0.026753116
+Mary (-kelley),United States,1984,Gymnastics,3,1,0.069438548,0.004411327,0.046672518,0.026753116
+Mary (-kelley),United States,1984,Gymnastics,1,1,0.025811648,0.014713533,0.021926198,0.026753116
+Mary (-kelley),United States,1984,Gymnastics,3,1,0.069438548,0.036133964,0.057778613,0.026753116
+Mary (-kelley),United States,1984,Gymnastics,1,1,0.025811648,0.057700039,0.036975773,0.026753116
+Mary (-kelley),United States,1984,Gymnastics,0,1,0,0.08650519,0.030285467,0.026753116
+Tracee (-kent),United States,1984,Gymnastics,0,1,0,0,0,0.026753116
+Tracee (-kent),United States,1984,Gymnastics,3,1,0.069438548,0.004411327,0.046672518,0.026753116
+Tracee (-kent),United States,1984,Gymnastics,0,1,0,0.01384083,0.004845675,0.026753116
+Tracee (-kent),United States,1984,Gymnastics,0,1,0,0.031141869,0.010902768,0.026753116
+Tracee (-kent),United States,1984,Gymnastics,0,1,0,0.055363322,0.019382699,0.026753116
+Tracee (-kent),United States,1984,Gymnastics,0,1,0,0.08650519,0.030285467,0.026753116
+Kelly (-funderburk),United States,1988,Gymnastics,0,0,0,0,0,0.013979875
+Kelly (-funderburk),United States,1988,Gymnastics,0,0,0,0.003460208,0.001211419,0.013979875
+Kelly (-funderburk),United States,1988,Gymnastics,0,0,0,0.01384083,0.004845675,0.013979875
+Kelly (-funderburk),United States,1988,Gymnastics,0,0,0,0.031141869,0.010902768,0.013979875
+Kelly (-funderburk),United States,1988,Gymnastics,0,0,0,0.055363322,0.019382699,0.013979875
+Kelly (-funderburk),United States,1988,Gymnastics,0,0,0,0.08650519,0.030285467,0.013979875
+Brandy (-scharpf),United States,1988,Gymnastics,0,0,0,0,0,0.013979875
+Brandy (-scharpf),United States,1988,Gymnastics,0,0,0,0.003460208,0.001211419,0.013979875
+Brandy (-scharpf),United States,1988,Gymnastics,0,0,0,0.01384083,0.004845675,0.013979875
+Brandy (-scharpf),United States,1988,Gymnastics,0,0,0,0.031141869,0.010902768,0.013979875
+Brandy (-scharpf),United States,1988,Gymnastics,0,0,0,0.055363322,0.019382699,0.013979875
+Brandy (-scharpf),United States,1988,Gymnastics,0,0,0,0.08650519,0.030285467,0.013979875
+Melissa (-clausi),United States,1988,Gymnastics,0,0,0,0,0,0.013979875
+Melissa (-clausi),United States,1988,Gymnastics,0,0,0,0.003460208,0.001211419,0.013979875
+Melissa (-clausi),United States,1988,Gymnastics,0,0,0,0.01384083,0.004845675,0.013979875
+Melissa (-clausi),United States,1988,Gymnastics,0,0,0,0.031141869,0.010902768,0.013979875
+Melissa (-clausi),United States,1988,Gymnastics,0,0,0,0.055363322,0.019382699,0.013979875
+Melissa (-clausi),United States,1988,Gymnastics,0,0,0,0.08650519,0.030285467,0.013979875
+Phoebe Mills,United States,1988,Gymnastics,0,0,0.025811648,0,0.01677499,0.013979875
+Phoebe Mills,United States,1988,Gymnastics,0,0,0.025811648,0.003751957,0.01808855,0.013979875
+Phoebe Mills,United States,1988,Gymnastics,0,0,0.025811648,0.014713533,0.021926198,0.013979875
+Phoebe Mills,United States,1988,Gymnastics,0,0,0.025811648,0.032724145,0.028231713,0.013979875
+Phoebe Mills,United States,1988,Gymnastics,0,0,0.025811648,0.057700039,0.036975773,0.013979875
+Phoebe Mills,United States,1988,Gymnastics,1,0,0.025811648,0.089583346,0.048138119,0.013979875
+Theresa -coburn),United States,1988,Gymnastics,0,0,0,0,0,0.013979875
+Theresa -coburn),United States,1988,Gymnastics,0,0,0,0.003460208,0.001211419,0.013979875
+Theresa -coburn),United States,1988,Gymnastics,0,0,0,0.01384083,0.004845675,0.013979875
+Theresa -coburn),United States,1988,Gymnastics,0,0,0,0.031141869,0.010902768,0.013979875
+Theresa -coburn),United States,1988,Gymnastics,0,0,0,0.055363322,0.019382699,0.013979875
+Theresa -coburn),United States,1988,Gymnastics,0,0,0,0.08650519,0.030285467,0.013979875
+Carrol Stack,United States,1988,Gymnastics,0,0,0,0,0,0.013979875
+Carrol Stack,United States,1988,Gymnastics,0,0,0,0.003460208,0.001211419,0.013979875
+Carrol Stack,United States,1988,Gymnastics,0,0,0,0.01384083,0.004845675,0.013979875
+Carrol Stack,United States,1988,Gymnastics,0,0,0,0.031141869,0.010902768,0.013979875
+Carrol Stack,United States,1988,Gymnastics,0,0,0,0.055363322,0.019382699,0.013979875
+Carrol Stack,United States,1988,Gymnastics,0,0,0,0.08650519,0.030285467,0.013979875
+Wendy (-martin),United States,1992,Gymnastics,0,1,0.025811648,0,0.01677499,0.045982229
+Wendy (-martin),United States,1992,Gymnastics,1,1,0.025811648,0.003751957,0.01808855,0.045982229
+Wendy (-martin),United States,1992,Gymnastics,0,1,0.025811648,0.014713533,0.021926198,0.045982229
+Wendy (-martin),United States,1992,Gymnastics,0,1,0.025811648,0.032724145,0.028231713,0.045982229
+Wendy (-martin),United States,1992,Gymnastics,0,1,0.025811648,0.057700039,0.036975773,0.045982229
+Wendy (-martin),United States,1992,Gymnastics,0,1,0.025811648,0.089583346,0.048138119,0.045982229
+Dominique (-thompson),United States,1992,Gymnastics,0,1,0.025811648,0,0.01677499,0.045982229
+Dominique (-thompson),United States,1992,Gymnastics,1,1,0.025811648,0.003751957,0.01808855,0.045982229
+Dominique (-thompson),United States,1992,Gymnastics,0,1,0.025811648,0.014713533,0.021926198,0.045982229
+Dominique (-thompson),United States,1992,Gymnastics,0,1,0.025811648,0.032724145,0.028231713,0.045982229
+Dominique (-thompson),United States,1992,Gymnastics,0,1,0.025811648,0.057700039,0.036975773,0.045982229
+Dominique (-thompson),United States,1992,Gymnastics,0,1,0.025811648,0.089583346,0.048138119,0.045982229
+Shannon -falconetti),United States,1992,Gymnastics,3,1,0.181344773,0,0.117855968,0.045982229
+Shannon -falconetti),United States,1992,Gymnastics,1,1,0.181344773,0.007169738,0.120366093,0.045982229
+Shannon -falconetti),United States,1992,Gymnastics,1,1,0.181344773,0.023996925,0.126257291,0.045982229
+Shannon -falconetti),United States,1992,Gymnastics,0,1,0.181344773,0.04864716,0.134887339,0.045982229
+Shannon -falconetti),United States,1992,Gymnastics,1,1,0.181344773,0.080317071,0.145974975,0.045982229
+Shannon -falconetti),United States,1992,Gymnastics,3,1,0.181344773,0.118497223,0.159341846,0.045982229
+Elizabeth Okino,United States,1992,Gymnastics,0,1,0.025811648,0,0.01677499,0.045982229
+Elizabeth Okino,United States,1992,Gymnastics,1,1,0.025811648,0.003751957,0.01808855,0.045982229
+Elizabeth Okino,United States,1992,Gymnastics,0,1,0.025811648,0.014713533,0.021926198,0.045982229
+Elizabeth Okino,United States,1992,Gymnastics,0,1,0.025811648,0.032724145,0.028231713,0.045982229
+Elizabeth Okino,United States,1992,Gymnastics,0,1,0.025811648,0.057700039,0.036975773,0.045982229
+Elizabeth Okino,United States,1992,Gymnastics,0,1,0.025811648,0.089583346,0.048138119,0.045982229
+Kerri (-fischer),United States,1992,Gymnastics,0,1,0.025811648,0,0.01677499,0.045982229
+Kerri (-fischer),United States,1992,Gymnastics,1,1,0.025811648,0.003751957,0.01808855,0.045982229
+Kerri (-fischer),United States,1992,Gymnastics,0,1,0.025811648,0.014713533,0.021926198,0.045982229
+Kerri (-fischer),United States,1992,Gymnastics,0,1,0.025811648,0.032724145,0.028231713,0.045982229
+Kerri (-fischer),United States,1992,Gymnastics,0,1,0.025811648,0.057700039,0.036975773,0.045982229
+Kerri (-fischer),United States,1992,Gymnastics,0,1,0.025811648,0.089583346,0.048138119,0.045982229
+Kimberley (-burdette),United States,1992,Gymnastics,0,1,0.025811648,0,0.01677499,0.045982229
+Kimberley (-burdette),United States,1992,Gymnastics,1,1,0.025811648,0.003751957,0.01808855,0.045982229
+Kimberley (-burdette),United States,1992,Gymnastics,0,1,0.025811648,0.014713533,0.021926198,0.045982229
+Kimberley (-burdette),United States,1992,Gymnastics,0,1,0.025811648,0.032724145,0.028231713,0.045982229
+Kimberley (-burdette),United States,1992,Gymnastics,0,1,0.025811648,0.057700039,0.036975773,0.045982229
+Kimberley (-burdette),United States,1992,Gymnastics,0,1,0.025811648,0.089583346,0.048138119,0.045982229
+Amanda (-cochran),United States,1996,Gymnastics,0,1,0.108186649,0,0.070310503,0.167018654
+Amanda (-cochran),United States,1996,Gymnastics,5,1,0.108186649,0.005186574,0.072126323,0.167018654
+Amanda (-cochran),United States,1996,Gymnastics,0,1,0.108186649,0.018790411,0.076889026,0.167018654
+Amanda (-cochran),United States,1996,Gymnastics,0,1,0.108186649,0.039899082,0.084279172,0.167018654
+Amy (-ho),United States,1996,Gymnastics,0,1,0.163122051,0,0.106013021,0.167018654
+Amy (-ho),United States,1996,Gymnastics,5,1,0.163122051,0.006612225,0.108327961,0.167018654
+Amy (-ho),United States,1996,Gymnastics,0,1,0.163122051,0.022573597,0.113916037,0.167018654
+Amy (-ho),United States,1996,Gymnastics,3,1,0.163122051,0.046294974,0.122220891,0.167018654
+Dominique (-thompson),United States,1996,Gymnastics,0,1,0.144955933,0.456771265,0.25412248,0.167018654
+Dominique (-thompson),United States,1996,Gymnastics,5,1,0.144955933,0.384761794,0.228911965,0.167018654
+Dominique (-thompson),United States,1996,Gymnastics,1,1,0.144955933,0.318294005,0.205641592,0.167018654
+Dominique (-thompson),United States,1996,Gymnastics,0,1,0.144955933,0.257486176,0.184352771,0.167018654
+Dominique (-thompson),United States,1996,Gymnastics,0,1,0.144955933,0.202473604,0.165092869,0.167018654
+Dominique (-thompson),United States,1996,Gymnastics,0,1,0.144955933,0.153413717,0.147917003,0.167018654
+Shannon -falconetti),United States,1996,Gymnastics,0,1,0.38963478,0.219249029,0.329982728,0.167018654
+Shannon -falconetti),United States,1996,Gymnastics,5,1,0.38963478,0.274466103,0.349314226,0.167018654
+Shannon -falconetti),United States,1996,Gymnastics,0,1,0.38963478,0.333419708,0.369953883,0.167018654
+Shannon -falconetti),United States,1996,Gymnastics,0,1,0.38963478,0.395847403,0.391809819,0.167018654
+Shannon -falconetti),United States,1996,Gymnastics,0,1,0.38963478,0.461533257,0.414806436,0.167018654
+Shannon -falconetti),United States,1996,Gymnastics,5,1,0.38963478,0.530295639,0.438880147,0.167018654
+Dominique (-canales),United States,1996,Gymnastics,0,1,0.108186649,0,0.070310503,0.167018654
+Dominique (-canales),United States,1996,Gymnastics,5,1,0.108186649,0.005186574,0.072126323,0.167018654
+Dominique (-canales),United States,1996,Gymnastics,0,1,0.108186649,0.018790411,0.076889026,0.167018654
+Dominique (-canales),United States,1996,Gymnastics,0,1,0.108186649,0.039899082,0.084279172,0.167018654
+Dominique (-canales),United States,1996,Gymnastics,0,1,0.108186649,0.06807568,0.094143799,0.167018654
+Dominique (-canales),United States,1996,Gymnastics,0,1,0.108186649,0.103030955,0.10638164,0.167018654
+Jaycie -marus),United States,1996,Gymnastics,0,1,0.108186649,0,0.070310503,0.167018654
+Jaycie -marus),United States,1996,Gymnastics,5,1,0.108186649,0.005186574,0.072126323,0.167018654
+Jaycie -marus),United States,1996,Gymnastics,0,1,0.108186649,0.018790411,0.076889026,0.167018654
+Jaycie -marus),United States,1996,Gymnastics,0,1,0.108186649,0.039899082,0.084279172,0.167018654
+Jaycie -marus),United States,1996,Gymnastics,0,1,0.108186649,0.06807568,0.094143799,0.167018654
+Jaycie -marus),United States,1996,Gymnastics,0,1,0.108186649,0.103030955,0.10638164,0.167018654
+Kerri (-fischer),United States,1996,Gymnastics,0,1,0.126701917,0.148916014,0.134479072,0.167018654
+Kerri (-fischer),United States,1996,Gymnastics,5,1,0.126701917,0.197405109,0.151455104,0.167018654
+Kerri (-fischer),United States,1996,Gymnastics,0,1,0.126701917,0.252000154,0.170568829,0.167018654
+Kerri (-fischer),United States,1996,Gymnastics,0,1,0.126701917,0.312562482,0.1917717,0.167018654
+Kerri (-fischer),United States,1996,Gymnastics,0,1,0.126701917,0.378972491,0.215021845,0.167018654
+Kerri (-fischer),United States,1996,Gymnastics,0,1,0.126701917,0.451125284,0.240282537,0.167018654
+Amy (-ho),United States,2000,Gymnastics,0,1,0.181344773,0.080317071,0.145974975,0.120756259
+Amy (-ho),United States,2000,Gymnastics,1,1,0.181344773,0.118497223,0.159341846,0.120756259
+Amy (-ho),United States,2000,Gymnastics,0,1,0.181344773,0.162820758,0.174859515,0.120756259
+Amy (-ho),United States,2000,Gymnastics,0,1,0.181344773,0.213004346,0.192428789,0.120756259
+Amy (-ho),United States,2000,Gymnastics,0,1,0.181344773,0.268819112,0.211969539,0.120756259
+Amy (-ho),United States,2000,Gymnastics,0,1,0.181344773,0.330074278,0.233414973,0.120756259
+Jamie Dantzscher,United States,2000,Gymnastics,0,1,0.025811648,0,0.01677499,0.120756259
+Jamie Dantzscher,United States,2000,Gymnastics,1,1,0.025811648,0.003751957,0.01808855,0.120756259
+Jamie Dantzscher,United States,2000,Gymnastics,0,1,0.025811648,0.014713533,0.021926198,0.120756259
+Jamie Dantzscher,United States,2000,Gymnastics,0,1,0.025811648,0.032724145,0.028231713,0.120756259
+Dominique (-thompson),United States,2000,Gymnastics,0,1,0.163122051,0.539560462,0.294913139,0.120756259
+Dominique (-thompson),United States,2000,Gymnastics,1,1,0.163122051,0.621754169,0.323689155,0.120756259
+Dominique (-thompson),United States,2000,Gymnastics,0,1,0.163122051,0.708976065,0.354225541,0.120756259
+Dominique (-thompson),United States,2000,Gymnastics,0,1,0.163122051,0.801141601,0.386492695,0.120756259
+Dominique (-thompson),United States,2000,Gymnastics,0,1,0.163122051,0.898173352,0.420463511,0.120756259
+Dominique (-thompson),United States,2000,Gymnastics,0,1,0.163122051,1,0.456113021,0.120756259
+Kristen Maloney,United States,2000,Gymnastics,0,1,0.025811648,0,0.01677499,0.120756259
+Kristen Maloney,United States,2000,Gymnastics,1,1,0.025811648,0.003751957,0.01808855,0.120756259
+Kristen Maloney,United States,2000,Gymnastics,0,1,0.025811648,0.014713533,0.021926198,0.120756259
+Kristen Maloney,United States,2000,Gymnastics,0,1,0.025811648,0.032724145,0.028231713,0.120756259
+Kristen Maloney,United States,2000,Gymnastics,0,1,0.025811648,0.057700039,0.036975773,0.120756259
+Kristen Maloney,United States,2000,Gymnastics,0,1,0.025811648,0.089583346,0.048138119,0.120756259
+Mary Ray,United States,2000,Gymnastics,0,1,0.025811648,0,0.01677499,0.120756259
+Mary Ray,United States,2000,Gymnastics,1,1,0.025811648,0.003751957,0.01808855,0.120756259
+Mary Ray,United States,2000,Gymnastics,0,1,0.025811648,0.014713533,0.021926198,0.120756259
+Mary Ray,United States,2000,Gymnastics,0,1,0.025811648,0.032724145,0.028231713,0.120756259
+Mary Ray,United States,2000,Gymnastics,0,1,0.025811648,0.057700039,0.036975773,0.120756259
+Mary Ray,United States,2000,Gymnastics,0,1,0.025811648,0.089583346,0.048138119,0.120756259
+Tasha Schwikert-warren,United States,2000,Gymnastics,0,1,0.025811648,0,0.01677499,0.120756259
+Tasha Schwikert-warren,United States,2000,Gymnastics,1,1,0.025811648,0.003751957,0.01808855,0.120756259
+Tasha Schwikert-warren,United States,2000,Gymnastics,0,1,0.025811648,0.014713533,0.021926198,0.120756259
+Tasha Schwikert-warren,United States,2000,Gymnastics,0,1,0.025811648,0.032724145,0.028231713,0.120756259

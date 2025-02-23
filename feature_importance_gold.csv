@@ -1,0 +1,157 @@
+Feature,Importance
+isHost,0.012352396
+Avg_X_Gold,0.14677551
+Avg_X_Total,0.07517839
+AthletesCount,0.016421096
+Diving,0.0013428958
+Marathon Swimming,0.0055115283
+Swimming,0.0075510773
+Water Polo,0.0
+Archery,0.0035219355
+Athletics,0.0020073042
+Badminton,0.00051129004
+Baseball,0.0016484456
+Softball,0.0024658123
+3x3,0.000562516
+Basketball,0.00831176
+Basque Pelota,0.0027346127
+Boxing,0.0022601304
+Breaking,0.0025894567
+Sprint,0.0009850716
+Slalom,0.0011636551
+Cricket,0.0
+Croquet,0.0
+BMX Freestyle,0.0
+BMX Racing,0.0
+Mountain Bike,0.0
+Road,0.0
+Track,0.0017503129
+Dressage,0.0012591007
+Eventing,0.0
+Jumping,0.0007130893
+Vaulting,0.0
+Driving,0.0
+Fencing,0.00040610333
+Field hockey,0.00032124354
+Flag football,0.0
+Football,0.0012646639
+Golf,0.0012051796
+Artistic,0.0023575253
+Rhythmic,0.0
+Trampoline,0.0
+Indoor,0.0
+Field,0.0010800377
+Jeu de Paume,0.0
+Judo,0.0038018061
+Karate,0.0021772762
+Sixes,0.0
+Field.1,0.11998948
+Modern Pentathlon,0.0039304676
+Polo,0.0007881018
+Rackets,0.0
+Roque,0.0018865007
+Coastal,0.0
+Rowing,0.0
+Sevens,0.0016396367
+Union,0.0
+Sailing,0.013659128
+Shooting,0.0036263424
+Skateboarding,0.0
+Sport Climbing,0.0
+Squash,0.0
+Surfing,0.0
+Table Tennis,0.0
+Taekwondo,0.006537467
+Tennis,0.007503746
+Triathlon,0.0
+Tug of War,0.0
+Beach,0.0
+Indoor.1,0.0015465415
+Water Motorsports,0.0
+Weightlifting,0.0021233584
+Freestyle,0.0012706787
+Greco-Roman,0.0016508708
+Total events,0.001963037
+Total disciplines,0.0031783232
+Total sports,0.0017557259
+Total_Sports_Events,0.008126347
+Host_Country,0.09109968
+NM_Basketball,0.0053800046
+NM_Judo,0.00458903
+NM_Football,0.0054497276
+NM_Tug-Of-War,0.0
+NM_Athletics,0.0040539717
+NM_Swimming,0.007774736
+NM_Badminton,0.007853263
+NM_Sailing,0.0045327777
+NM_Gymnastics,0.008279176
+NM_Art Competitions,0.026608901
+NM_Handball,0.0028718952
+NM_Weightlifting,0.0099411765
+NM_Wrestling,0.03628121
+NM_Water Polo,0.0047949213
+NM_Hockey,0.000936928
+NM_Rowing,0.009386133
+NM_Fencing,0.0018505232
+NM_Equestrianism,0.005491775
+NM_Shooting,0.008443575
+NM_Boxing,0.030800713
+NM_Taekwondo,0.0020486973
+NM_Cycling,0.009587586
+NM_Diving,0.023076613
+NM_Canoeing,0.0052079796
+NM_Tennis,0.0030991253
+NM_Modern Pentathlon,0.007258622
+NM_Golf,0.042388067
+NM_Softball,0.0014831994
+NM_Archery,0.005289669
+NM_Volleyball,0.0022522889
+NM_Synchronized Swimming,0.0051867203
+NM_Table Tennis,0.0038544412
+NM_Baseball,0.0031344208
+NM_Rhythmic Gymnastics,0.0009883298
+NM_Rugby Sevens,0.0010661484
+NM_Trampolining,0.011215809
+NM_Beach Volleyball,0.00260065
+NM_Triathlon,0.00088580186
+NM_Rugby,0.0
+NM_Lacrosse,0.0
+NM_Polo,0.0040318277
+NM_Cricket,0.0
+NM_Ice Hockey,0.0
+NM_Racquets,0.0
+NM_Motorboating,0.0
+NM_Croquet,0.0
+NM_Figure Skating,0.07100884
+NM_Jeu De Paume,0.0
+NM_Roque,0.0
+NM_Basque Pelota,0.0
+NM_Alpinism,0.0
+NM_Aeronautics,0.0
+NM_Cycling Road,0.00066060247
+NM_Artistic Gymnastics,0.0012695767
+NM_Karate,0.00063583395
+NM_Baseball/Softball,0.0
+NM_Trampoline Gymnastics,0.0
+NM_Marathon Swimming,0.0
+NM_Canoe Slalom,0.00084306306
+NM_Surfing,0.00046645605
+NM_Canoe Sprint,0.0016566047
+NM_Cycling BMX Racing,0.00091744936
+NM_Equestrian,0.0014798924
+NM_Artistic Swimming,0.0027653405
+NM_Cycling Track,0.001620337
+NM_Skateboarding,0.00820301
+NM_Cycling Mountain Bike,0.0
+NM_3x3 Basketball,0.0
+NM_Cycling BMX Freestyle,0.0
+NM_Sport Climbing,0.00036768397
+"NM_Marathon Swimming, Swimming",0.0
+NM_Breaking,0.0
+"NM_Cycling Road, Cycling Track",0.0
+"NM_Cycling Road, Cycling Mountain Bike",0.0
+"NM_Cycling Road, Triathlon",0.0
+"NM_3x3 Basketball, Basketball",0.0
+Year_Standardized,0.0018756064
+NOC,0.0026103635
+Year_Standardized,0.0011362481

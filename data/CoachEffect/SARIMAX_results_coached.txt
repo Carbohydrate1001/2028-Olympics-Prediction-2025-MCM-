@@ -1,0 +1,25 @@
+SARIMA Model Summary:
+                               SARIMAX Results                                
+==============================================================================
+Dep. Variable:      Score_Change_sqrt   No. Observations:                    7
+Model:                        SARIMAX   Log Likelihood                 -14.651
+Date:                Mon, 27 Jan 2025   AIC                             31.302
+Time:                        18:14:59   BIC                             31.247
+Sample:                             0   HQIC                            30.633
+                                  - 7                                         
+Covariance Type:                  opg                                         
+==============================================================================
+                 coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------
+sigma2         3.8499      6.509      0.592      0.554      -8.907      16.607
+===================================================================================
+Ljung-Box (L1) (Q):                   0.33   Jarque-Bera (JB):                 4.89
+Prob(Q):                              0.57   Prob(JB):                         0.09
+Heteroskedasticity (H):               0.75   Skew:                            -1.84
+Prob(H) (two-sided):                  0.86   Kurtosis:                         4.79
+===================================================================================
+
+Warnings:
+[1] Covariance matrix calculated using the outer product of gradients (complex-step).
+
+Ljung-Box Test Results:

@@ -1,0 +1,134 @@
+Name,Country,Year,Sport,Medal,isCoached,Scoring,ExperienceScoring,alpha,beta,Scoring_Exponential,ExperienceScoring_Exponential,CombinedScore
+Jeanne (-reeves),United States,1984,Volleyball,Silver,0,3,0.5,1.333333333,1.666666667,0.231120425,0,0.144034249
+Carolyn Becker,United States,1984,Volleyball,Silver,0,3,0.5,1.333333333,1.666666667,0.231120425,0,0.144034249
+Linda Chisholm,United States,1984,Volleyball,Silver,0,3,0.5,1.333333333,1.666666667,0.231120425,0,0.144034249
+Rita (-buck),United States,1984,Volleyball,Silver,0,3,0.5,1.333333333,1.666666667,0.231120425,0,0.144034249
+Laura (-corbelli),United States,1984,Volleyball,Silver,0,3,0.5,1.333333333,1.666666667,0.231120425,0,0.144034249
+Deborah (-vargas),United States,1984,Volleyball,Silver,0,3,0.5,1.333333333,1.666666667,0.231120425,0,0.144034249
+Flora Hyman,United States,1984,Volleyball,Silver,0,3,0.5,1.333333333,1.666666667,0.231120425,0,0.144034249
+Rose (-powell),United States,1984,Volleyball,Silver,0,3,0.5,1.333333333,1.666666667,0.231120425,0,0.144034249
+Kimberly Ruddins,United States,1984,Volleyball,Silver,0,3,0.5,1.333333333,1.666666667,0.231120425,0,0.144034249
+Julie (-melli),United States,1984,Volleyball,Silver,0,3,0.5,1.333333333,1.666666667,0.231120425,0,0.144034249
+Paula (-hanold),United States,1984,Volleyball,Silver,0,3,0.5,1.333333333,1.666666667,0.231120425,0,0.144034249
+Susan Woodstra,United States,1984,Volleyball,Silver,0,3,0.5,1.333333333,1.666666667,0.231120425,0,0.144034249
+Deitre (-parker),United States,1988,Volleyball,No medal,0,0,0.5,1,2,0,0,0
+Caren Kemner,United States,1988,Volleyball,No medal,0,0,0.5,1,2,0,0,0
+Laurel Kessel,United States,1988,Volleyball,No medal,0,0,0.5,1,2,0,0,0
+Elizabeth Masakayan,United States,1988,Volleyball,No medal,0,0,0.5,1,2,0,0,0
+Jayne (gibson-),United States,1988,Volleyball,No medal,0,0,0.5,1,2,0,0,0
+Melissa (-kleespies),United States,1988,Volleyball,No medal,0,0,0.5,1,2,0,0,0
+Kimberley Oden,United States,1988,Volleyball,No medal,0,0,0.5,1,2,0,0,0
+Prikeba Phipps,United States,1988,Volleyball,No medal,0,0,0.5,1,2,0,0,0
+Angela Rock,United States,1988,Volleyball,No medal,0,0,0.5,1,2,0,0,0
+Kimberly Ruddins,United States,1988,Volleyball,No medal,0,3,1,1.333333333,1.666666667,0.231120425,0.099212566,0.181417543
+Liane Sato,United States,1988,Volleyball,No medal,0,0,0.5,1,2,0,0,0
+Tammy Webb-liley,United States,1988,Volleyball,No medal,0,0,0.5,1,2,0,0,0
+Janet (-mulholland),United States,1992,Volleyball,Bronze,0,1,0.5,1.111111111,1.888888889,0.087042337,0,0.054244785
+Tara Cross-battle,United States,1992,Volleyball,Bronze,0,1,0.5,1.111111111,1.888888889,0.087042337,0,0.054244785
+Lori (-vandersnick),United States,1992,Volleyball,Bronze,0,1,0.5,1.111111111,1.888888889,0.087042337,0,0.054244785
+Caren Kemner,United States,1992,Volleyball,Bronze,0,1,1,1.111111111,1.888888889,0.087042337,0.072908065,0.081716544
+Ruth (-kenan),United States,1992,Volleyball,Bronze,0,1,0.5,1.111111111,1.888888889,0.087042337,0,0.054244785
+Elaina Oden,United States,1992,Volleyball,Bronze,0,1,0.5,1.111111111,1.888888889,0.087042337,0,0.054244785
+Kimberley Oden,United States,1992,Volleyball,Bronze,0,1,1,1.111111111,1.888888889,0.087042337,0.072908065,0.081716544
+Tonya (-slacanin),United States,1992,Volleyball,Bronze,0,1,0.5,1.111111111,1.888888889,0.087042337,0,0.054244785
+Liane Sato,United States,1992,Volleyball,Bronze,0,1,1,1.111111111,1.888888889,0.087042337,0.072908065,0.081716544
+Tammy Webb-liley,United States,1992,Volleyball,Bronze,0,1,1,1.111111111,1.888888889,0.087042337,0.072908065,0.081716544
+Paula (-hanold),United States,1992,Volleyball,Bronze,0,4,1,1.444444444,1.555555556,0.309950198,0.115734339,0.236769662
+Yoko -hiroshi),United States,1992,Volleyball,Bronze,0,1,0.5,1.111111111,1.888888889,0.087042337,0,0.054244785
+Tara Cross-battle,United States,1996,Volleyball,No medal,0,1,1,1.111111111,1.888888889,0.087042337,0.072908065,0.081716544
+Lori (-vandersnick),United States,1996,Volleyball,No medal,0,1,1,1.111111111,1.888888889,0.087042337,0.072908065,0.081716544
+Caren Kemner,United States,1996,Volleyball,No medal,0,1,1.5,1.111111111,1.888888889,0.087042337,0.270014935,0.155986412
+Kristin Klein,United States,1996,Volleyball,No medal,0,0,0.5,1,2,0,0,0
+Beverly Oden,United States,1996,Volleyball,No medal,0,0,0.5,1,2,0,0,0
+Elaina Oden,United States,1996,Volleyball,No medal,0,1,1,1.111111111,1.888888889,0.087042337,0.072908065,0.081716544
+Tonya (-slacanin),United States,1996,Volleyball,No medal,0,1,1,1.111111111,1.888888889,0.087042337,0.072908065,0.081716544
+Danielle Scott-arruda,United States,1996,Volleyball,No medal,0,0,0.5,1,2,0,0,0
+Tammy Webb-liley,United States,1996,Volleyball,No medal,0,1,1.5,1.111111111,1.888888889,0.087042337,0.270014935,0.155986412
+Paula (-hanold),United States,1996,Volleyball,No medal,0,1,1.5,1.111111111,1.888888889,0.087042337,0.270014935,0.155986412
+Elaine Youngs,United States,1996,Volleyball,No medal,0,0,0.5,1,2,0,0,0
+Yoko -hiroshi),United States,1996,Volleyball,No medal,0,1,1,1.111111111,1.888888889,0.087042337,0.072908065,0.081716544
+Robyn Mow-santos,United States,2000,Volleyball,No medal,0,0,0.5,1,2,0,0,0
+Heather Bown,United States,2000,Volleyball,No medal,0,0,0.5,1,2,0,0,0
+Tara Cross-battle,United States,2000,Volleyball,No medal,0,1,1.5,1.111111111,1.888888889,0.087042337,0.270014935,0.155986412
+Mickisha Hurley,United States,2000,Volleyball,No medal,0,0,0.5,1,2,0,0,0
+Sarah Noriega,United States,2000,Volleyball,No medal,0,0,0.5,1,2,0,0,0
+Demetria Sance,United States,2000,Volleyball,No medal,0,0,0.5,1,2,0,0,0
+Danielle Scott-arruda,United States,2000,Volleyball,No medal,0,0,1,1,2,0,0.0625,0.02355
+Stacy Sykora,United States,2000,Volleyball,No medal,0,0,0.5,1,2,0,0,0
+Charlene Tagaloa,United States,2000,Volleyball,No medal,0,0,0.5,1,2,0,0,0
+Logan Tom,United States,2000,Volleyball,No medal,0,0,0.5,1,2,0,0,0
+Kerri Jennings,United States,2000,Volleyball,No medal,0,0,0.5,1,2,0,0,0
+Allison Weston,United States,2000,Volleyball,No medal,0,0,0.5,1,2,0,0,0
+Robyn Mow-santos,United States,2004,Volleyball,No medal,0,0,1,1,2,0,0.0625,0.02355
+Elisabeth (-mccutcheon),United States,2004,Volleyball,No medal,0,0,0.5,1,2,0,0,0
+Lindsey Berg,United States,2004,Volleyball,No medal,0,0,0.5,1,2,0,0,0
+Heather Bown,United States,2004,Volleyball,No medal,0,0,1,1,2,0,0.0625,0.02355
+Tara Cross-battle,United States,2004,Volleyball,No medal,0,0,2,1,2,0,0.5625,0.21195
+Tayyiba Haneef-park,United States,2004,Volleyball,No medal,0,0,0.5,1,2,0,0,0
+Nancy (meendering-),United States,2004,Volleyball,No medal,0,0,0.5,1,2,0,0,0
+Ogonna Nnamani,United States,2004,Volleyball,No medal,0,0,0.5,1,2,0,0,0
+Prikeba Phipps,United States,2004,Volleyball,No medal,0,0,1,1,2,0,0.0625,0.02355
+Danielle Scott-arruda,United States,2004,Volleyball,No medal,0,0,1.5,1,2,0,0.25,0.0942
+Stacy Sykora,United States,2004,Volleyball,No medal,0,0,1,1,2,0,0.0625,0.02355
+Logan Tom,United States,2004,Volleyball,No medal,0,0,1,1,2,0,0.0625,0.02355
+Robyn Mow-santos,United States,2008,Volleyball,Silver,1,3,1.5,1.333333333,1.666666667,0.231120425,0.314980262,0.262718812
+Lindsey Berg,United States,2008,Volleyball,Silver,1,3,1,1.333333333,1.666666667,0.231120425,0.099212566,0.181417543
+Heather Bown,United States,2008,Volleyball,Silver,1,3,1.5,1.333333333,1.666666667,0.231120425,0.314980262,0.262718812
+Nicole Davis,United States,2008,Volleyball,Silver,1,3,0.5,1.333333333,1.666666667,0.231120425,0,0.144034249
+Kimberly Glass,United States,2008,Volleyball,Silver,1,3,0.5,1.333333333,1.666666667,0.231120425,0,0.144034249
+Tayyiba Haneef-park,United States,2008,Volleyball,Silver,1,3,1,1.333333333,1.666666667,0.231120425,0.099212566,0.181417543
+Jennifer (-tamas),United States,2008,Volleyball,Silver,1,3,0.5,1.333333333,1.666666667,0.231120425,0,0.144034249
+Ogonna Nnamani,United States,2008,Volleyball,Silver,1,3,1,1.333333333,1.666666667,0.231120425,0.099212566,0.181417543
+Danielle Scott-arruda,United States,2008,Volleyball,Silver,1,3,2,1.333333333,1.666666667,0.231120425,0.619111359,0.377315409
+Stacy Sykora,United States,2008,Volleyball,Silver,1,3,1.5,1.333333333,1.666666667,0.231120425,0.314980262,0.262718812
+Logan Tom,United States,2008,Volleyball,Silver,1,3,1.5,1.333333333,1.666666667,0.231120425,0.314980262,0.262718812
+Kim Willoughby,United States,2008,Volleyball,Silver,1,3,0.5,1.333333333,1.666666667,0.231120425,0,0.144034249
+Foluke Akinradewo,United States,2012,Volleyball,Silver,0,3,0.5,1.333333333,1.666666667,0.231120425,0,0.144034249
+Lindsey Berg,United States,2012,Volleyball,Silver,0,6,1.5,1.666666667,1.333333333,0.508761886,0.396850263,0.466593586
+Nicole Davis,United States,2012,Volleyball,Silver,0,6,1,1.666666667,1.333333333,0.508761886,0.157490131,0.376402689
+Tayyiba Haneef-park,United States,2012,Volleyball,Silver,0,6,1.5,1.666666667,1.333333333,0.508761886,0.396850263,0.466593586
+Christa Harmotto-dietzen,United States,2012,Volleyball,Silver,0,3,0.5,1.333333333,1.666666667,0.231120425,0,0.144034249
+Megan Hodge,United States,2012,Volleyball,Silver,0,3,0.5,1.333333333,1.666666667,0.231120425,0,0.144034249
+Destinee Hooker,United States,2012,Volleyball,Silver,0,3,0.5,1.333333333,1.666666667,0.231120425,0,0.144034249
+Jordan Larson-burbach,United States,2012,Volleyball,Silver,0,3,0.5,1.333333333,1.666666667,0.231120425,0,0.144034249
+Tamari Miyashiro,United States,2012,Volleyball,Silver,0,3,0.5,1.333333333,1.666666667,0.231120425,0,0.144034249
+Danielle Scott-arruda,United States,2012,Volleyball,Silver,0,6,2.5,1.666666667,1.333333333,0.508761886,1,0.693860407
+Courtney Thompson,United States,2012,Volleyball,Silver,0,3,0.5,1.333333333,1.666666667,0.231120425,0,0.144034249
+Logan Tom,United States,2012,Volleyball,Silver,0,6,2,1.666666667,1.333333333,0.508761886,0.681420222,0.573819547
+Rachael Adams,United States,2016,Volleyball,Bronze,0,1,0.5,1.111111111,1.888888889,0.087042337,0,0.054244785
+Foluke Akinradewo,United States,2016,Volleyball,Bronze,0,4,1,1.444444444,1.555555556,0.309950198,0.115734339,0.236769662
+Kayla Banwarth,United States,2016,Volleyball,Bronze,0,1,0.5,1.111111111,1.888888889,0.087042337,0,0.054244785
+Alisha Glass,United States,2016,Volleyball,Bronze,0,1,0.5,1.111111111,1.888888889,0.087042337,0,0.054244785
+Christa Harmotto-dietzen,United States,2016,Volleyball,Bronze,0,4,1,1.444444444,1.555555556,0.309950198,0.115734339,0.236769662
+Kimberly Hill,United States,2016,Volleyball,Bronze,0,1,0.5,1.111111111,1.888888889,0.087042337,0,0.054244785
+Jordan Larson-burbach,United States,2016,Volleyball,Bronze,0,4,1,1.444444444,1.555555556,0.309950198,0.115734339,0.236769662
+Carli Lloyd,United States,2016,Volleyball,Bronze,0,1,0.5,1.111111111,1.888888889,0.087042337,0,0.054244785
+Karsta Lowe,United States,2016,Volleyball,Bronze,0,1,0.5,1.111111111,1.888888889,0.087042337,0,0.054244785
+Kelly Murphy,United States,2016,Volleyball,Bronze,0,1,0.5,1.111111111,1.888888889,0.087042337,0,0.054244785
+Kelsey Robinson,United States,2016,Volleyball,Bronze,0,1,0.5,1.111111111,1.888888889,0.087042337,0,0.054244785
+Courtney Thompson,United States,2016,Volleyball,Bronze,0,4,1,1.444444444,1.555555556,0.309950198,0.115734339,0.236769662
+Foluke Akinradewo,United States,2020,Volleyball,Gold,0,9,1.5,2,1,1,0.5,0.8116
+Michelle Bartsch-hackley,United States,2020,Volleyball,Gold,0,5,0.5,1.555555556,1.444444444,0.400783134,0,0.249768049
+Andrea Drews,United States,2020,Volleyball,Gold,0,5,0.5,1.555555556,1.444444444,0.400783134,0,0.249768049
+Micha Hancock,United States,2020,Volleyball,Gold,0,5,0.5,1.555555556,1.444444444,0.400783134,0,0.249768049
+Kimberly Hill,United States,2020,Volleyball,Gold,0,6,1,1.666666667,1.333333333,0.508761886,0.157490131,0.376402689
+Jordan Larson,United States,2020,Volleyball,Gold,0,5,0.5,1.555555556,1.444444444,0.400783134,0,0.249768049
+Chiaka Ogbogu,United States,2020,Volleyball,Gold,0,5,0.5,1.555555556,1.444444444,0.400783134,0,0.249768049
+Jordyn Poulter,United States,2020,Volleyball,Gold,0,5,0.5,1.555555556,1.444444444,0.400783134,0,0.249768049
+Kelsey Robinson,United States,2020,Volleyball,Gold,0,6,1,1.666666667,1.333333333,0.508761886,0.157490131,0.376402689
+Jordan Thompson,United States,2020,Volleyball,Gold,0,5,0.5,1.555555556,1.444444444,0.400783134,0,0.249768049
+Haleigh Washington,United States,2020,Volleyball,Gold,0,5,0.5,1.555555556,1.444444444,0.400783134,0,0.249768049
+Justine Wong-orantes,United States,2020,Volleyball,Gold,0,5,0.5,1.555555556,1.444444444,0.400783134,0,0.249768049
+Lauren Carlini,United States,2024,Volleyball,Silver,0,3,0.5,1.333333333,1.666666667,0.231120425,0,0.144034249
+Andrea Drews,United States,2024,Volleyball,Silver,0,8,1,1.888888889,1.111111111,0.800531764,0.214310996,0.579643778
+Micha Hancock,United States,2024,Volleyball,Silver,0,8,1,1.888888889,1.111111111,0.800531764,0.214310996,0.579643778
+Jordan Larson,United States,2024,Volleyball,Silver,0,8,1,1.888888889,1.111111111,0.800531764,0.214310996,0.579643778
+Chiaka Ogbogu,United States,2024,Volleyball,Silver,0,8,1,1.888888889,1.111111111,0.800531764,0.214310996,0.579643778
+Kathryn Plummer,United States,2024,Volleyball,Silver,0,3,0.5,1.333333333,1.666666667,0.231120425,0,0.144034249
+Jordyn Poulter,United States,2024,Volleyball,Silver,0,8,1,1.888888889,1.111111111,0.800531764,0.214310996,0.579643778
+Dana Rettke,United States,2024,Volleyball,Silver,0,3,0.5,1.333333333,1.666666667,0.231120425,0,0.144034249
+Kelsey Robinson,United States,2024,Volleyball,Silver,0,9,1.5,2,1,1,0.5,0.8116
+Avery Skinner,United States,2024,Volleyball,Silver,0,3,0.5,1.333333333,1.666666667,0.231120425,0,0.144034249
+Jordan Thompson,United States,2024,Volleyball,Silver,0,8,1,1.888888889,1.111111111,0.800531764,0.214310996,0.579643778
+Haleigh Washington,United States,2024,Volleyball,Silver,0,8,1,1.888888889,1.111111111,0.800531764,0.214310996,0.579643778
+Justine Wong-orantes,United States,2024,Volleyball,Silver,0,8,1,1.888888889,1.111111111,0.800531764,0.214310996,0.579643778

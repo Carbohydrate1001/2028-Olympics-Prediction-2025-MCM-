@@ -1,0 +1,128 @@
+Name,NOC,Year,Sport,Medal,isCoached,Scoring,ExperienceScoring,Scoring_Exponential,ExperienceScoring_Exponential,alpha,beta,CombinedScore
+Hou Yuzhu,CHN,1984,Volleyball,Gold,0,5,0.5,0.465913214,0,1.625,1.375,0.302796998
+Jiang Ying,CHN,1984,Volleyball,Gold,0,5,0.5,0.465913214,0,1.625,1.375,0.302796998
+Lang Ping,CHN,1984,Volleyball,Gold,0,5,0.5,0.465913214,0,1.625,1.375,0.302796998
+Li Yanjun,CHN,1984,Volleyball,Gold,0,5,0.5,0.465913214,0,1.625,1.375,0.302796998
+Liang Yan,CHN,1984,Volleyball,Gold,0,5,0.5,0.465913214,0,1.625,1.375,0.302796998
+Yang Xiaojun,CHN,1984,Volleyball,Gold,0,5,0.5,0.465913214,0,1.625,1.375,0.302796998
+Yang Xilan,CHN,1984,Volleyball,Gold,0,5,0.5,0.465913214,0,1.625,1.375,0.302796998
+Zhang Rongfang,CHN,1984,Volleyball,Gold,0,5,0.5,0.465913214,0,1.625,1.375,0.302796998
+Zheng Meizhu,CHN,1984,Volleyball,Gold,0,5,0.5,0.465913214,0,1.625,1.375,0.302796998
+Zhu Ling,CHN,1984,Volleyball,Gold,0,5,0.5,0.465913214,0,1.625,1.375,0.302796998
+Cui Yongmei,CHN,1988,Volleyball,Bronze,0,1,0.5,0.096388177,0,1.125,1.875,0.062642676
+Hou Yuzhu,CHN,1988,Volleyball,Bronze,0,6,1,0.604445587,0.420448208,1.75,1.25,0.540028104
+Jiang Ying,CHN,1988,Volleyball,Bronze,0,6,1,0.604445587,0.420448208,1.75,1.25,0.540028104
+Li Guojun,CHN,1988,Volleyball,Bronze,0,1,0.5,0.096388177,0,1.125,1.875,0.062642676
+Li Yueming,CHN,1988,Volleyball,Bronze,0,1,0.5,0.096388177,0,1.125,1.875,0.062642676
+Su Huijuan,CHN,1988,Volleyball,Bronze,0,1,0.5,0.096388177,0,1.125,1.875,0.062642676
+Wang Yajun,CHN,1988,Volleyball,Bronze,0,1,0.5,0.096388177,0,1.125,1.875,0.062642676
+Wu Dan,CHN,1988,Volleyball,Bronze,0,1,0.5,0.096388177,0,1.125,1.875,0.062642676
+Yang Xiaojun,CHN,1988,Volleyball,Bronze,0,6,1,0.604445587,0.420448208,1.75,1.25,0.540028104
+Yang Xilan,CHN,1988,Volleyball,Bronze,0,6,1,0.604445587,0.420448208,1.75,1.25,0.540028104
+Zheng Meizhu,CHN,1988,Volleyball,Bronze,0,6,1,0.604445587,0.420448208,1.75,1.25,0.540028104
+Chen Fengqin,CHN,1992,Volleyball,No medal,0,0,0.5,0,0,1,2,0
+Gao Lin,CHN,1992,Volleyball,No medal,0,0,0.5,0,0,1,2,0
+Lai Yawen,CHN,1992,Volleyball,No medal,0,0,0.5,0,0,1,2,0
+Li Guojun,CHN,1992,Volleyball,No medal,0,1,1,0.096388177,0.272626933,1.125,1.875,0.158089365
+Li Yueming,CHN,1992,Volleyball,No medal,0,1,1,0.096388177,0.272626933,1.125,1.875,0.158089365
+Ma Fang,CHN,1992,Volleyball,No medal,0,0,0.5,0,0,1,2,0
+Su Huijuan,CHN,1992,Volleyball,No medal,0,1,1,0.096388177,0.272626933,1.125,1.875,0.158089365
+Su Liqun,CHN,1992,Volleyball,No medal,0,0,0.5,0,0,1,2,0
+Sun Yue,CHN,1992,Volleyball,No medal,0,0,0.5,0,0,1,2,0
+Wang Yi,CHN,1992,Volleyball,No medal,0,0,0.5,0,0,1,2,0
+Wu Dan,CHN,1992,Volleyball,No medal,0,1,1,0.096388177,0.272626933,1.125,1.875,0.158089365
+Zhou Hong,CHN,1992,Volleyball,No medal,0,0,0.5,0,0,1,2,0
+Cui Yongmei,CHN,1996,Volleyball,Silver,1,4,1,0.353553391,0.353553391,1.5,1.5,0.353553391
+He Qi,CHN,1996,Volleyball,Silver,1,3,0.5,0.259593009,0,1.375,1.625,0.168709497
+Lai Yawen,CHN,1996,Volleyball,Silver,1,3,1,0.259593009,0.324209889,1.375,1.625,0.282215379
+Li Yan,CHN,1996,Volleyball,Silver,1,3,0.5,0.259593009,0,1.375,1.625,0.168709497
+Sun Yue,CHN,1996,Volleyball,Silver,1,3,1,0.259593009,0.324209889,1.375,1.625,0.282215379
+Wang Lina,CHN,1996,Volleyball,Silver,1,3,0.5,0.259593009,0,1.375,1.625,0.168709497
+Wang Yi,CHN,1996,Volleyball,Silver,1,3,1,0.259593009,0.324209889,1.375,1.625,0.282215379
+Wang Ziling,CHN,1996,Volleyball,Silver,1,3,0.5,0.259593009,0,1.375,1.625,0.168709497
+Wu Yongmei,CHN,1996,Volleyball,Silver,1,3,0.5,0.259593009,0,1.375,1.625,0.168709497
+Chen Jing,CHN,2000,Volleyball,No medal,0,0,0.5,0,0,1,2,0
+Gui Chaoran,CHN,2000,Volleyball,No medal,0,0,0.5,0,0,1,2,0
+He Qi,CHN,2000,Volleyball,No medal,0,3,1,0.259593009,0.324209889,1.375,1.625,0.282215379
+Li Shan,CHN,2000,Volleyball,No medal,0,0,0.5,0,0,1,2,0
+Li Yan,CHN,2000,Volleyball,No medal,0,3,1,0.259593009,0.324209889,1.375,1.625,0.282215379
+Qiu Aihua,CHN,2000,Volleyball,No medal,0,0,0.5,0,0,1,2,0
+Sun Yue,CHN,2000,Volleyball,No medal,0,3,1.5,0.259593009,1,1.375,1.625,0.518809497
+Wang Lina,CHN,2000,Volleyball,No medal,0,3,1,0.259593009,0.324209889,1.375,1.625,0.282215379
+Wu Dan,CHN,2000,Volleyball,No medal,0,0,1.5,0,1,1,2,0.3501
+Wu Yongmei,CHN,2000,Volleyball,No medal,0,3,1,0.259593009,0.324209889,1.375,1.625,0.282215379
+Yin Yin,CHN,2000,Volleyball,No medal,0,0,0.5,0,0,1,2,0
+Zhu Yunying,CHN,2000,Volleyball,No medal,0,0,0.5,0,0,1,2,0
+Chen Jing,CHN,2004,Volleyball,Gold,0,5,1,0.465913214,0.385552706,1.625,1.375,0.437779
+Feng Kun,CHN,2004,Volleyball,Gold,0,5,0.5,0.465913214,0,1.625,1.375,0.302796998
+Li Shan,CHN,2004,Volleyball,Gold,0,5,1,0.465913214,0.385552706,1.625,1.375,0.437779
+Liu Yanan,CHN,2004,Volleyball,Gold,0,5,0.5,0.465913214,0,1.625,1.375,0.302796998
+Song Nina,CHN,2004,Volleyball,Gold,0,5,0.5,0.465913214,0,1.625,1.375,0.302796998
+Wang Lina,CHN,2004,Volleyball,Gold,0,8,1.5,1,1,2,1,1
+Yang Hao,CHN,2004,Volleyball,Gold,0,5,0.5,0.465913214,0,1.625,1.375,0.302796998
+Zhang Na,CHN,2004,Volleyball,Gold,0,5,0.5,0.465913214,0,1.625,1.375,0.302796998
+Zhang Ping,CHN,2004,Volleyball,Gold,0,5,0.5,0.465913214,0,1.625,1.375,0.302796998
+Zhang Yuehong,CHN,2004,Volleyball,Gold,0,5,0.5,0.465913214,0,1.625,1.375,0.302796998
+Zhao Ruirui,CHN,2004,Volleyball,Gold,0,5,0.5,0.465913214,0,1.625,1.375,0.302796998
+Zhou Suhong,CHN,2004,Volleyball,Gold,0,5,0.5,0.465913214,0,1.625,1.375,0.302796998
+Feng Kun,CHN,2008,Volleyball,Bronze,0,6,1,0.604445587,0.420448208,1.75,1.25,0.540028104
+Li Juan,CHN,2008,Volleyball,Bronze,0,1,0.5,0.096388177,0,1.125,1.875,0.062642676
+Liu Yanan,CHN,2008,Volleyball,Bronze,0,6,1,0.604445587,0.420448208,1.75,1.25,0.540028104
+Ma Yunwen,CHN,2008,Volleyball,Bronze,0,1,0.5,0.096388177,0,1.125,1.875,0.062642676
+Wang Yimei,CHN,2008,Volleyball,Bronze,0,1,0.5,0.096388177,0,1.125,1.875,0.062642676
+Wei Qiuyue,CHN,2008,Volleyball,Bronze,0,1,0.5,0.096388177,0,1.125,1.875,0.062642676
+Xu Yunli,CHN,2008,Volleyball,Bronze,0,1,0.5,0.096388177,0,1.125,1.875,0.062642676
+Xue Ming,CHN,2008,Volleyball,Bronze,0,1,0.5,0.096388177,0,1.125,1.875,0.062642676
+Yang Hao,CHN,2008,Volleyball,Bronze,0,6,1,0.604445587,0.420448208,1.75,1.25,0.540028104
+Zhang Na,CHN,2008,Volleyball,Bronze,0,6,1,0.604445587,0.420448208,1.75,1.25,0.540028104
+Zhao Ruirui,CHN,2008,Volleyball,Bronze,0,6,1,0.604445587,0.420448208,1.75,1.25,0.540028104
+Zhou Suhong,CHN,2008,Volleyball,Bronze,0,6,1,0.604445587,0.420448208,1.75,1.25,0.540028104
+Chu Jinling,CHN,2012,Volleyball,No medal,0,0,0.5,0,0,1,2,0
+Hui Ruoqi,CHN,2012,Volleyball,No medal,0,0,0.5,0,0,1,2,0
+Ma Yunwen,CHN,2012,Volleyball,No medal,0,1,1,0.096388177,0.272626933,1.125,1.875,0.158089365
+Mi Yang,CHN,2012,Volleyball,No medal,0,0,0.5,0,0,1,2,0
+Shan Danna,CHN,2012,Volleyball,No medal,0,0,0.5,0,0,1,2,0
+Wang Yimei,CHN,2012,Volleyball,No medal,0,1,1,0.096388177,0.272626933,1.125,1.875,0.158089365
+Wei Qiuyue,CHN,2012,Volleyball,No medal,0,1,1,0.096388177,0.272626933,1.125,1.875,0.158089365
+Xu Yunli,CHN,2012,Volleyball,No medal,0,1,1,0.096388177,0.272626933,1.125,1.875,0.158089365
+Yang Junjing,CHN,2012,Volleyball,No medal,0,0,0.5,0,0,1,2,0
+Zeng Chunlei,CHN,2012,Volleyball,No medal,0,0,0.5,0,0,1,2,0
+Zhang Lei,CHN,2012,Volleyball,No medal,0,0,0.5,0,0,1,2,0
+Zhang Xian,CHN,2012,Volleyball,No medal,0,0,0.5,0,0,1,2,0
+Ding Xia,CHN,2016,Volleyball,Gold,1,5,0.5,0.465913214,0,1.625,1.375,0.302796998
+Gong Xiangyu,CHN,2016,Volleyball,Gold,1,5,0.5,0.465913214,0,1.625,1.375,0.302796998
+Hui Ruoqi,CHN,2016,Volleyball,Gold,1,5,1,0.465913214,0.385552706,1.625,1.375,0.437779
+Lin Li,CHN,2016,Volleyball,Gold,1,5,0.5,0.465913214,0,1.625,1.375,0.302796998
+Liu Xiaotong,CHN,2016,Volleyball,Gold,1,5,0.5,0.465913214,0,1.625,1.375,0.302796998
+Wei Qiuyue,CHN,2016,Volleyball,Gold,1,6,1.5,0.604445587,1,1.75,1.25,0.742929187
+Xu Yunli,CHN,2016,Volleyball,Gold,1,6,1.5,0.604445587,1,1.75,1.25,0.742929187
+Yan Ni,CHN,2016,Volleyball,Gold,1,5,0.5,0.465913214,0,1.625,1.375,0.302796998
+Yang Fangxu,CHN,2016,Volleyball,Gold,1,5,0.5,0.465913214,0,1.625,1.375,0.302796998
+Yuan Xinyue,CHN,2016,Volleyball,Gold,1,5,0.5,0.465913214,0,1.625,1.375,0.302796998
+Zhang Changning,CHN,2016,Volleyball,Gold,1,5,0.5,0.465913214,0,1.625,1.375,0.302796998
+Zhu Ting,CHN,2016,Volleyball,Gold,1,5,0.5,0.465913214,0,1.625,1.375,0.302796998
+Xia Ding,CHN,2020,Volleyball,No medal,1,0,0.5,0,0,1,2,0
+Xiangyu Gong,CHN,2020,Volleyball,No medal,1,0,0.5,0,0,1,2,0
+Yingying Li,CHN,2020,Volleyball,No medal,1,0,0.5,0,0,1,2,0
+Xiaotong Liu,CHN,2020,Volleyball,No medal,1,0,0.5,0,0,1,2,0
+Yanhan Liu,CHN,2020,Volleyball,No medal,1,0,0.5,0,0,1,2,0
+Mengjie Wang,CHN,2020,Volleyball,No medal,1,0,0.5,0,0,1,2,0
+Yuanyuan Wang,CHN,2020,Volleyball,No medal,1,0,0.5,0,0,1,2,0
+Ni Yan,CHN,2020,Volleyball,No medal,1,0,0.5,0,0,1,2,0
+Di Yao,CHN,2020,Volleyball,No medal,1,0,0.5,0,0,1,2,0
+Xinyue Yuan,CHN,2020,Volleyball,No medal,1,0,0.5,0,0,1,2,0
+Changning Zhang,CHN,2020,Volleyball,No medal,1,0,0.5,0,0,1,2,0
+Ting Zhu,CHN,2020,Volleyball,No medal,1,0,0.5,0,0,1,2,0
+Linyu Diao,CHN,2024,Volleyball,No medal,0,0,0.5,0,0,1,2,0
+Xia Ding,CHN,2024,Volleyball,No medal,0,0,1,0,0.25,1,2,0.087525
+Yi Gao,CHN,2024,Volleyball,No medal,0,0,0.5,0,0,1,2,0
+Xiangyu Gong,CHN,2024,Volleyball,No medal,0,0,1,0,0.25,1,2,0.087525
+Yingying Li,CHN,2024,Volleyball,No medal,0,0,1,0,0.25,1,2,0.087525
+Mengjie Wang,CHN,2024,Volleyball,No medal,0,0,1,0,0.25,1,2,0.087525
+Mengjie Wu,CHN,2024,Volleyball,No medal,0,0,0.5,0,0,1,2,0
+Xinyue Yuan,CHN,2024,Volleyball,No medal,0,0,1,0,0.25,1,2,0.087525
+Changning Zhang,CHN,2024,Volleyball,No medal,0,0,1,0,0.25,1,2,0.087525
+Yushan Zhuang,CHN,2024,Volleyball,No medal,0,0,0.5,0,0,1,2,0
+Yuanyuan Wang,CHN,2024,Volleyball,No medal,0,0,1,0,0.25,1,2,0.087525
+Yixin Zheng,CHN,2024,Volleyball,No medal,0,0,0.5,0,0,1,2,0
+Ting Zhu,CHN,2024,Volleyball,No medal,0,0,1,0,0.25,1,2,0.087525

@@ -1,0 +1,98 @@
+Country,Sport,Event,Original_Prediction
+France,Basketball,Women,1.4334691252073628
+France,Basketball,Men,1.4334691252073628
+France,Judo,Women -63 kg,2.349283169383905
+France,Judo,Mixed Team,1.9116419531140902
+France,Judo,Women -48 kg,2.4460548647106553
+France,Judo,Women -52 kg,2.349283169383905
+France,Judo,Men -73 kg,1.4672072827024016
+France,Judo,Men -90 kg,1.4334691252073628
+France,Judo,Women -57 kg,2.349283169383905
+France,Judo,Women +78 kg,2.4073461865799555
+France,Judo,Men -100 kg,1.4447151777057097
+France,Judo,Men -66 kg,1.4334691252073628
+France,Judo,Women -78 kg,2.349283169383905
+France,Judo,Men -60 kg,2.4073461865799555
+France,Judo,Women -70 kg,1.4447151777057097
+France,Judo,Men +100 kg,2.349283169383905
+France,Judo,Men -81 kg,1.4447151777057097
+France,Volleyball,Women,1.4334691252073628
+France,Volleyball,Men,1.4334691252073628
+Great Britain,Artistic Gymnastics,Men's All-Around,1.7496982631010285
+Great Britain,Artistic Gymnastics,Men's Floor Exercise,1.8116291562351914
+Great Britain,Artistic Gymnastics,Men's Pommel Horse,1.8116291562351914
+Great Britain,Artistic Gymnastics,Men's Rings,1.8297408651416274
+Great Britain,Artistic Gymnastics,Men's Vault,1.8116291562351914
+Great Britain,Artistic Gymnastics,Men's Parallel Bars,1.8116291562351914
+Great Britain,Artistic Gymnastics,Men's Horizontal Bar,1.8116291562351914
+Great Britain,Artistic Gymnastics,Men's Team,1.8116291562351914
+Great Britain,Artistic Gymnastics,Women's All-Around,1.7496982631010285
+Great Britain,Artistic Gymnastics,Women's Vault,1.62452154294748
+Great Britain,Artistic Gymnastics,Women's Uneven Bars,1.62452154294748
+Great Britain,Artistic Gymnastics,Women's Balance Beam,1.62452154294748
+Great Britain,Artistic Gymnastics,Women's Floor Exercise,1.62452154294748
+Great Britain,Artistic Gymnastics,Women's Team,1.62452154294748
+Great Britain,Artistic Gymnastics,Women,1.4447151777057097
+Great Britain,Artistic Gymnastics,Men,1.4334691252073628
+Great Britain,Cycling Track,Women's Omnium,1.4334691252073628
+Great Britain,Cycling Track,Women's Madison,1.7496982631010285
+Great Britain,Cycling Track,Men's Sprint,1.7496982631010285
+Great Britain,Cycling Track,Men's Keirin,1.754347867991259
+Great Britain,Cycling Track,Men's Omnium,1.9292039875175764
+Great Britain,Cycling Track,Women's Sprint,1.7845702998126396
+Great Britain,Cycling Track,Women's Keirin,1.7496982631010285
+Great Britain,Cycling Track,Women's Team Pursuit,1.4334691252073628
+Great Britain,Cycling Track,Men's Team Pursuit,1.4334691252073628
+Great Britain,Cycling Track,Women's Team Sprint,1.4334691252073628
+Great Britain,Cycling Track,Men's Team Sprint,1.4334691252073628
+Great Britain,Cycling Track,Men's Madison,1.4334691252073628
+Great Britain,Equestrian,Jumping Team,2.129575293775092
+Great Britain,Equestrian,Jumping Individual,2.349283169383905
+Great Britain,Equestrian,Eventing Team,2.151234378054591
+Great Britain,Equestrian,Eventing Individual,1.9802046401186386
+Great Britain,Equestrian,Dressage Team,1.9190038569912464
+Great Britain,Equestrian,Dressage Individual,2.071621188649468
+Japan,Artistic Gymnastics,Women's All-Around,1.436280638331949
+Japan,Artistic Gymnastics,Women's Vault,1.4334691252073628
+Japan,Artistic Gymnastics,Women's Uneven Bars,1.4334691252073628
+Japan,Artistic Gymnastics,Women's Balance Beam,1.4334691252073628
+Japan,Artistic Gymnastics,Women's Floor Exercise,1.4334691252073628
+Japan,Artistic Gymnastics,Men's All-Around,1.9067637003657678
+Japan,Artistic Gymnastics,Men's Floor Exercise,2.014930745618687
+Japan,Artistic Gymnastics,Men's Pommel Horse,1.9947919650705006
+Japan,Artistic Gymnastics,Men's Rings,1.9980141699582092
+Japan,Artistic Gymnastics,Men's Vault,1.9947919650705006
+Japan,Artistic Gymnastics,Men's Parallel Bars,1.9947919650705006
+Japan,Artistic Gymnastics,Men's Horizontal Bar,1.9947919650705006
+Japan,Artistic Gymnastics,Men's Team,2.0109029895090487
+Japan,Artistic Gymnastics,Women's Team,1.4672072827024016
+Japan,Artistic Gymnastics,Women,1.4334691252073628
+Japan,Artistic Gymnastics,Men,1.4334691252073628
+Japan,Judo,Men -66 kg,2.349283169383905
+Japan,Judo,Mixed Team,1.8425761013119226
+Japan,Judo,Women -52 kg,2.4073461865799555
+Japan,Judo,Women -70 kg,1.489699387699095
+Japan,Judo,Women -78 kg,1.489699387699095
+Japan,Judo,Men +100 kg,1.489699387699095
+Japan,Judo,Men -90 kg,1.4334691252073628
+Japan,Judo,Men -81 kg,2.349283169383905
+Japan,Judo,Men -73 kg,1.489699387699095
+Japan,Judo,Women +78 kg,2.4460548647106553
+Japan,Judo,Men -60 kg,1.489699387699095
+Japan,Judo,Women -63 kg,1.489699387699095
+Japan,Judo,Women -48 kg,1.4334691252073628
+Japan,Judo,Men -100 kg,2.4073461865799555
+Japan,Judo,Women -57 kg,1.489699387699095
+Japan,Wrestling,Women's Freestyle 68kg,1.4447151777057097
+Japan,Wrestling,Men's Greco-Roman 60kg,2.349283169383905
+Japan,Wrestling,Women's Freestyle 57kg,1.4672072827024016
+Japan,Wrestling,Women's Freestyle 62kg,1.489699387699095
+Japan,Wrestling,Women's Freestyle 76kg,1.489699387699095
+Japan,Wrestling,Women's Freestyle 53kg,1.4334691252073628
+Japan,Wrestling,Men's Freestyle 74kg,1.489699387699095
+Japan,Wrestling,Men's Freestyle 65kg,1.4334691252073628
+Japan,Wrestling,Women's Freestyle 50kg,2.4460548647106553
+Japan,Wrestling,Men's Freestyle 57kg,1.489699387699095
+Japan,Wrestling,Men's Freestyle 86kg,1.4334691252073628
+Japan,Wrestling,Men's Greco-Roman 77kg,1.4334691252073628
+Japan,Wrestling,Men's Greco-Roman 67kg,1.4447151777057097

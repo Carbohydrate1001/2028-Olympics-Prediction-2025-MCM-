@@ -1,0 +1,36 @@
+VIF for each variable:
+            Variable       VIF
+0              const  1.820522
+1          isCoached  1.022561
+2  ExperienceScoring  1.120254
+3  Lag_Scoring_Last4  1.144087
+
+Regression Results:
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:           Score_Change   R-squared:                       0.114
+Model:                            OLS   Adj. R-squared:                  0.101
+Method:                 Least Squares   F-statistic:                     7.274
+Date:                Mon, 27 Jan 2025   Prob (F-statistic):           1.37e-05
+Time:                        14:04:54   Log-Likelihood:                -623.35
+No. Observations:                 290   AIC:                             1257.
+Df Residuals:                     285   BIC:                             1275.
+Df Model:                           4                                         
+Covariance Type:                  HC3                                         
+===============================================================================================
+                                  coef    std err          z      P>|z|      [0.025      0.975]
+-----------------------------------------------------------------------------------------------
+Intercept                       1.5675      0.160      9.807      0.000       1.254       1.881
+isCoached                       1.5252      0.536      2.844      0.004       0.474       2.576
+ExperienceScoring              -0.6199      0.318     -1.950      0.051      -1.243       0.003
+isCoached:ExperienceScoring     0.6643      0.596      1.115      0.265      -0.504       1.832
+Lag_Scoring_Last4               0.0826      0.134      0.615      0.539      -0.181       0.346
+==============================================================================
+Omnibus:                      151.401   Durbin-Watson:                   0.837
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             1546.793
+Skew:                           1.878   Prob(JB):                         0.00
+Kurtosis:                      13.673   Cond. No.                         9.98
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)

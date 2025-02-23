@@ -1,0 +1,4218 @@
+NOC,country,Sport,gold_count,total_medals,athlete_count
+AFG,Afghanistan,Athletics,0,26,16
+AFG,Afghanistan,Boxing,0,5,5
+AFG,Afghanistan,Cycling Road,0,3,2
+AFG,Afghanistan,Football,0,11,10
+AFG,Afghanistan,Hockey,0,39,31
+AFG,Afghanistan,Judo,0,4,4
+AFG,Afghanistan,Shooting,0,1,1
+AFG,Afghanistan,Swimming,0,2,1
+AFG,Afghanistan,Taekwondo,0,5,3
+AFG,Afghanistan,Wrestling,0,42,35
+AHO,Netherlands,Athletics,0,14,11
+AHO,Netherlands,Equestrianism,0,2,1
+AHO,Netherlands,Fencing,0,4,3
+AHO,Netherlands,Football,0,11,11
+AHO,Netherlands,Judo,0,3,3
+AHO,Netherlands,Sailing,0,6,5
+AHO,Netherlands,Shooting,0,7,4
+AHO,Netherlands,Swimming,0,11,5
+AHO,Netherlands,Synchronized Swimming,0,4,2
+AHO,Netherlands,Triathlon,0,1,1
+AHO,Netherlands,Weightlifting,0,11,7
+AIN,Russia,Canoe Sprint,0,6,5
+AIN,Russia,Cycling Road,0,7,4
+AIN,Russia,Rowing,0,2,2
+AIN,Russia,Shooting,0,2,2
+AIN,Russia,Swimming,0,7,4
+AIN,Russia,Taekwondo,0,1,1
+AIN,Russia,Tennis,0,14,7
+AIN,Russia,Trampoline Gymnastics,1,3,3
+AIN,Russia,Weightlifting,0,2,2
+AIN,Russia,Wrestling,0,2,2
+ALB,Albania,Artistic Gymnastics,0,1,1
+ALB,Albania,Athletics,0,16,10
+ALB,Albania,Cycling,0,1,1
+ALB,Albania,Judo,0,3,3
+ALB,Albania,Shooting,0,20,11
+ALB,Albania,Swimming,0,15,9
+ALB,Albania,Weightlifting,0,19,13
+ALB,Albania,Wrestling,0,7,6
+ALG,Algeria,Artistic Gymnastics,1,6,1
+ALG,Algeria,Athletics,4,152,98
+ALG,Algeria,Badminton,0,3,3
+ALG,Algeria,Boxing,2,82,59
+ALG,Algeria,Canoe Slalom,0,2,1
+ALG,Algeria,Canoe Sprint,0,2,1
+ALG,Algeria,Cycling,0,6,6
+ALG,Algeria,Cycling Road,0,5,4
+ALG,Algeria,Fencing,0,33,20
+ALG,Algeria,Football,0,32,32
+ALG,Algeria,Gymnastics,0,24,4
+ALG,Algeria,Handball,0,59,45
+ALG,Algeria,Judo,0,57,36
+ALG,Algeria,Karate,0,1,1
+ALG,Algeria,Marathon Swimming,0,1,1
+ALG,Algeria,Rowing,0,14,11
+ALG,Algeria,Sailing,0,6,5
+ALG,Algeria,Shooting,0,6,5
+ALG,Algeria,Swimming,0,44,19
+ALG,Algeria,Table Tennis,0,13,11
+ALG,Algeria,Taekwondo,0,1,1
+ALG,Algeria,Tennis,0,2,2
+ALG,Algeria,Trampolining,0,1,1
+ALG,Algeria,Volleyball,0,31,26
+ALG,Algeria,Weightlifting,0,21,11
+ALG,Algeria,Wrestling,0,35,28
+AND,Andorra,Athletics,0,15,9
+AND,Andorra,Boxing,0,1,1
+AND,Andorra,Canoe Slalom,0,5,1
+AND,Andorra,Canoeing,0,1,1
+AND,Andorra,Cycling,0,5,3
+AND,Andorra,Judo,0,6,4
+AND,Andorra,Sailing,0,5,3
+AND,Andorra,Shooting,0,12,7
+AND,Andorra,Swimming,0,10,7
+ANG,Angola,Athletics,0,31,19
+ANG,Angola,Basketball,0,71,46
+ANG,Angola,Beach Volleyball,0,2,2
+ANG,Angola,Boxing,0,7,7
+ANG,Angola,Canoe Sprint,0,3,2
+ANG,Angola,Canoeing,0,6,2
+ANG,Angola,Handball,0,113,61
+ANG,Angola,Judo,0,16,13
+ANG,Angola,Rowing,0,3,3
+ANG,Angola,Sailing,0,11,9
+ANG,Angola,Shooting,0,3,2
+ANG,Angola,Swimming,0,47,23
+ANT,Antigua and Barbuda,Athletics,0,100,42
+ANT,Antigua and Barbuda,Boxing,0,3,3
+ANT,Antigua and Barbuda,Canoeing,0,3,3
+ANT,Antigua and Barbuda,Cycling,0,17,10
+ANT,Antigua and Barbuda,Sailing,0,11,10
+ANT,Antigua and Barbuda,Swimming,0,10,9
+ANZ,Australasia,Athletics,0,22,14
+ANZ,Australasia,Boxing,0,1,1
+ANZ,Australasia,Diving,0,1,1
+ANZ,Australasia,Rowing,0,10,10
+ANZ,Australasia,Rugby,15,15,15
+ANZ,Australasia,Shooting,0,3,1
+ANZ,Australasia,Swimming,5,33,13
+ANZ,Australasia,Tennis,0,1,1
+ARG,Argentina,Archery,0,3,3
+ARG,Argentina,Art Competitions,0,2,1
+ARG,Argentina,Artistic Gymnastics,0,5,1
+ARG,Argentina,Athletics,2,258,149
+ARG,Argentina,Basketball,12,100,71
+ARG,Argentina,Beach Volleyball,0,18,10
+ARG,Argentina,Boxing,7,138,127
+ARG,Argentina,Canoe Slalom,0,1,1
+ARG,Argentina,Canoe Sprint,0,6,3
+ARG,Argentina,Canoeing,0,49,29
+ARG,Argentina,Cycling,2,179,99
+ARG,Argentina,Cycling BMX Freestyle,1,1,1
+ARG,Argentina,Cycling BMX Racing,0,3,3
+ARG,Argentina,Cycling Mountain Bike,0,1,1
+ARG,Argentina,Cycling Road,0,2,1
+ARG,Argentina,Diving,0,9,4
+ARG,Argentina,Equestrian,0,9,5
+ARG,Argentina,Equestrianism,0,156,67
+ARG,Argentina,Fencing,0,241,92
+ARG,Argentina,Figure Skating,0,1,1
+ARG,Argentina,Football,34,182,179
+ARG,Argentina,Golf,0,5,4
+ARG,Argentina,Gymnastics,0,133,20
+ARG,Argentina,Handball,0,75,60
+ARG,Argentina,Hockey,18,356,235
+ARG,Argentina,Judo,1,68,40
+ARG,Argentina,Marathon Swimming,0,1,1
+ARG,Argentina,Modern Pentathlon,0,20,12
+ARG,Argentina,Polo,9,9,9
+ARG,Argentina,Rowing,2,190,159
+ARG,Argentina,Rugby Sevens,0,40,31
+ARG,Argentina,Sailing,2,196,130
+ARG,Argentina,Shooting,0,132,72
+ARG,Argentina,Skateboarding,0,2,2
+ARG,Argentina,Surfing,0,1,1
+ARG,Argentina,Swimming,1,266,105
+ARG,Argentina,Synchronized Swimming,0,4,2
+ARG,Argentina,Table Tennis,0,17,8
+ARG,Argentina,Taekwondo,1,9,7
+ARG,Argentina,Tennis,0,115,52
+ARG,Argentina,Triathlon,0,8,6
+ARG,Argentina,Volleyball,0,131,92
+ARG,Argentina,Water Polo,0,28,23
+ARG,Argentina,Weightlifting,0,36,28
+ARG,Argentina,Wrestling,0,69,36
+ARM,Armenia,Artistic Gymnastics,0,6,2
+ARM,Armenia,Athletics,0,20,16
+ARM,Armenia,Boxing,0,22,19
+ARM,Armenia,Canoeing,0,2,1
+ARM,Armenia,Cycling,0,1,1
+ARM,Armenia,Diving,0,3,2
+ARM,Armenia,Gymnastics,0,20,4
+ARM,Armenia,Judo,0,9,5
+ARM,Armenia,Shooting,0,11,4
+ARM,Armenia,Swimming,0,13,9
+ARM,Armenia,Taekwondo,0,1,1
+ARM,Armenia,Tennis,0,3,1
+ARM,Armenia,Weightlifting,0,41,32
+ARM,Armenia,Wrestling,2,58,40
+ARU,Aruba,Athletics,0,9,7
+ARU,Aruba,Boxing,0,2,2
+ARU,Aruba,Cycling,0,3,2
+ARU,Aruba,Cycling BMX Racing,0,1,1
+ARU,Aruba,Fencing,0,2,1
+ARU,Aruba,Judo,0,5,4
+ARU,Aruba,Sailing,0,6,6
+ARU,Aruba,Shooting,0,2,2
+ARU,Aruba,Swimming,0,15,8
+ARU,Aruba,Synchronized Swimming,0,4,2
+ARU,Aruba,Taekwondo,0,1,1
+ARU,Aruba,Weightlifting,0,3,2
+ASA,American Samoa,Archery,0,1,1
+ASA,American Samoa,Athletics,0,13,10
+ASA,American Samoa,Boxing,0,5,2
+ASA,American Samoa,Judo,0,3,3
+ASA,American Samoa,Sailing,0,4,4
+ASA,American Samoa,Swimming,0,7,6
+ASA,American Samoa,Weightlifting,0,8,7
+ASA,American Samoa,Wrestling,0,2,2
+AUS,Australia,3x3 Basketball,0,4,4
+AUS,Australia,"3x3 Basketball, Basketball",0,1,1
+AUS,Australia,Archery,1,86,33
+AUS,Australia,Art Competitions,0,3,2
+AUS,Australia,Artistic Gymnastics,0,52,8
+AUS,Australia,Artistic Swimming,0,21,16
+AUS,Australia,Athletics,25,1149,590
+AUS,Australia,Badminton,0,65,38
+AUS,Australia,Baseball,0,68,59
+AUS,Australia,Baseball/Softball,0,15,15
+AUS,Australia,Basketball,0,309,181
+AUS,Australia,Beach Volleyball,2,46,29
+AUS,Australia,Boxing,0,142,128
+AUS,Australia,Breaking,0,2,2
+AUS,Australia,Canoe Slalom,4,12,6
+AUS,Australia,Canoe Sprint,2,38,22
+AUS,Australia,Canoeing,6,242,127
+AUS,Australia,Cycling,26,428,212
+AUS,Australia,Cycling BMX Freestyle,1,4,2
+AUS,Australia,Cycling BMX Racing,1,6,4
+AUS,Australia,Cycling Mountain Bike,0,3,3
+AUS,Australia,Cycling Road,1,19,14
+AUS,Australia,Cycling Track,5,69,22
+AUS,Australia,Diving,3,170,75
+AUS,Australia,Equestrian,0,40,16
+AUS,Australia,Equestrianism,18,231,73
+AUS,Australia,Fencing,0,147,67
+AUS,Australia,Football,0,224,194
+AUS,Australia,Golf,0,12,9
+AUS,Australia,Gymnastics,0,513,71
+AUS,Australia,Handball,0,30,30
+AUS,Australia,Hockey,64,452,284
+AUS,Australia,Judo,0,93,73
+AUS,Australia,Karate,0,1,1
+AUS,Australia,Marathon Swimming,0,5,5
+AUS,Australia,"Marathon Swimming, Swimming",0,2,1
+AUS,Australia,Modern Pentathlon,1,56,26
+AUS,Australia,Rhythmic Gymnastics,0,19,18
+AUS,Australia,Rowing,30,587,393
+AUS,Australia,Rugby Sevens,12,76,58
+AUS,Australia,Sailing,26,235,158
+AUS,Australia,Shooting,5,287,125
+AUS,Australia,Skateboarding,3,14,11
+AUS,Australia,Softball,0,60,33
+AUS,Australia,Sport Climbing,0,4,3
+AUS,Australia,Surfing,0,8,8
+AUS,Australia,Swimming,155,1430,446
+AUS,Australia,Synchronized Swimming,0,57,35
+AUS,Australia,Table Tennis,0,96,33
+AUS,Australia,Taekwondo,1,29,21
+AUS,Australia,Tennis,4,125,54
+AUS,Australia,Trampoline Gymnastics,0,3,3
+AUS,Australia,Trampolining,0,6,5
+AUS,Australia,Triathlon,1,45,28
+AUS,Australia,Volleyball,0,48,44
+AUS,Australia,Water Polo,13,301,188
+AUS,Australia,Weightlifting,1,86,68
+AUS,Australia,Wrestling,0,103,75
+AUT,Austria,Archery,0,5,5
+AUT,Austria,Art Competitions,3,199,108
+AUT,Austria,Artistic Gymnastics,0,11,2
+AUT,Austria,Artistic Swimming,0,4,3
+AUT,Austria,Athletics,1,341,194
+AUT,Austria,Badminton,0,11,8
+AUT,Austria,Beach Volleyball,0,22,12
+AUT,Austria,Boxing,0,37,34
+AUT,Austria,Canoe Slalom,0,9,4
+AUT,Austria,Canoe Sprint,0,4,2
+AUT,Austria,Canoeing,4,120,65
+AUT,Austria,Cycling,1,214,95
+AUT,Austria,Cycling Mountain Bike,0,5,3
+AUT,Austria,Cycling Road,1,12,7
+AUT,Austria,Cycling Track,0,8,6
+AUT,Austria,Diving,0,76,36
+AUT,Austria,Equestrian,0,25,11
+AUT,Austria,Equestrianism,1,110,46
+AUT,Austria,Fencing,1,215,93
+AUT,Austria,Football,0,50,50
+AUT,Austria,Golf,0,8,7
+AUT,Austria,Gymnastics,2,365,44
+AUT,Austria,Handball,0,66,61
+AUT,Austria,Hockey,0,55,49
+AUT,Austria,Judo,2,71,47
+AUT,Austria,Karate,0,1,1
+AUT,Austria,Marathon Swimming,0,1,1
+AUT,Austria,"Marathon Swimming, Swimming",0,4,1
+AUT,Austria,Modern Pentathlon,0,38,21
+AUT,Austria,Rhythmic Gymnastics,0,6,5
+AUT,Austria,Rowing,0,138,104
+AUT,Austria,Sailing,8,142,88
+AUT,Austria,Shooting,1,195,76
+AUT,Austria,Skateboarding,0,1,1
+AUT,Austria,Sport Climbing,0,4,2
+AUT,Austria,Swimming,2,234,100
+AUT,Austria,Synchronized Swimming,0,14,9
+AUT,Austria,Table Tennis,0,66,17
+AUT,Austria,Taekwondo,0,4,3
+AUT,Austria,Tennis,0,43,22
+AUT,Austria,Trampoline Gymnastics,0,1,1
+AUT,Austria,Triathlon,1,25,14
+AUT,Austria,Tug-Of-War,0,8,8
+AUT,Austria,Water Polo,0,28,27
+AUT,Austria,Weightlifting,4,84,59
+AUT,Austria,Wrestling,1,95,67
+AZE,Azerbaijan,3x3 Basketball,0,4,4
+AZE,Azerbaijan,Archery,0,2,2
+AZE,Azerbaijan,Artistic Gymnastics,0,12,2
+AZE,Azerbaijan,Athletics,0,24,20
+AZE,Azerbaijan,Badminton,0,3,2
+AZE,Azerbaijan,Boxing,0,47,38
+AZE,Azerbaijan,Canoeing,0,7,5
+AZE,Azerbaijan,Cycling,0,6,4
+AZE,Azerbaijan,Cycling Road,0,1,1
+AZE,Azerbaijan,Diving,0,2,1
+AZE,Azerbaijan,Equestrianism,0,2,1
+AZE,Azerbaijan,Fencing,0,6,4
+AZE,Azerbaijan,Gymnastics,0,18,3
+AZE,Azerbaijan,Judo,3,47,35
+AZE,Azerbaijan,Karate,0,3,3
+AZE,Azerbaijan,Rhythmic Gymnastics,0,23,17
+AZE,Azerbaijan,Rowing,0,5,4
+AZE,Azerbaijan,Shooting,1,19,5
+AZE,Azerbaijan,Swimming,0,15,12
+AZE,Azerbaijan,Taekwondo,1,12,10
+AZE,Azerbaijan,Trampoline Gymnastics,0,1,1
+AZE,Azerbaijan,Triathlon,0,3,1
+AZE,Azerbaijan,Weightlifting,0,21,13
+AZE,Azerbaijan,Wrestling,4,86,61
+BAH,Bahamas,Athletics,14,288,121
+BAH,Bahamas,Boxing,0,7,6
+BAH,Bahamas,Cycling,0,2,2
+BAH,Bahamas,Diving,0,1,1
+BAH,Bahamas,Rowing,0,1,1
+BAH,Bahamas,Sailing,2,54,27
+BAH,Bahamas,Swimming,0,49,20
+BAH,Bahamas,Tennis,0,13,4
+BAH,Bahamas,Wrestling,0,2,2
+BAN,Bangladesh,Archery,0,7,5
+BAN,Bangladesh,Athletics,0,30,18
+BAN,Bangladesh,Golf,0,1,1
+BAN,Bangladesh,Gymnastics,0,3,1
+BAN,Bangladesh,Shooting,0,10,9
+BAN,Bangladesh,Swimming,0,17,14
+BAR,Barbados,Athletics,0,117,63
+BAR,Barbados,Boxing,0,9,8
+BAR,Barbados,Cycling,0,24,12
+BAR,Barbados,Diving,0,1,1
+BAR,Barbados,Gymnastics,0,7,1
+BAR,Barbados,Judo,0,5,4
+BAR,Barbados,Sailing,0,15,12
+BAR,Barbados,Shooting,0,8,3
+BAR,Barbados,Swimming,0,40,14
+BAR,Barbados,Synchronized Swimming,0,1,1
+BAR,Barbados,Tennis,0,1,1
+BAR,Barbados,Triathlon,0,2,2
+BAR,Barbados,Weightlifting,0,2,1
+BDI,Burundi,Athletics,1,39,23
+BDI,Burundi,Boxing,0,1,1
+BDI,Burundi,Judo,0,3,3
+BDI,Burundi,Swimming,0,11,8
+BEL,Belgium,3x3 Basketball,0,4,4
+BEL,Belgium,Archery,35,82,31
+BEL,Belgium,Art Competitions,2,171,86
+BEL,Belgium,Artistic Gymnastics,1,46,7
+BEL,Belgium,Athletics,6,622,336
+BEL,Belgium,Badminton,0,9,5
+BEL,Belgium,Basketball,0,58,51
+BEL,Belgium,Beach Volleyball,0,2,2
+BEL,Belgium,Boxing,1,60,60
+BEL,Belgium,Canoe Slalom,0,1,1
+BEL,Belgium,Canoe Sprint,0,10,3
+BEL,Belgium,Canoeing,0,96,58
+BEL,Belgium,Cycling,13,340,219
+BEL,Belgium,Cycling BMX Racing,0,5,5
+BEL,Belgium,Cycling Mountain Bike,0,5,4
+BEL,Belgium,Cycling Road,2,20,11
+BEL,Belgium,"Cycling Road, Cycling Track",0,3,1
+BEL,Belgium,Cycling Track,0,25,14
+BEL,Belgium,Diving,0,12,8
+BEL,Belgium,Equestrian,0,41,17
+BEL,Belgium,Equestrianism,7,206,85
+BEL,Belgium,Fencing,10,345,127
+BEL,Belgium,Figure Skating,0,2,2
+BEL,Belgium,Football,14,67,58
+BEL,Belgium,Golf,0,9,6
+BEL,Belgium,Gymnastics,0,200,83
+BEL,Belgium,Hockey,18,284,200
+BEL,Belgium,Ice Hockey,0,7,7
+BEL,Belgium,Judo,2,63,32
+BEL,Belgium,Modern Pentathlon,0,15,13
+BEL,Belgium,Polo,0,4,4
+BEL,Belgium,Rhythmic Gymnastics,0,4,3
+BEL,Belgium,Rowing,0,185,139
+BEL,Belgium,Sailing,4,105,77
+BEL,Belgium,Shooting,1,218,79
+BEL,Belgium,Skateboarding,0,2,2
+BEL,Belgium,Sport Climbing,0,1,1
+BEL,Belgium,Swimming,1,291,118
+BEL,Belgium,Synchronized Swimming,0,5,2
+BEL,Belgium,Table Tennis,0,16,5
+BEL,Belgium,Taekwondo,0,6,5
+BEL,Belgium,Tennis,1,89,34
+BEL,Belgium,Triathlon,0,23,13
+BEL,Belgium,Tug-Of-War,0,8,8
+BEL,Belgium,Volleyball,0,12,12
+BEL,Belgium,Water Polo,0,100,63
+BEL,Belgium,Weightlifting,1,49,36
+BEL,Belgium,Wrestling,0,113,80
+BEN,Benin,Athletics,0,47,29
+BEN,Benin,Boxing,0,13,12
+BEN,Benin,Cycling,0,2,2
+BEN,Benin,Fencing,0,1,1
+BEN,Benin,Judo,0,5,5
+BEN,Benin,Rowing,0,1,1
+BEN,Benin,Swimming,0,11,9
+BEN,Benin,Taekwondo,0,2,2
+BEN,Benin,Tennis,0,1,1
+BER,Bermuda,Athletics,0,63,30
+BER,Bermuda,Boxing,0,4,4
+BER,Bermuda,Cycling,0,4,4
+BER,Bermuda,Diving,0,4,3
+BER,Bermuda,Equestrianism,0,11,7
+BER,Bermuda,Rowing,0,4,3
+BER,Bermuda,Sailing,0,62,45
+BER,Bermuda,Swimming,0,53,24
+BER,Bermuda,Tennis,0,1,1
+BER,Bermuda,Triathlon,1,9,4
+BHU,Bhutan,Archery,0,36,21
+BHU,Bhutan,Athletics,0,1,1
+BHU,Bhutan,Judo,0,1,1
+BHU,Bhutan,Shooting,0,3,2
+BHU,Bhutan,Swimming,0,2,1
+BIH,Bosnia and Herzegovina,Athletics,0,24,16
+BIH,Bosnia and Herzegovina,Canoeing,0,3,3
+BIH,Bosnia and Herzegovina,Judo,0,10,7
+BIH,Bosnia and Herzegovina,Shooting,0,20,5
+BIH,Bosnia and Herzegovina,Swimming,0,21,12
+BIH,Bosnia and Herzegovina,Table Tennis,0,2,2
+BIH,Bosnia and Herzegovina,Taekwondo,0,2,2
+BIH,Bosnia and Herzegovina,Tennis,0,3,3
+BIH,Bosnia and Herzegovina,Weightlifting,0,1,1
+BIH,Bosnia and Herzegovina,Wrestling,0,1,1
+BIZ,Belize,Athletics,0,41,29
+BIZ,Belize,Boxing,0,1,1
+BIZ,Belize,Canoe Sprint,0,2,1
+BIZ,Belize,Cycling,0,27,17
+BIZ,Belize,Judo,0,2,2
+BIZ,Belize,Shooting,0,6,4
+BIZ,Belize,Taekwondo,0,1,1
+BIZ,Belize,Weightlifting,0,1,1
+BLR,Belarus,Archery,0,16,9
+BLR,Belarus,Artistic Gymnastics,0,5,1
+BLR,Belarus,Artistic Swimming,0,2,2
+BLR,Belarus,Athletics,4,277,174
+BLR,Belarus,Badminton,0,6,4
+BLR,Belarus,Basketball,0,22,17
+BLR,Belarus,Boxing,0,26,22
+BLR,Belarus,Canoe Sprint,0,18,12
+BLR,Belarus,Canoeing,6,60,26
+BLR,Belarus,Cycling,0,38,21
+BLR,Belarus,Cycling Road,0,3,2
+BLR,Belarus,Cycling Track,0,2,2
+BLR,Belarus,Diving,0,19,12
+BLR,Belarus,Equestrian,0,1,1
+BLR,Belarus,Equestrianism,0,6,4
+BLR,Belarus,Fencing,0,24,8
+BLR,Belarus,Football,0,16,16
+BLR,Belarus,Gymnastics,0,236,30
+BLR,Belarus,Judo,1,27,18
+BLR,Belarus,Modern Pentathlon,0,17,12
+BLR,Belarus,Rhythmic Gymnastics,0,54,46
+BLR,Belarus,Rowing,2,71,49
+BLR,Belarus,Sailing,0,21,16
+BLR,Belarus,Shooting,1,95,24
+BLR,Belarus,Swimming,0,111,41
+BLR,Belarus,Synchronized Swimming,0,8,7
+BLR,Belarus,Table Tennis,0,28,7
+BLR,Belarus,Tennis,2,35,12
+BLR,Belarus,Trampoline Gymnastics,1,2,2
+BLR,Belarus,Trampolining,1,12,7
+BLR,Belarus,Weightlifting,1,50,39
+BLR,Belarus,Wrestling,0,75,60
+BOH,Bohemia,Art Competitions,0,1,1
+BOH,Bohemia,Athletics,0,39,18
+BOH,Bohemia,Cycling,0,11,6
+BOH,Bohemia,Fencing,0,51,17
+BOH,Bohemia,Gymnastics,0,7,3
+BOH,Bohemia,Rowing,0,1,1
+BOH,Bohemia,Shooting,0,5,1
+BOH,Bohemia,Tennis,0,28,13
+BOH,Bohemia,Wrestling,0,10,8
+BOL,Bolivia,Art Competitions,0,1,1
+BOL,Bolivia,Athletics,0,43,30
+BOL,Bolivia,Boxing,0,1,1
+BOL,Bolivia,Canoeing,0,2,1
+BOL,Bolivia,Cycling,0,10,6
+BOL,Bolivia,Diving,0,2,1
+BOL,Bolivia,Equestrianism,0,3,1
+BOL,Bolivia,Fencing,0,4,3
+BOL,Bolivia,Gymnastics,0,5,1
+BOL,Bolivia,Judo,0,6,6
+BOL,Bolivia,Shooting,0,20,14
+BOL,Bolivia,Swimming,0,27,15
+BOL,Bolivia,Tennis,0,2,2
+BOL,Bolivia,Weightlifting,0,3,3
+BOL,Bolivia,Wrestling,0,1,1
+BOT,Botswana,Athletics,1,102,61
+BOT,Botswana,Boxing,0,12,11
+BOT,Botswana,Judo,0,1,1
+BOT,Botswana,Sailing,0,1,1
+BOT,Botswana,Swimming,0,8,7
+BOT,Botswana,Weightlifting,0,1,1
+BRA,Brazil,Archery,0,29,13
+BRA,Brazil,Art Competitions,0,1,1
+BRA,Brazil,Artistic Gymnastics,2,86,10
+BRA,Brazil,Athletics,5,642,326
+BRA,Brazil,Badminton,0,6,5
+BRA,Brazil,Basketball,0,267,161
+BRA,Brazil,Beach Volleyball,8,64,40
+BRA,Brazil,Boxing,2,97,82
+BRA,Brazil,Canoe Slalom,0,9,2
+BRA,Brazil,Canoe Sprint,1,12,6
+BRA,Brazil,Canoeing,0,49,26
+BRA,Brazil,Cycling,0,95,51
+BRA,Brazil,Cycling BMX Freestyle,0,1,1
+BRA,Brazil,Cycling BMX Racing,0,3,3
+BRA,Brazil,Cycling Mountain Bike,0,5,5
+BRA,Brazil,Cycling Road,0,2,2
+BRA,Brazil,Diving,0,51,23
+BRA,Brazil,Equestrian,0,34,13
+BRA,Brazil,Equestrianism,1,170,61
+BRA,Brazil,Fencing,0,99,45
+BRA,Brazil,Football,39,372,304
+BRA,Brazil,Golf,0,3,3
+BRA,Brazil,Gymnastics,1,201,27
+BRA,Brazil,Handball,0,192,129
+BRA,Brazil,Hockey,0,16,16
+BRA,Brazil,Judo,5,167,91
+BRA,Brazil,Marathon Swimming,1,3,2
+BRA,Brazil,"Marathon Swimming, Swimming",0,5,1
+BRA,Brazil,Modern Pentathlon,0,33,19
+BRA,Brazil,Rhythmic Gymnastics,0,37,32
+BRA,Brazil,Rowing,0,140,112
+BRA,Brazil,Rugby Sevens,0,52,42
+BRA,Brazil,Sailing,14,206,111
+BRA,Brazil,Shooting,1,127,65
+BRA,Brazil,Skateboarding,0,24,17
+BRA,Brazil,Surfing,1,10,8
+BRA,Brazil,Swimming,1,592,195
+BRA,Brazil,Synchronized Swimming,0,33,19
+BRA,Brazil,Table Tennis,0,78,21
+BRA,Brazil,Taekwondo,0,20,16
+BRA,Brazil,Tennis,0,61,27
+BRA,Brazil,Trampoline Gymnastics,0,2,2
+BRA,Brazil,Trampolining,0,1,1
+BRA,Brazil,Triathlon,0,27,15
+BRA,Brazil,Volleyball,60,335,192
+BRA,Brazil,Water Polo,0,96,88
+BRA,Brazil,Weightlifting,0,29,20
+BRA,Brazil,Wrestling,0,17,12
+BRN,Bahrain,Athletics,2,95,71
+BRN,Bahrain,Boxing,0,1,1
+BRN,Bahrain,Cycling,0,7,4
+BRN,Bahrain,Fencing,0,7,4
+BRN,Bahrain,Handball,0,16,15
+BRN,Bahrain,Judo,0,1,1
+BRN,Bahrain,Modern Pentathlon,0,12,5
+BRN,Bahrain,Sailing,0,5,5
+BRN,Bahrain,Shooting,0,10,9
+BRN,Bahrain,Swimming,0,16,15
+BRN,Bahrain,Weightlifting,0,2,2
+BRN,Bahrain,Wrestling,1,2,2
+BRU,Brunei,Athletics,0,8,8
+BRU,Brunei,Badminton,0,1,1
+BRU,Brunei,Shooting,0,2,1
+BRU,Brunei,Swimming,0,4,4
+BUL,Bulgaria,Archery,0,7,6
+BUL,Bulgaria,Art Competitions,0,5,4
+BUL,Bulgaria,Artistic Gymnastics,0,19,3
+BUL,Bulgaria,Athletics,5,317,185
+BUL,Bulgaria,Badminton,0,38,15
+BUL,Bulgaria,Basketball,0,85,63
+BUL,Bulgaria,Beach Volleyball,0,4,2
+BUL,Bulgaria,Boxing,5,107,82
+BUL,Bulgaria,Canoe Sprint,0,2,2
+BUL,Bulgaria,Canoeing,4,133,63
+BUL,Bulgaria,Cycling,0,81,51
+BUL,Bulgaria,Diving,0,5,4
+BUL,Bulgaria,Equestrianism,0,75,30
+BUL,Bulgaria,Fencing,0,47,23
+BUL,Bulgaria,Football,0,69,56
+BUL,Bulgaria,Gymnastics,2,974,108
+BUL,Bulgaria,Judo,0,32,21
+BUL,Bulgaria,Karate,1,1,1
+BUL,Bulgaria,Modern Pentathlon,0,29,15
+BUL,Bulgaria,Rhythmic Gymnastics,5,62,49
+BUL,Bulgaria,Rowing,5,178,122
+BUL,Bulgaria,Sailing,0,11,8
+BUL,Bulgaria,Shooting,4,151,52
+BUL,Bulgaria,Swimming,1,140,53
+BUL,Bulgaria,Synchronized Swimming,0,2,2
+BUL,Bulgaria,Table Tennis,0,4,3
+BUL,Bulgaria,Taekwondo,0,1,1
+BUL,Bulgaria,Tennis,0,17,7
+BUL,Bulgaria,Volleyball,0,106,84
+BUL,Bulgaria,Water Polo,0,22,21
+BUL,Bulgaria,Weightlifting,13,98,75
+BUL,Bulgaria,Wrestling,18,236,167
+BUR,Burkina Faso,Athletics,0,31,17
+BUR,Burkina Faso,Boxing,0,4,4
+BUR,Burkina Faso,Cycling Road,0,2,2
+BUR,Burkina Faso,Fencing,0,1,1
+BUR,Burkina Faso,Judo,0,8,7
+BUR,Burkina Faso,Swimming,0,11,10
+BUR,Burkina Faso,Taekwondo,0,3,2
+CAF,Central African Republic,Archery,0,1,1
+CAF,Central African Republic,Athletics,0,31,19
+CAF,Central African Republic,Basketball,0,12,12
+CAF,Central African Republic,Boxing,0,6,6
+CAF,Central African Republic,Cycling,0,7,4
+CAF,Central African Republic,Judo,0,5,5
+CAF,Central African Republic,Swimming,0,6,5
+CAF,Central African Republic,Taekwondo,0,4,3
+CAF,Central African Republic,Wrestling,0,1,1
+CAM,Cambodia,Athletics,0,19,15
+CAM,Cambodia,Boxing,0,5,5
+CAM,Cambodia,Cycling,0,8,6
+CAM,Cambodia,Equestrianism,0,2,2
+CAM,Cambodia,Judo,0,1,1
+CAM,Cambodia,Sailing,0,3,3
+CAM,Cambodia,Swimming,0,27,15
+CAM,Cambodia,Taekwondo,0,2,2
+CAM,Cambodia,Wrestling,0,2,2
+CAN,Canada,3x3 Basketball,0,4,4
+CAN,Canada,Archery,0,54,29
+CAN,Canada,Art Competitions,0,83,24
+CAN,Canada,Artistic Gymnastics,0,107,11
+CAN,Canada,Artistic Swimming,0,21,16
+CAN,Canada,Athletics,32,1287,682
+CAN,Canada,Badminton,0,73,37
+CAN,Canada,Baseball,0,48,43
+CAN,Canada,Baseball/Softball,0,15,15
+CAN,Canada,Basketball,0,214,179
+CAN,Canada,Beach Volleyball,0,36,24
+CAN,Canada,Boxing,3,148,134
+CAN,Canada,Breaking,1,1,1
+CAN,Canada,Canoe Slalom,0,10,6
+CAN,Canada,Canoe Sprint,1,45,21
+CAN,Canada,Canoeing,5,300,147
+CAN,Canada,Cycling,1,322,149
+CAN,Canada,Cycling BMX Freestyle,0,1,1
+CAN,Canada,Cycling BMX Racing,0,3,3
+CAN,Canada,Cycling Mountain Bike,0,5,5
+CAN,Canada,Cycling Road,0,15,8
+CAN,Canada,Cycling Track,1,62,27
+CAN,Canada,Diving,1,178,77
+CAN,Canada,Equestrian,0,34,14
+CAN,Canada,Equestrianism,4,260,84
+CAN,Canada,Fencing,0,298,114
+CAN,Canada,Football,35,136,92
+CAN,Canada,Golf,1,15,10
+CAN,Canada,Gymnastics,1,705,92
+CAN,Canada,Handball,0,28,28
+CAN,Canada,Hockey,0,173,142
+CAN,Canada,Ice Hockey,8,8,8
+CAN,Canada,Judo,1,101,63
+CAN,Canada,Karate,0,1,1
+CAN,Canada,Lacrosse,24,36,36
+CAN,Canada,Marathon Swimming,0,3,3
+CAN,Canada,Modern Pentathlon,0,29,15
+CAN,Canada,Rhythmic Gymnastics,1,15,15
+CAN,Canada,Rowing,59,599,425
+CAN,Canada,Rugby Sevens,0,52,44
+CAN,Canada,Sailing,0,227,170
+CAN,Canada,Shooting,4,229,109
+CAN,Canada,Skateboarding,0,8,7
+CAN,Canada,Softball,0,60,52
+CAN,Canada,Sport Climbing,0,2,2
+CAN,Canada,Surfing,0,1,1
+CAN,Canada,Swimming,12,1134,376
+CAN,Canada,Synchronized Swimming,4,67,44
+CAN,Canada,Table Tennis,0,55,23
+CAN,Canada,Taekwondo,0,14,9
+CAN,Canada,Tennis,2,73,33
+CAN,Canada,Trampoline Gymnastics,0,3,3
+CAN,Canada,Trampolining,2,13,5
+CAN,Canada,Triathlon,1,37,25
+CAN,Canada,Volleyball,0,109,96
+CAN,Canada,Water Polo,0,100,77
+CAN,Canada,Weightlifting,1,66,50
+CAN,Canada,Wrestling,3,184,135
+CAY,Cayman Islands,Artistic Gymnastics,0,5,1
+CAY,Cayman Islands,Athletics,0,20,8
+CAY,Cayman Islands,Cycling,0,31,13
+CAY,Cayman Islands,Sailing,0,17,14
+CAY,Cayman Islands,Swimming,0,21,9
+CGO,Republic of the Congo,Athletics,0,61,36
+CGO,Republic of the Congo,Boxing,0,5,5
+CGO,Republic of the Congo,Fencing,0,1,1
+CGO,Republic of the Congo,Handball,0,14,14
+CGO,Republic of the Congo,Judo,0,7,7
+CGO,Republic of the Congo,Swimming,0,15,10
+CGO,Republic of the Congo,Table Tennis,0,9,5
+CHA,Chad,Archery,0,2,2
+CHA,Chad,Athletics,0,39,24
+CHA,Chad,Boxing,0,1,1
+CHA,Chad,Judo,0,5,4
+CHI,Chile,Archery,0,5,4
+CHI,Chile,Artistic Gymnastics,0,6,2
+CHI,Chile,Athletics,0,179,115
+CHI,Chile,Basketball,0,43,31
+CHI,Chile,Beach Volleyball,0,6,4
+CHI,Chile,Boxing,0,38,35
+CHI,Chile,Canoe Sprint,0,7,4
+CHI,Chile,Canoeing,0,2,2
+CHI,Chile,Cycling,0,88,43
+CHI,Chile,Cycling BMX Freestyle,0,2,1
+CHI,Chile,Cycling BMX Racing,0,1,1
+CHI,Chile,Cycling Mountain Bike,0,2,1
+CHI,Chile,Cycling Road,0,2,2
+CHI,Chile,Diving,0,4,2
+CHI,Chile,Equestrian,0,3,3
+CHI,Chile,Equestrianism,0,51,27
+CHI,Chile,Fencing,0,47,23
+CHI,Chile,Football,0,75,75
+CHI,Chile,Golf,0,5,3
+CHI,Chile,Gymnastics,0,12,2
+CHI,Chile,Judo,0,9,7
+CHI,Chile,Modern Pentathlon,0,25,12
+CHI,Chile,Rowing,0,37,29
+CHI,Chile,Sailing,0,30,23
+CHI,Chile,Shooting,1,56,33
+CHI,Chile,Skateboarding,0,1,1
+CHI,Chile,Surfing,0,1,1
+CHI,Chile,Swimming,0,34,18
+CHI,Chile,Table Tennis,0,35,14
+CHI,Chile,Taekwondo,0,5,5
+CHI,Chile,Tennis,3,27,13
+CHI,Chile,Triathlon,0,9,6
+CHI,Chile,Water Polo,0,8,8
+CHI,Chile,Weightlifting,0,8,7
+CHI,Chile,Wrestling,0,4,3
+CHN,China,3x3 Basketball,0,16,13
+CHN,China,Archery,1,126,54
+CHN,China,Art Competitions,0,5,5
+CHN,China,Artistic Gymnastics,5,135,18
+CHN,China,Artistic Swimming,11,21,14
+CHN,China,Athletics,11,575,402
+CHN,China,Badminton,35,159,103
+CHN,China,Baseball,0,24,24
+CHN,China,Basketball,0,247,167
+CHN,China,Beach Volleyball,0,26,18
+CHN,China,Boxing,6,64,55
+CHN,China,Breaking,0,3,3
+CHN,China,Canoe Slalom,0,8,5
+CHN,China,Canoe Sprint,6,47,20
+CHN,China,Canoeing,4,111,66
+CHN,China,Cycling,2,96,67
+CHN,China,Cycling BMX Freestyle,1,2,2
+CHN,China,Cycling Mountain Bike,0,4,4
+CHN,China,Cycling Road,0,5,4
+CHN,China,Cycling Track,3,27,11
+CHN,China,Diving,78,144,68
+CHN,China,Equestrian,0,17,8
+CHN,China,Equestrianism,0,11,6
+CHN,China,Fencing,8,275,120
+CHN,China,Football,0,151,132
+CHN,China,Golf,0,12,11
+CHN,China,Gymnastics,45,641,85
+CHN,China,Handball,0,81,64
+CHN,China,Hockey,0,132,90
+CHN,China,Judo,8,94,76
+CHN,China,Karate,0,2,2
+CHN,China,Marathon Swimming,0,2,1
+CHN,China,Modern Pentathlon,0,26,16
+CHN,China,Rhythmic Gymnastics,5,46,40
+CHN,China,Rowing,8,212,151
+CHN,China,Rugby Sevens,0,27,20
+CHN,China,Sailing,3,85,73
+CHN,China,Shooting,34,300,159
+CHN,China,Skateboarding,0,6,5
+CHN,China,Softball,0,60,40
+CHN,China,Sport Climbing,0,9,8
+CHN,China,Surfing,0,1,1
+CHN,China,Swimming,27,657,238
+CHN,China,Synchronized Swimming,0,72,41
+CHN,China,Table Tennis,67,124,46
+CHN,China,Taekwondo,7,28,23
+CHN,China,Tennis,3,69,33
+CHN,China,Trampoline Gymnastics,1,8,7
+CHN,China,Trampolining,3,14,7
+CHN,China,Triathlon,0,13,10
+CHN,China,Volleyball,34,151,108
+CHN,China,Water Polo,0,102,77
+CHN,China,Weightlifting,46,107,87
+CHN,China,Wrestling,2,104,89
+CIV,Ivory Coast,Archery,0,2,1
+CIV,Ivory Coast,Athletics,0,116,55
+CIV,Ivory Coast,Boxing,0,8,7
+CIV,Ivory Coast,Canoeing,0,20,12
+CIV,Ivory Coast,Fencing,0,3,3
+CIV,Ivory Coast,Football,0,37,37
+CIV,Ivory Coast,Handball,0,14,14
+CIV,Ivory Coast,Judo,0,13,12
+CIV,Ivory Coast,Rowing,0,1,1
+CIV,Ivory Coast,Swimming,0,9,7
+CIV,Ivory Coast,Taekwondo,1,15,9
+CIV,Ivory Coast,Tennis,0,3,2
+CIV,Ivory Coast,Wrestling,0,2,2
+CMR,Cameroon,Athletics,2,100,50
+CMR,Cameroon,Boxing,0,45,37
+CMR,Cameroon,Cycling,0,28,13
+CMR,Cameroon,Football,18,67,67
+CMR,Cameroon,Judo,0,25,22
+CMR,Cameroon,Rowing,0,2,1
+CMR,Cameroon,Swimming,0,9,8
+CMR,Cameroon,Table Tennis,0,4,2
+CMR,Cameroon,Volleyball,0,10,10
+CMR,Cameroon,Weightlifting,0,13,13
+CMR,Cameroon,Wrestling,0,25,18
+COD,Democratic Republic of the Congo,Athletics,0,36,22
+COD,Democratic Republic of the Congo,Basketball,0,12,12
+COD,Democratic Republic of the Congo,Boxing,0,20,19
+COD,Democratic Republic of the Congo,Cycling,0,18,10
+COD,Democratic Republic of the Congo,Judo,0,11,11
+COD,Democratic Republic of the Congo,Swimming,0,3,3
+COD,Democratic Republic of the Congo,Table Tennis,0,4,2
+COD,Democratic Republic of the Congo,Taekwondo,0,2,2
+COK,Cook Islands,Athletics,0,16,10
+COK,Cook Islands,Boxing,0,3,3
+COK,Cook Islands,Canoe Slalom,0,2,1
+COK,Cook Islands,Canoe Sprint,0,3,2
+COK,Cook Islands,Canoeing,0,5,3
+COK,Cook Islands,Sailing,0,5,4
+COK,Cook Islands,Swimming,0,9,8
+COK,Cook Islands,Weightlifting,0,8,5
+COL,Colombia,Archery,0,30,14
+COL,Colombia,Art Competitions,0,1,1
+COL,Colombia,Artistic Gymnastics,0,9,2
+COL,Colombia,Artistic Swimming,0,2,2
+COL,Colombia,Athletics,1,254,149
+COL,Colombia,Boxing,0,58,56
+COL,Colombia,Canoe Sprint,0,1,1
+COL,Colombia,Cycling,2,193,113
+COL,Colombia,Cycling BMX Freestyle,0,1,1
+COL,Colombia,Cycling BMX Racing,0,8,6
+COL,Colombia,Cycling Mountain Bike,0,1,1
+COL,Colombia,Cycling Road,0,9,8
+COL,Colombia,Cycling Track,0,11,5
+COL,Colombia,Diving,0,30,14
+COL,Colombia,Equestrian,0,2,2
+COL,Colombia,Equestrianism,0,19,10
+COL,Colombia,Fencing,0,64,22
+COL,Colombia,Football,0,139,130
+COL,Colombia,Golf,0,6,5
+COL,Colombia,Gymnastics,0,37,5
+COL,Colombia,Judo,0,14,10
+COL,Colombia,Rowing,0,1,1
+COL,Colombia,Rugby Sevens,0,12,12
+COL,Colombia,Sailing,0,7,5
+COL,Colombia,Shooting,0,64,37
+COL,Colombia,Skateboarding,0,2,1
+COL,Colombia,Swimming,0,129,41
+COL,Colombia,Synchronized Swimming,0,2,2
+COL,Colombia,Table Tennis,0,3,2
+COL,Colombia,Taekwondo,0,11,8
+COL,Colombia,Tennis,0,20,12
+COL,Colombia,Trampoline Gymnastics,0,2,1
+COL,Colombia,Triathlon,0,4,4
+COL,Colombia,Tug-Of-War,0,1,1
+COL,Colombia,Weightlifting,2,72,50
+COL,Colombia,Wrestling,0,30,25
+COM,Comoros,Athletics,0,17,13
+COM,Comoros,Canoe Slalom,0,2,1
+COM,Comoros,Judo,0,1,1
+COM,Comoros,Swimming,0,6,6
+COM,Comoros,Weightlifting,0,1,1
+CPV,Cape Verde,Athletics,0,13,8
+CPV,Cape Verde,Boxing,0,5,5
+CPV,Cape Verde,Fencing,0,1,1
+CPV,Cape Verde,Judo,0,3,3
+CPV,Cape Verde,Rhythmic Gymnastics,0,4,3
+CPV,Cape Verde,Swimming,0,4,3
+CPV,Cape Verde,Taekwondo,0,1,1
+CRC,Costa Rica,Archery,0,5,4
+CRC,Costa Rica,Artistic Gymnastics,0,5,1
+CRC,Costa Rica,Athletics,0,45,24
+CRC,Costa Rica,Beach Volleyball,0,2,2
+CRC,Costa Rica,Boxing,0,3,3
+CRC,Costa Rica,Canoeing,0,6,5
+CRC,Costa Rica,Cycling,0,20,15
+CRC,Costa Rica,Cycling BMX Freestyle,0,1,1
+CRC,Costa Rica,Cycling Road,0,3,3
+CRC,Costa Rica,Diving,0,2,1
+CRC,Costa Rica,Fencing,0,2,2
+CRC,Costa Rica,Football,0,47,44
+CRC,Costa Rica,Judo,0,18,15
+CRC,Costa Rica,Shooting,0,25,12
+CRC,Costa Rica,Surfing,0,4,3
+CRC,Costa Rica,Swimming,1,64,22
+CRC,Costa Rica,Taekwondo,0,4,3
+CRC,Costa Rica,Tennis,0,1,1
+CRC,Costa Rica,Triathlon,0,3,2
+CRC,Costa Rica,Weightlifting,0,4,4
+CRO,Croatia,Artistic Gymnastics,0,8,3
+CRO,Croatia,Athletics,3,80,47
+CRO,Croatia,Basketball,0,58,50
+CRO,Croatia,Boxing,0,11,10
+CRO,Croatia,Canoe Slalom,0,3,1
+CRO,Croatia,Canoe Sprint,0,4,2
+CRO,Croatia,Canoeing,0,26,12
+CRO,Croatia,Cycling,0,8,4
+CRO,Croatia,Cycling BMX Freestyle,0,1,1
+CRO,Croatia,Cycling Road,0,1,1
+CRO,Croatia,Diving,0,1,1
+CRO,Croatia,Equestrianism,0,2,2
+CRO,Croatia,Fencing,0,1,1
+CRO,Croatia,Gymnastics,0,25,4
+CRO,Croatia,Handball,31,103,76
+CRO,Croatia,Judo,1,9,8
+CRO,Croatia,Karate,0,1,1
+CRO,Croatia,Rowing,6,54,34
+CRO,Croatia,Sailing,2,54,31
+CRO,Croatia,Shooting,2,61,20
+CRO,Croatia,Swimming,0,116,38
+CRO,Croatia,Table Tennis,0,47,16
+CRO,Croatia,Taekwondo,1,17,12
+CRO,Croatia,Tennis,2,51,22
+CRO,Croatia,Volleyball,0,11,11
+CRO,Croatia,Water Polo,13,103,63
+CRO,Croatia,Weightlifting,1,3,2
+CRO,Croatia,Wrestling,0,7,6
+CRT,,Athletics,0,10,8
+CRT,,Shooting,0,1,1
+CUB,Cuba,Archery,0,9,7
+CUB,Cuba,Art Competitions,0,3,3
+CUB,Cuba,Artistic Gymnastics,0,1,1
+CUB,Cuba,Athletics,10,484,271
+CUB,Cuba,Badminton,0,1,1
+CUB,Cuba,Baseball,64,112,73
+CUB,Cuba,Basketball,0,121,74
+CUB,Cuba,Beach Volleyball,0,18,12
+CUB,Cuba,Boxing,42,138,100
+CUB,Cuba,Canoe Sprint,2,13,6
+CUB,Cuba,Canoeing,0,52,25
+CUB,Cuba,Cycling,0,70,30
+CUB,Cuba,Cycling Road,0,2,1
+CUB,Cuba,Diving,0,36,18
+CUB,Cuba,Fencing,6,180,72
+CUB,Cuba,Football,0,29,25
+CUB,Cuba,Gymnastics,0,386,43
+CUB,Cuba,Handball,0,27,27
+CUB,Cuba,Hockey,0,16,16
+CUB,Cuba,Judo,6,104,59
+CUB,Cuba,Modern Pentathlon,0,6,6
+CUB,Cuba,Rowing,0,134,90
+CUB,Cuba,Sailing,0,19,12
+CUB,Cuba,Shooting,1,109,48
+CUB,Cuba,Softball,0,15,15
+CUB,Cuba,Swimming,0,59,25
+CUB,Cuba,Synchronized Swimming,0,2,2
+CUB,Cuba,Table Tennis,0,24,12
+CUB,Cuba,Taekwondo,1,16,14
+CUB,Cuba,Volleyball,28,170,107
+CUB,Cuba,Water Polo,0,57,36
+CUB,Cuba,Weightlifting,2,72,55
+CUB,Cuba,Wrestling,12,145,100
+CYP,Cyprus,Archery,0,2,2
+CYP,Cyprus,Artistic Gymnastics,0,15,1
+CYP,Cyprus,Athletics,0,74,39
+CYP,Cyprus,Cycling,0,4,4
+CYP,Cyprus,Cycling Road,0,2,1
+CYP,Cyprus,Fencing,0,1,1
+CYP,Cyprus,Gymnastics,0,6,1
+CYP,Cyprus,Judo,0,13,11
+CYP,Cyprus,Rhythmic Gymnastics,0,4,4
+CYP,Cyprus,Sailing,0,33,19
+CYP,Cyprus,Shooting,0,28,18
+CYP,Cyprus,Swimming,0,37,19
+CYP,Cyprus,Tennis,0,2,1
+CYP,Cyprus,Weightlifting,0,1,1
+CYP,Cyprus,Wrestling,0,2,2
+CZE,Czech Republic,Archery,0,7,4
+CZE,Czech Republic,Artistic Gymnastics,0,18,3
+CZE,Czech Republic,Athletics,5,244,149
+CZE,Czech Republic,Badminton,0,10,6
+CZE,Czech Republic,Basketball,0,48,36
+CZE,Czech Republic,Beach Volleyball,0,26,19
+CZE,Czech Republic,Boxing,0,7,7
+CZE,Czech Republic,Canoe Slalom,1,12,6
+CZE,Czech Republic,Canoe Sprint,2,14,7
+CZE,Czech Republic,Canoeing,4,105,55
+CZE,Czech Republic,Cycling,1,76,38
+CZE,Czech Republic,Cycling BMX Freestyle,0,1,1
+CZE,Czech Republic,Cycling Mountain Bike,0,4,3
+CZE,Czech Republic,Cycling Road,0,9,6
+CZE,Czech Republic,Cycling Track,0,6,3
+CZE,Czech Republic,Diving,0,1,1
+CZE,Czech Republic,Equestrian,0,12,6
+CZE,Czech Republic,Equestrianism,0,2,1
+CZE,Czech Republic,Fencing,0,13,7
+CZE,Czech Republic,Football,0,16,16
+CZE,Czech Republic,Golf,0,5,5
+CZE,Czech Republic,Gymnastics,0,50,7
+CZE,Czech Republic,Judo,2,21,13
+CZE,Czech Republic,Marathon Swimming,0,2,2
+CZE,Czech Republic,Modern Pentathlon,1,18,13
+CZE,Czech Republic,Rhythmic Gymnastics,0,3,3
+CZE,Czech Republic,Rowing,1,72,42
+CZE,Czech Republic,Sailing,0,23,13
+CZE,Czech Republic,Shooting,3,123,48
+CZE,Czech Republic,Sport Climbing,0,2,1
+CZE,Czech Republic,Swimming,0,127,41
+CZE,Czech Republic,Synchronized Swimming,0,10,4
+CZE,Czech Republic,Table Tennis,0,26,14
+CZE,Czech Republic,Taekwondo,0,2,2
+CZE,Czech Republic,Tennis,4,95,37
+CZE,Czech Republic,Trampolining,0,3,3
+CZE,Czech Republic,Triathlon,0,20,12
+CZE,Czech Republic,Weightlifting,0,9,8
+CZE,Czech Republic,Wrestling,0,12,7
+DEN,Denmark,Archery,0,29,15
+DEN,Denmark,Art Competitions,0,104,51
+DEN,Denmark,Athletics,0,277,170
+DEN,Denmark,Badminton,3,122,53
+DEN,Denmark,Boxing,1,85,79
+DEN,Denmark,Canoe Sprint,0,17,10
+DEN,Denmark,Canoeing,4,124,67
+DEN,Denmark,Cycling,14,323,179
+DEN,Denmark,Cycling BMX Racing,0,3,3
+DEN,Denmark,Cycling Mountain Bike,0,6,5
+DEN,Denmark,Cycling Road,0,18,11
+DEN,Denmark,"Cycling Road, Cycling Track",0,3,1
+DEN,Denmark,Cycling Track,2,29,13
+DEN,Denmark,Diving,1,29,19
+DEN,Denmark,Equestrian,0,19,11
+DEN,Denmark,Equestrianism,0,140,56
+DEN,Denmark,Fencing,1,229,66
+DEN,Denmark,Football,12,151,133
+DEN,Denmark,Golf,0,12,11
+DEN,Denmark,Gymnastics,20,295,127
+DEN,Denmark,Handball,75,207,158
+DEN,Denmark,Hockey,0,69,55
+DEN,Denmark,Judo,0,4,3
+DEN,Denmark,Modern Pentathlon,0,25,16
+DEN,Denmark,Rhythmic Gymnastics,0,1,1
+DEN,Denmark,Rowing,26,307,229
+DEN,Denmark,Sailing,25,224,152
+DEN,Denmark,Shooting,7,298,94
+DEN,Denmark,Skateboarding,0,2,2
+DEN,Denmark,Swimming,3,385,124
+DEN,Denmark,Table Tennis,0,16,7
+DEN,Denmark,Taekwondo,0,5,5
+DEN,Denmark,Tennis,0,56,24
+DEN,Denmark,Trampolining,0,3,1
+DEN,Denmark,Triathlon,0,9,8
+DEN,Denmark,Tug-Of-War,3,3,3
+DEN,Denmark,Weightlifting,1,26,21
+DEN,Denmark,Wrestling,2,102,68
+DJI,Djibouti,Athletics,0,35,26
+DJI,Djibouti,Judo,0,5,5
+DJI,Djibouti,Sailing,0,4,2
+DJI,Djibouti,Swimming,0,5,5
+DJI,Djibouti,Table Tennis,0,1,1
+DMA,Dominica,Athletics,1,19,14
+DMA,Dominica,Swimming,0,5,5
+DOM,Dominican Republic,Archery,0,1,1
+DOM,Dominican Republic,Artistic Gymnastics,0,3,1
+DOM,Dominican Republic,Athletics,3,94,57
+DOM,Dominican Republic,Baseball,0,20,20
+DOM,Dominican Republic,Baseball/Softball,0,24,24
+DOM,Dominican Republic,Boxing,1,61,56
+DOM,Dominican Republic,Cycling,0,1,1
+DOM,Dominican Republic,Diving,0,9,7
+DOM,Dominican Republic,Equestrian,0,3,2
+DOM,Dominican Republic,Equestrianism,0,1,1
+DOM,Dominican Republic,Football,0,19,19
+DOM,Dominican Republic,Gymnastics,0,2,1
+DOM,Dominican Republic,Judo,0,30,20
+DOM,Dominican Republic,Rowing,0,1,1
+DOM,Dominican Republic,Sailing,0,2,2
+DOM,Dominican Republic,Shooting,0,10,7
+DOM,Dominican Republic,Swimming,0,12,9
+DOM,Dominican Republic,Synchronized Swimming,0,4,2
+DOM,Dominican Republic,Table Tennis,0,15,7
+DOM,Dominican Republic,Taekwondo,0,11,8
+DOM,Dominican Republic,Tennis,0,2,2
+DOM,Dominican Republic,Volleyball,0,48,37
+DOM,Dominican Republic,Weightlifting,0,29,25
+DOM,Dominican Republic,Wrestling,0,8,6
+ECU,Ecuador,Archery,0,1,1
+ECU,Ecuador,Athletics,2,121,71
+ECU,Ecuador,Boxing,0,31,25
+ECU,Ecuador,Canoeing,0,2,1
+ECU,Ecuador,Cycling,0,26,16
+ECU,Ecuador,Cycling BMX Racing,0,3,3
+ECU,Ecuador,Cycling Road,1,3,3
+ECU,Ecuador,Diving,0,2,2
+ECU,Ecuador,Equestrian,0,4,3
+ECU,Ecuador,Equestrianism,0,3,3
+ECU,Ecuador,Golf,0,1,1
+ECU,Ecuador,Gymnastics,0,21,3
+ECU,Ecuador,Judo,0,21,16
+ECU,Ecuador,Marathon Swimming,0,3,3
+ECU,Ecuador,Modern Pentathlon,0,3,3
+ECU,Ecuador,Rowing,0,1,1
+ECU,Ecuador,Sailing,0,1,1
+ECU,Ecuador,Shooting,0,24,11
+ECU,Ecuador,Surfing,0,1,1
+ECU,Ecuador,Swimming,0,52,19
+ECU,Ecuador,Table Tennis,0,3,2
+ECU,Ecuador,Taekwondo,0,1,1
+ECU,Ecuador,Tennis,0,6,3
+ECU,Ecuador,Triathlon,0,4,2
+ECU,Ecuador,Weightlifting,1,23,18
+ECU,Ecuador,Wrestling,0,15,10
+EGY,Egypt,Archery,0,19,11
+EGY,Egypt,Art Competitions,0,3,1
+EGY,Egypt,Artistic Gymnastics,0,31,4
+EGY,Egypt,Artistic Swimming,0,28,16
+EGY,Egypt,Athletics,0,73,45
+EGY,Egypt,Badminton,0,7,4
+EGY,Egypt,Basketball,0,77,61
+EGY,Egypt,Beach Volleyball,0,4,4
+EGY,Egypt,Boxing,0,86,66
+EGY,Egypt,Canoe Sprint,0,4,2
+EGY,Egypt,Canoeing,0,4,3
+EGY,Egypt,Cycling,0,13,9
+EGY,Egypt,Cycling Track,0,3,2
+EGY,Egypt,Diving,0,37,25
+EGY,Egypt,Equestrian,0,8,4
+EGY,Egypt,Equestrianism,0,19,6
+EGY,Egypt,Fencing,0,240,90
+EGY,Egypt,Football,0,183,165
+EGY,Egypt,Gymnastics,0,169,22
+EGY,Egypt,Handball,0,118,76
+EGY,Egypt,Hockey,0,32,32
+EGY,Egypt,Judo,0,43,27
+EGY,Egypt,Karate,1,5,5
+EGY,Egypt,Modern Pentathlon,1,38,22
+EGY,Egypt,Rhythmic Gymnastics,0,14,14
+EGY,Egypt,Rowing,0,54,48
+EGY,Egypt,Sailing,0,7,5
+EGY,Egypt,Shooting,0,120,72
+EGY,Egypt,Swimming,0,113,50
+EGY,Egypt,Synchronized Swimming,0,40,26
+EGY,Egypt,Table Tennis,0,59,21
+EGY,Egypt,Taekwondo,0,22,18
+EGY,Egypt,Tennis,0,3,3
+EGY,Egypt,Trampoline Gymnastics,0,3,2
+EGY,Egypt,Triathlon,0,1,1
+EGY,Egypt,Volleyball,0,73,65
+EGY,Egypt,Water Polo,0,51,43
+EGY,Egypt,Weightlifting,5,91,73
+EGY,Egypt,Wrestling,2,126,93
+EOR,Russia,Athletics,0,15,12
+EOR,Russia,Badminton,0,2,2
+EOR,Russia,Boxing,0,4,4
+EOR,Russia,Breaking,0,1,1
+EOR,Russia,Canoe Slalom,0,2,1
+EOR,Russia,Canoe Sprint,0,4,3
+EOR,Russia,Cycling Road,0,4,4
+EOR,Russia,Judo,0,24,10
+EOR,Russia,Karate,0,2,2
+EOR,Russia,Shooting,0,3,2
+EOR,Russia,Swimming,0,4,3
+EOR,Russia,Taekwondo,0,8,8
+EOR,Russia,Weightlifting,0,3,3
+EOR,Russia,Wrestling,0,3,3
+ERI,Eritrea,Athletics,0,58,36
+ERI,Eritrea,Cycling,0,2,1
+ERI,Eritrea,Cycling Road,0,6,4
+ERI,Eritrea,Swimming,0,3,3
+ESA,El Salvador,Archery,0,3,3
+ESA,El Salvador,Art Competitions,0,4,1
+ESA,El Salvador,Athletics,0,38,30
+ESA,El Salvador,Badminton,0,1,1
+ESA,El Salvador,Boxing,0,3,3
+ESA,El Salvador,Cycling,0,17,8
+ESA,El Salvador,Football,0,18,18
+ESA,El Salvador,Judo,0,11,8
+ESA,El Salvador,Rowing,0,3,2
+ESA,El Salvador,Sailing,0,6,5
+ESA,El Salvador,Shooting,0,26,16
+ESA,El Salvador,Surfing,0,1,1
+ESA,El Salvador,Swimming,0,89,33
+ESA,El Salvador,Tennis,0,1,1
+ESA,El Salvador,Weightlifting,0,8,5
+ESA,El Salvador,Wrestling,0,5,2
+ESP,Spain,3x3 Basketball,0,4,4
+ESP,Spain,Archery,3,44,26
+ESP,Spain,Art Competitions,0,3,3
+ESP,Spain,Artistic Gymnastics,0,119,11
+ESP,Spain,Artistic Swimming,0,21,11
+ESP,Spain,Athletics,6,760,451
+ESP,Spain,Badminton,1,15,10
+ESP,Spain,Baseball,0,20,20
+ESP,Spain,Basketball,0,239,157
+ESP,Spain,Basque Pelota,2,2,2
+ESP,Spain,Beach Volleyball,0,28,17
+ESP,Spain,Boxing,0,82,72
+ESP,Spain,Canoe Slalom,0,12,8
+ESP,Spain,Canoe Sprint,0,40,21
+ESP,Spain,Canoeing,7,192,80
+ESP,Spain,Cycling,5,232,132
+ESP,Spain,Cycling Mountain Bike,0,5,3
+ESP,Spain,Cycling Road,0,16,12
+ESP,Spain,Cycling Track,0,8,2
+ESP,Spain,Diving,0,43,24
+ESP,Spain,Equestrian,0,22,12
+ESP,Spain,Equestrianism,3,203,67
+ESP,Spain,Fencing,0,143,61
+ESP,Spain,Football,39,230,222
+ESP,Spain,Golf,0,12,10
+ESP,Spain,Gymnastics,2,633,85
+ESP,Spain,Handball,0,270,181
+ESP,Spain,Hockey,15,436,265
+ESP,Spain,Judo,3,99,60
+ESP,Spain,Karate,1,2,2
+ESP,Spain,Marathon Swimming,0,4,4
+ESP,Spain,"Marathon Swimming, Swimming",0,4,1
+ESP,Spain,Modern Pentathlon,0,32,17
+ESP,Spain,Polo,0,11,8
+ESP,Spain,Rhythmic Gymnastics,6,56,44
+ESP,Spain,Rowing,0,150,115
+ESP,Spain,Rugby Sevens,0,25,25
+ESP,Spain,Sailing,26,226,144
+ESP,Spain,Shooting,2,226,88
+ESP,Spain,Skateboarding,0,10,8
+ESP,Spain,Sport Climbing,1,3,2
+ESP,Spain,Surfing,0,3,3
+ESP,Spain,Swimming,2,496,207
+ESP,Spain,Synchronized Swimming,0,49,22
+ESP,Spain,Table Tennis,0,32,14
+ESP,Spain,Taekwondo,1,25,18
+ESP,Spain,Tennis,3,156,58
+ESP,Spain,Trampoline Gymnastics,0,2,2
+ESP,Spain,Triathlon,0,41,25
+ESP,Spain,Volleyball,0,36,33
+ESP,Spain,Water Polo,25,262,160
+ESP,Spain,Weightlifting,0,38,27
+ESP,Spain,Wrestling,0,40,33
+EST,Estonia,Archery,0,6,4
+EST,Estonia,Athletics,2,137,80
+EST,Estonia,Badminton,0,8,3
+EST,Estonia,Basketball,0,8,8
+EST,Estonia,Beach Volleyball,0,4,4
+EST,Estonia,Boxing,0,4,3
+EST,Estonia,Canoeing,0,6,2
+EST,Estonia,Cycling,1,31,18
+EST,Estonia,Cycling Mountain Bike,0,2,1
+EST,Estonia,Cycling Road,0,4,3
+EST,Estonia,Equestrian,0,2,2
+EST,Estonia,Fencing,4,39,15
+EST,Estonia,Football,0,11,11
+EST,Estonia,Judo,0,11,6
+EST,Estonia,Modern Pentathlon,0,3,1
+EST,Estonia,Rhythmic Gymnastics,0,1,1
+EST,Estonia,Rowing,0,44,23
+EST,Estonia,Sailing,0,35,20
+EST,Estonia,Shooting,0,16,8
+EST,Estonia,Swimming,0,58,23
+EST,Estonia,Table Tennis,0,1,1
+EST,Estonia,Tennis,0,8,3
+EST,Estonia,Triathlon,0,4,2
+EST,Estonia,Weightlifting,1,21,18
+EST,Estonia,Wrestling,5,55,30
+ETH,Ethiopia,Athletics,24,358,225
+ETH,Ethiopia,Boxing,0,27,24
+ETH,Ethiopia,Cycling,0,56,29
+ETH,Ethiopia,Cycling Road,0,1,1
+ETH,Ethiopia,Swimming,0,6,6
+ETH,Ethiopia,Taekwondo,0,1,1
+EUN,Unified Team,Archery,0,12,6
+EUN,Unified Team,Athletics,12,114,99
+EUN,Unified Team,Badminton,0,2,2
+EUN,Unified Team,Basketball,12,24,24
+EUN,Unified Team,Boxing,0,12,12
+EUN,Unified Team,Canoeing,2,23,19
+EUN,Unified Team,Cycling,0,21,19
+EUN,Unified Team,Diving,0,8,7
+EUN,Unified Team,Equestrianism,0,15,8
+EUN,Unified Team,Fencing,5,32,20
+EUN,Unified Team,Gymnastics,19,84,12
+EUN,Unified Team,Handball,12,25,25
+EUN,Unified Team,Hockey,0,15,15
+EUN,Unified Team,Judo,2,13,13
+EUN,Unified Team,Modern Pentathlon,0,6,3
+EUN,Unified Team,Rhythmic Gymnastics,1,2,2
+EUN,Unified Team,Rowing,0,47,47
+EUN,Unified Team,Sailing,0,14,14
+EUN,Unified Team,Shooting,5,28,22
+EUN,Unified Team,Swimming,11,67,29
+EUN,Unified Team,Synchronized Swimming,0,5,3
+EUN,Unified Team,Table Tennis,0,11,6
+EUN,Unified Team,Tennis,0,7,5
+EUN,Unified Team,Volleyball,0,20,20
+EUN,Unified Team,Water Polo,0,13,13
+EUN,Unified Team,Weightlifting,5,10,10
+EUN,Unified Team,Wrestling,6,20,20
+FIJ,Fiji,Archery,0,3,1
+FIJ,Fiji,Athletics,0,67,34
+FIJ,Fiji,Boxing,0,5,5
+FIJ,Fiji,Cycling,0,1,1
+FIJ,Fiji,Football,0,16,16
+FIJ,Fiji,Judo,0,19,12
+FIJ,Fiji,Rugby Sevens,26,79,65
+FIJ,Fiji,Sailing,0,25,16
+FIJ,Fiji,Shooting,0,4,1
+FIJ,Fiji,Swimming,0,64,16
+FIJ,Fiji,Table Tennis,0,3,2
+FIJ,Fiji,Taekwondo,0,2,2
+FIJ,Fiji,Weightlifting,0,8,7
+FIN,Finland,Archery,1,47,23
+FIN,Finland,Art Competitions,3,9,9
+FIN,Finland,Athletics,64,959,518
+FIN,Finland,Badminton,0,16,9
+FIN,Finland,Basketball,0,23,22
+FIN,Finland,Boxing,2,74,62
+FIN,Finland,Canoeing,7,100,49
+FIN,Finland,Cycling,0,123,50
+FIN,Finland,Cycling Mountain Bike,0,1,1
+FIN,Finland,Cycling Road,0,2,1
+FIN,Finland,Diving,0,49,25
+FIN,Finland,Equestrian,0,10,6
+FIN,Finland,Equestrianism,0,57,29
+FIN,Finland,Fencing,0,61,30
+FIN,Finland,Figure Skating,2,3,3
+FIN,Finland,Football,0,51,51
+FIN,Finland,Golf,0,12,11
+FIN,Finland,Gymnastics,15,714,111
+FIN,Finland,Hockey,0,11,11
+FIN,Finland,Judo,0,29,24
+FIN,Finland,Modern Pentathlon,0,68,29
+FIN,Finland,Rhythmic Gymnastics,0,4,4
+FIN,Finland,Rowing,3,93,69
+FIN,Finland,Sailing,3,189,142
+FIN,Finland,Shooting,4,354,133
+FIN,Finland,Skateboarding,0,2,2
+FIN,Finland,Swimming,0,247,79
+FIN,Finland,Synchronized Swimming,0,1,1
+FIN,Finland,Table Tennis,0,1,1
+FIN,Finland,Taekwondo,0,5,4
+FIN,Finland,Tennis,0,11,5
+FIN,Finland,Weightlifting,1,65,38
+FIN,Finland,Wrestling,27,278,172
+FRA,France,3x3 Basketball,0,12,11
+FRA,France,Archery,7,174,75
+FRA,France,Art Competitions,6,366,180
+FRA,France,Artistic Gymnastics,0,67,10
+FRA,France,Artistic Swimming,0,13,9
+FRA,France,Athletics,14,1672,960
+FRA,France,Badminton,0,34,22
+FRA,France,Basketball,0,195,159
+FRA,France,Beach Volleyball,0,18,15
+FRA,France,Boxing,6,185,166
+FRA,France,Breaking,0,4,4
+FRA,France,Canoe Slalom,1,12,8
+FRA,France,Canoe Sprint,0,25,11
+FRA,France,Canoeing,10,280,161
+FRA,France,Cricket,0,3,3
+FRA,France,Croquet,4,19,10
+FRA,France,Cycling,69,679,370
+FRA,France,Cycling BMX Freestyle,0,3,2
+FRA,France,Cycling BMX Racing,1,11,7
+FRA,France,Cycling Mountain Bike,1,8,4
+FRA,France,Cycling Road,0,17,11
+FRA,France,"Cycling Road, Cycling Track",0,2,1
+FRA,France,Cycling Track,1,61,19
+FRA,France,Diving,0,93,58
+FRA,France,Equestrian,0,43,19
+FRA,France,Equestrianism,32,463,192
+FRA,France,Fencing,135,1054,483
+FRA,France,Figure Skating,0,2,2
+FRA,France,Football,16,274,252
+FRA,France,Golf,0,19,17
+FRA,France,Gymnastics,5,1576,357
+FRA,France,Handball,62,246,139
+FRA,France,Hockey,0,170,143
+FRA,France,Ice Hockey,0,7,7
+FRA,France,Judo,41,187,108
+FRA,France,Karate,1,3,3
+FRA,France,Marathon Swimming,0,7,6
+FRA,France,Modern Pentathlon,0,101,48
+FRA,France,Motorboating,1,1,1
+FRA,France,Polo,0,13,12
+FRA,France,Rhythmic Gymnastics,0,26,25
+FRA,France,Rowing,22,555,394
+FRA,France,Rugby,15,49,48
+FRA,France,Rugby Sevens,13,63,52
+FRA,France,Sailing,30,511,290
+FRA,France,Shooting,13,633,228
+FRA,France,Skateboarding,0,12,10
+FRA,France,Sport Climbing,0,11,10
+FRA,France,Surfing,1,8,7
+FRA,France,Swimming,17,1014,384
+FRA,France,Synchronized Swimming,0,41,24
+FRA,France,Table Tennis,0,68,22
+FRA,France,Taekwondo,1,20,15
+FRA,France,Tennis,12,212,83
+FRA,France,Trampoline Gymnastics,0,4,3
+FRA,France,Trampolining,0,6,4
+FRA,France,Triathlon,1,42,24
+FRA,France,Tug-Of-War,0,5,5
+FRA,France,Volleyball,25,84,67
+FRA,France,Water Polo,7,151,135
+FRA,France,Weightlifting,9,137,93
+FRA,France,Wrestling,4,201,135
+FRG,East Germany,Archery,0,24,16
+FRG,East Germany,Athletics,15,392,240
+FRG,East Germany,Basketball,0,24,24
+FRG,East Germany,Boxing,1,37,30
+FRG,East Germany,Canoeing,3,104,68
+FRG,East Germany,Cycling,11,93,66
+FRG,East Germany,Diving,0,39,22
+FRG,East Germany,Equestrianism,29,107,41
+FRG,East Germany,Fencing,23,153,65
+FRG,East Germany,Football,0,51,48
+FRG,East Germany,Gymnastics,0,394,47
+FRG,East Germany,Handball,0,58,58
+FRG,East Germany,Hockey,18,115,79
+FRG,East Germany,Judo,1,26,18
+FRG,East Germany,Modern Pentathlon,0,30,13
+FRG,East Germany,Rhythmic Gymnastics,0,4,4
+FRG,East Germany,Rowing,28,178,144
+FRG,East Germany,Sailing,4,64,50
+FRG,East Germany,Shooting,4,81,59
+FRG,East Germany,Swimming,3,356,116
+FRG,East Germany,Synchronized Swimming,0,10,5
+FRG,East Germany,Table Tennis,0,10,6
+FRG,East Germany,Tennis,1,9,5
+FRG,East Germany,Volleyball,0,34,34
+FRG,East Germany,Water Polo,0,58,37
+FRG,East Germany,Weightlifting,2,31,22
+FRG,East Germany,Wrestling,1,76,56
+FSM,Federated States of Micronesia,Athletics,0,12,10
+FSM,Federated States of Micronesia,Boxing,0,1,1
+FSM,Federated States of Micronesia,Swimming,0,14,9
+FSM,Federated States of Micronesia,Weightlifting,0,4,1
+FSM,Federated States of Micronesia,Wrestling,0,1,1
+GAB,Gabon,Athletics,0,24,13
+GAB,Gabon,Boxing,0,12,12
+GAB,Gabon,Football,0,15,15
+GAB,Gabon,Judo,0,12,9
+GAB,Gabon,Swimming,0,5,5
+GAB,Gabon,Taekwondo,0,5,4
+GAM,The Gambia,Athletics,0,57,31
+GAM,The Gambia,Boxing,0,1,1
+GAM,The Gambia,Judo,0,3,1
+GAM,The Gambia,Swimming,0,4,4
+GAM,The Gambia,Taekwondo,0,1,1
+GAM,The Gambia,Wrestling,0,3,3
+GBR,Great Britain,Archery,2,161,85
+GBR,Great Britain,Art Competitions,3,339,150
+GBR,Great Britain,Artistic Gymnastics,1,131,15
+GBR,Great Britain,Artistic Swimming,0,4,2
+GBR,Great Britain,Athletics,79,2436,1344
+GBR,Great Britain,Badminton,0,94,46
+GBR,Great Britain,Basketball,0,37,37
+GBR,Great Britain,Beach Volleyball,0,6,6
+GBR,Great Britain,Boxing,20,241,231
+GBR,Great Britain,Canoe Slalom,0,12,5
+GBR,Great Britain,Canoe Sprint,0,6,4
+GBR,Great Britain,Canoeing,6,262,143
+GBR,Great Britain,Cricket,12,21,21
+GBR,Great Britain,Cycling,59,634,312
+GBR,Great Britain,Cycling BMX Freestyle,1,4,4
+GBR,Great Britain,Cycling BMX Racing,1,6,4
+GBR,Great Britain,Cycling Mountain Bike,1,5,4
+GBR,Great Britain,Cycling Road,0,17,11
+GBR,Great Britain,"Cycling Road, Cycling Mountain Bike",0,2,1
+GBR,Great Britain,Cycling Track,8,73,27
+GBR,Great Britain,Diving,4,253,136
+GBR,Great Britain,Equestrian,13,45,16
+GBR,Great Britain,Equestrianism,26,378,112
+GBR,Great Britain,Fencing,1,591,193
+GBR,Great Britain,Figure Skating,1,21,16
+GBR,Great Britain,Football,36,183,171
+GBR,Great Britain,Golf,1,19,17
+GBR,Great Britain,Gymnastics,2,1127,243
+GBR,Great Britain,Handball,0,28,28
+GBR,Great Britain,Hockey,57,492,356
+GBR,Great Britain,Jeu De Paume,0,9,9
+GBR,Great Britain,Judo,0,122,80
+GBR,Great Britain,Lacrosse,0,12,12
+GBR,Great Britain,Marathon Swimming,0,5,5
+GBR,Great Britain,Modern Pentathlon,6,114,57
+GBR,Great Britain,Motorboating,6,16,13
+GBR,Great Britain,Polo,11,30,26
+GBR,Great Britain,Racquets,3,12,7
+GBR,Great Britain,Rhythmic Gymnastics,0,13,13
+GBR,Great Britain,Rowing,124,791,558
+GBR,Great Britain,Rugby,0,30,30
+GBR,Great Britain,Rugby Sevens,0,64,57
+GBR,Great Britain,Sailing,77,364,259
+GBR,Great Britain,Shooting,30,489,224
+GBR,Great Britain,Skateboarding,0,5,4
+GBR,Great Britain,Sport Climbing,1,5,5
+GBR,Great Britain,Swimming,41,1426,532
+GBR,Great Britain,Synchronized Swimming,0,30,18
+GBR,Great Britain,Table Tennis,0,39,18
+GBR,Great Britain,Taekwondo,2,26,16
+GBR,Great Britain,Tennis,25,208,84
+GBR,Great Britain,Trampoline Gymnastics,1,5,4
+GBR,Great Britain,Trampolining,0,9,8
+GBR,Great Britain,Triathlon,8,44,26
+GBR,Great Britain,Tug-Of-War,16,40,30
+GBR,Great Britain,Volleyball,0,24,24
+GBR,Great Britain,Water Polo,27,107,84
+GBR,Great Britain,Weightlifting,1,133,94
+GBR,Great Britain,Wrestling,3,198,140
+GBS,Guinea-Bissau,Athletics,0,14,9
+GBS,Guinea-Bissau,Judo,0,3,3
+GBS,Guinea-Bissau,Swimming,0,1,1
+GBS,Guinea-Bissau,Taekwondo,0,1,1
+GBS,Guinea-Bissau,Wrestling,0,12,7
+GDR,West Germany,Athletics,50,366,237
+GDR,West Germany,Boxing,5,45,35
+GDR,West Germany,Canoeing,24,99,70
+GDR,West Germany,Cycling,9,74,51
+GDR,West Germany,Diving,2,43,23
+GDR,West Germany,Equestrianism,0,28,11
+GDR,West Germany,Fencing,0,50,27
+GDR,West Germany,Football,17,51,46
+GDR,West Germany,Gymnastics,6,420,50
+GDR,West Germany,Handball,14,71,60
+GDR,West Germany,Hockey,0,14,14
+GDR,West Germany,Judo,1,21,15
+GDR,West Germany,Modern Pentathlon,0,6,3
+GDR,West Germany,Rowing,139,205,163
+GDR,West Germany,Sailing,4,47,35
+GDR,West Germany,Shooting,3,71,40
+GDR,West Germany,Swimming,62,334,121
+GDR,West Germany,Volleyball,0,60,49
+GDR,West Germany,Water Polo,0,11,11
+GDR,West Germany,Weightlifting,1,31,25
+GDR,West Germany,Wrestling,2,57,44
+GEO,Georgia,Archery,0,18,5
+GEO,Georgia,Athletics,0,24,19
+GEO,Georgia,Beach Volleyball,0,4,4
+GEO,Georgia,Boxing,0,16,15
+GEO,Georgia,Canoeing,0,1,1
+GEO,Georgia,Cycling,0,1,1
+GEO,Georgia,Diving,0,3,3
+GEO,Georgia,Fencing,0,4,2
+GEO,Georgia,Gymnastics,0,24,1
+GEO,Georgia,Judo,5,69,40
+GEO,Georgia,Karate,0,1,1
+GEO,Georgia,Modern Pentathlon,0,1,1
+GEO,Georgia,Rhythmic Gymnastics,0,4,3
+GEO,Georgia,Sailing,0,2,2
+GEO,Georgia,Shooting,0,23,5
+GEO,Georgia,Swimming,0,11,10
+GEO,Georgia,Tennis,0,5,3
+GEO,Georgia,Trampoline Gymnastics,0,1,1
+GEO,Georgia,Trampolining,0,5,2
+GEO,Georgia,Weightlifting,4,23,16
+GEO,Georgia,Wrestling,4,81,56
+GEQ,Equatorial Guinea,Athletics,0,41,27
+GEQ,Equatorial Guinea,Judo,0,1,1
+GEQ,Equatorial Guinea,Swimming,0,4,4
+GER,Germany,3x3 Basketball,4,4,4
+GER,Germany,Alpinism,2,2,2
+GER,Germany,Archery,0,56,21
+GER,Germany,Art Competitions,9,356,191
+GER,Germany,Artistic Gymnastics,0,114,11
+GER,Germany,Athletics,27,1457,887
+GER,Germany,Badminton,0,60,29
+GER,Germany,Basketball,0,70,63
+GER,Germany,Beach Volleyball,4,54,37
+GER,Germany,Boxing,5,114,103
+GER,Germany,Canoe Slalom,1,12,7
+GER,Germany,Canoe Sprint,10,51,28
+GER,Germany,Canoeing,77,281,147
+GER,Germany,Cycling,33,416,191
+GER,Germany,Cycling BMX Freestyle,0,2,2
+GER,Germany,Cycling BMX Racing,0,4,4
+GER,Germany,Cycling Mountain Bike,0,7,7
+GER,Germany,Cycling Road,0,19,12
+GER,Germany,"Cycling Road, Cycling Track",0,2,1
+GER,Germany,Cycling Track,6,77,27
+GER,Germany,Diving,6,183,86
+GER,Germany,Equestrian,13,45,19
+GER,Germany,Equestrianism,77,301,103
+GER,Germany,Fencing,19,399,141
+GER,Germany,Figure Skating,2,3,3
+GER,Germany,Football,18,232,203
+GER,Germany,Golf,0,12,11
+GER,Germany,Gymnastics,46,994,167
+GER,Germany,Handball,22,206,162
+GER,Germany,Hockey,65,402,272
+GER,Germany,Judo,3,133,81
+GER,Germany,Karate,0,4,4
+GER,Germany,Marathon Swimming,1,5,4
+GER,Germany,"Marathon Swimming, Swimming",0,8,3
+GER,Germany,Modern Pentathlon,2,59,35
+GER,Germany,Polo,0,4,4
+GER,Germany,Rhythmic Gymnastics,1,38,37
+GER,Germany,Rowing,106,573,420
+GER,Germany,Rugby,0,15,15
+GER,Germany,Sailing,10,205,160
+GER,Germany,Shooting,11,289,133
+GER,Germany,Skateboarding,0,4,2
+GER,Germany,Sport Climbing,0,5,4
+GER,Germany,Surfing,0,3,3
+GER,Germany,Swimming,18,821,314
+GER,Germany,Synchronized Swimming,0,4,2
+GER,Germany,Table Tennis,0,98,28
+GER,Germany,Taekwondo,0,13,11
+GER,Germany,Tennis,6,117,47
+GER,Germany,Trampoline Gymnastics,0,1,1
+GER,Germany,Trampolining,1,9,4
+GER,Germany,Triathlon,1,37,22
+GER,Germany,Tug-Of-War,8,9,9
+GER,Germany,Volleyball,0,73,57
+GER,Germany,Water Polo,8,123,96
+GER,Germany,Weightlifting,6,99,74
+GER,Germany,Wrestling,6,182,133
+GHA,Ghana,Athletics,0,208,107
+GHA,Ghana,Boxing,0,59,53
+GHA,Ghana,Football,0,98,88
+GHA,Ghana,Judo,0,3,3
+GHA,Ghana,Swimming,0,6,6
+GHA,Ghana,Table Tennis,0,8,5
+GHA,Ghana,Weightlifting,0,3,2
+GRE,Greece,Archery,0,18,6
+GRE,Greece,Art Competitions,1,9,7
+GRE,Greece,Artistic Gymnastics,0,3,1
+GRE,Greece,Artistic Swimming,0,12,9
+GRE,Greece,Athletics,10,703,393
+GRE,Greece,Badminton,0,2,2
+GRE,Greece,Baseball,0,23,23
+GRE,Greece,Basketball,0,72,64
+GRE,Greece,Beach Volleyball,0,14,7
+GRE,Greece,Boxing,0,33,27
+GRE,Greece,Canoeing,0,15,6
+GRE,Greece,Cycling,1,82,41
+GRE,Greece,Cycling Mountain Bike,0,1,1
+GRE,Greece,Cycling Road,0,2,2
+GRE,Greece,Cycling Track,0,1,1
+GRE,Greece,Diving,2,26,14
+GRE,Greece,Equestrian,0,1,1
+GRE,Greece,Equestrianism,0,12,7
+GRE,Greece,Fencing,3,151,60
+GRE,Greece,Football,0,78,78
+GRE,Greece,Golf,0,1,1
+GRE,Greece,Gymnastics,6,139,45
+GRE,Greece,Handball,0,30,30
+GRE,Greece,Judo,1,28,20
+GRE,Greece,Marathon Swimming,0,2,2
+GRE,Greece,Modern Pentathlon,0,5,4
+GRE,Greece,Rhythmic Gymnastics,0,40,37
+GRE,Greece,Rowing,18,205,173
+GRE,Greece,Sailing,6,153,90
+GRE,Greece,Shooting,6,399,119
+GRE,Greece,Softball,0,14,14
+GRE,Greece,Swimming,1,297,117
+GRE,Greece,Synchronized Swimming,0,20,14
+GRE,Greece,Table Tennis,0,23,5
+GRE,Greece,Taekwondo,1,12,6
+GRE,Greece,Tennis,1,81,37
+GRE,Greece,Trampolining,0,1,1
+GRE,Greece,Triathlon,0,3,2
+GRE,Greece,Tug-Of-War,0,13,13
+GRE,Greece,Volleyball,0,24,24
+GRE,Greece,Water Polo,0,239,140
+GRE,Greece,Weightlifting,7,84,54
+GRE,Greece,Wrestling,1,148,96
+GRN,Grenada,Athletics,1,46,32
+GRN,Grenada,Boxing,0,9,8
+GRN,Grenada,Swimming,0,10,10
+GRN,Grenada,Taekwondo,0,1,1
+GUA,Guatemala,Art Competitions,0,1,1
+GUA,Guatemala,Athletics,0,90,54
+GUA,Guatemala,Badminton,0,8,5
+GUA,Guatemala,Boxing,0,7,7
+GUA,Guatemala,Canoeing,0,1,1
+GUA,Guatemala,Cycling,0,35,24
+GUA,Guatemala,Cycling Road,0,1,1
+GUA,Guatemala,Equestrianism,0,6,4
+GUA,Guatemala,Fencing,0,7,4
+GUA,Guatemala,Football,0,53,49
+GUA,Guatemala,Gymnastics,0,18,3
+GUA,Guatemala,Judo,0,7,7
+GUA,Guatemala,Modern Pentathlon,0,9,9
+GUA,Guatemala,Rowing,0,5,4
+GUA,Guatemala,Sailing,0,12,8
+GUA,Guatemala,Shooting,1,58,32
+GUA,Guatemala,Swimming,0,89,26
+GUA,Guatemala,Taekwondo,0,5,4
+GUA,Guatemala,Weightlifting,0,14,12
+GUA,Guatemala,Wrestling,0,24,14
+GUI,Guinea,Archery,0,1,1
+GUI,Guinea,Athletics,0,31,20
+GUI,Guinea,Boxing,0,7,6
+GUI,Guinea,Football,0,34,33
+GUI,Guinea,Judo,0,14,13
+GUI,Guinea,Swimming,0,12,12
+GUI,Guinea,Taekwondo,0,1,1
+GUI,Guinea,Wrestling,0,3,3
+GUM,Guam,Archery,0,1,1
+GUM,Guam,Athletics,0,23,21
+GUM,Guam,Boxing,0,1,1
+GUM,Guam,Canoe Sprint,0,2,1
+GUM,Guam,Canoeing,0,2,1
+GUM,Guam,Cycling,0,18,8
+GUM,Guam,Judo,0,9,8
+GUM,Guam,Sailing,0,8,5
+GUM,Guam,Swimming,0,46,17
+GUM,Guam,Triathlon,0,1,1
+GUM,Guam,Weightlifting,0,5,5
+GUM,Guam,Wrestling,0,9,6
+GUY,Guyana,Athletics,0,58,36
+GUY,Guyana,Boxing,0,19,19
+GUY,Guyana,Cycling,0,16,9
+GUY,Guyana,Judo,0,1,1
+GUY,Guyana,Swimming,0,10,9
+GUY,Guyana,Table Tennis,0,2,1
+GUY,Guyana,Weightlifting,0,8,8
+HAI,Haiti,Art Competitions,0,1,1
+HAI,Haiti,Artistic Gymnastics,0,6,1
+HAI,Haiti,Athletics,0,62,39
+HAI,Haiti,Boxing,0,8,8
+HAI,Haiti,Fencing,0,5,4
+HAI,Haiti,Judo,0,16,14
+HAI,Haiti,Rugby,1,1,1
+HAI,Haiti,Shooting,0,9,5
+HAI,Haiti,Swimming,0,7,7
+HAI,Haiti,Taekwondo,0,3,3
+HAI,Haiti,Tennis,0,3,2
+HAI,Haiti,Weightlifting,0,2,2
+HAI,Haiti,Wrestling,0,1,1
+HKG,Hong Kong,Archery,0,11,10
+HKG,Hong Kong,Artistic Gymnastics,0,3,1
+HKG,Hong Kong,Athletics,0,39,29
+HKG,Hong Kong,Badminton,0,46,29
+HKG,Hong Kong,Boxing,0,2,2
+HKG,Hong Kong,Canoeing,0,27,13
+HKG,Hong Kong,Cycling,0,54,25
+HKG,Hong Kong,Cycling Road,0,2,2
+HKG,Hong Kong,"Cycling Road, Cycling Track",0,2,1
+HKG,Hong Kong,Cycling Track,0,8,5
+HKG,Hong Kong,Diving,0,7,6
+HKG,Hong Kong,Equestrian,0,1,1
+HKG,Hong Kong,Equestrianism,0,6,3
+HKG,Hong Kong,Fencing,3,86,40
+HKG,Hong Kong,Golf,0,2,2
+HKG,Hong Kong,Gymnastics,0,9,2
+HKG,Hong Kong,Hockey,0,17,17
+HKG,Hong Kong,Judo,0,18,14
+HKG,Hong Kong,Karate,0,1,1
+HKG,Hong Kong,Marathon Swimming,0,1,1
+HKG,Hong Kong,Rowing,0,23,18
+HKG,Hong Kong,Sailing,1,47,38
+HKG,Hong Kong,Shooting,0,35,20
+HKG,Hong Kong,Swimming,0,237,64
+HKG,Hong Kong,Table Tennis,0,98,33
+HKG,Hong Kong,Taekwondo,0,1,1
+HKG,Hong Kong,Triathlon,0,5,4
+HKG,Hong Kong,Weightlifting,0,1,1
+HON,Honduras,Athletics,0,32,25
+HON,Honduras,Boxing,0,6,5
+HON,Honduras,Fencing,0,1,1
+HON,Honduras,Football,0,90,88
+HON,Honduras,Judo,0,8,8
+HON,Honduras,Rowing,0,1,1
+HON,Honduras,Shooting,0,1,1
+HON,Honduras,Swimming,0,70,23
+HON,Honduras,Table Tennis,0,1,1
+HON,Honduras,Taekwondo,0,3,2
+HON,Honduras,Weightlifting,0,3,2
+HON,Honduras,Wrestling,0,2,2
+HUN,Hungary,Archery,0,15,8
+HUN,Hungary,Art Competitions,1,87,24
+HUN,Hungary,Artistic Gymnastics,0,23,5
+HUN,Hungary,Athletics,11,805,416
+HUN,Hungary,Badminton,0,9,7
+HUN,Hungary,Basketball,0,61,49
+HUN,Hungary,Boxing,10,114,87
+HUN,Hungary,Canoe Sprint,6,60,24
+HUN,Hungary,Canoeing,52,306,143
+HUN,Hungary,Cycling,0,121,65
+HUN,Hungary,Cycling Mountain Bike,0,2,2
+HUN,Hungary,Cycling Road,0,3,1
+HUN,Hungary,"Cycling Road, Cycling Mountain Bike",0,2,1
+HUN,Hungary,Diving,0,39,19
+HUN,Hungary,Equestrian,0,1,1
+HUN,Hungary,Equestrianism,0,84,42
+HUN,Hungary,Fencing,108,674,209
+HUN,Hungary,Football,46,132,125
+HUN,Hungary,Gymnastics,20,1242,164
+HUN,Hungary,Handball,0,256,195
+HUN,Hungary,Hockey,0,15,15
+HUN,Hungary,Judo,1,97,54
+HUN,Hungary,Karate,0,1,1
+HUN,Hungary,Marathon Swimming,1,4,3
+HUN,Hungary,"Marathon Swimming, Swimming",0,2,1
+HUN,Hungary,Modern Pentathlon,18,101,53
+HUN,Hungary,Polo,0,5,5
+HUN,Hungary,Rhythmic Gymnastics,0,9,5
+HUN,Hungary,Rowing,0,196,139
+HUN,Hungary,Sailing,0,83,62
+HUN,Hungary,Shooting,7,320,119
+HUN,Hungary,Swimming,39,816,268
+HUN,Hungary,Synchronized Swimming,0,4,4
+HUN,Hungary,Table Tennis,0,47,22
+HUN,Hungary,Taekwondo,1,5,5
+HUN,Hungary,Tennis,0,64,29
+HUN,Hungary,Triathlon,0,23,15
+HUN,Hungary,Volleyball,0,47,34
+HUN,Hungary,Water Polo,107,356,185
+HUN,Hungary,Weightlifting,2,100,70
+HUN,Hungary,Wrestling,20,290,177
+INA,Indonesia,Archery,0,56,26
+INA,Indonesia,Artistic Gymnastics,0,2,1
+INA,Indonesia,Athletics,0,47,31
+INA,Indonesia,Badminton,13,118,75
+INA,Indonesia,Beach Volleyball,0,4,4
+INA,Indonesia,Boxing,0,21,18
+INA,Indonesia,Canoeing,0,7,4
+INA,Indonesia,Cycling,0,12,8
+INA,Indonesia,Cycling Track,0,1,1
+INA,Indonesia,Diving,0,4,4
+INA,Indonesia,Fencing,0,11,10
+INA,Indonesia,Football,0,13,13
+INA,Indonesia,Judo,0,10,8
+INA,Indonesia,Rowing,0,6,5
+INA,Indonesia,Sailing,0,14,11
+INA,Indonesia,Shooting,0,13,8
+INA,Indonesia,Sport Climbing,1,4,4
+INA,Indonesia,Surfing,0,2,1
+INA,Indonesia,Swimming,0,47,24
+INA,Indonesia,Table Tennis,0,11,5
+INA,Indonesia,Taekwondo,0,3,2
+INA,Indonesia,Tennis,0,18,9
+INA,Indonesia,Weightlifting,1,57,43
+INA,Indonesia,Wrestling,0,2,2
+IND,India,Archery,0,79,27
+IND,India,Art Competitions,0,2,2
+IND,India,Artistic Gymnastics,0,5,1
+IND,India,Athletics,1,330,216
+IND,India,Badminton,0,38,25
+IND,India,Basketball,0,12,12
+IND,India,Boxing,0,71,60
+IND,India,Cycling,0,40,18
+IND,India,Diving,0,2,2
+IND,India,Equestrian,0,2,2
+IND,India,Equestrianism,0,10,6
+IND,India,Fencing,0,1,1
+IND,India,Football,0,51,42
+IND,India,Golf,0,11,7
+IND,India,Gymnastics,0,88,11
+IND,India,Hockey,130,397,285
+IND,India,Judo,0,17,16
+IND,India,Rowing,0,13,12
+IND,India,Sailing,0,18,14
+IND,India,Shooting,1,161,77
+IND,India,Swimming,0,43,29
+IND,India,Table Tennis,0,42,20
+IND,India,Tennis,0,56,24
+IND,India,Water Polo,0,19,17
+IND,India,Weightlifting,0,42,32
+IND,India,Wrestling,0,117,89
+IOA,Independent Olympic Athletes,Athletics,0,13,13
+IOA,Independent Olympic Athletes,Boxing,0,1,1
+IOA,Independent Olympic Athletes,Canoeing,0,7,5
+IOA,Independent Olympic Athletes,Cycling,0,8,5
+IOA,Independent Olympic Athletes,Fencing,0,2,2
+IOA,Independent Olympic Athletes,Judo,0,5,5
+IOA,Independent Olympic Athletes,Rhythmic Gymnastics,0,2,2
+IOA,Independent Olympic Athletes,Rowing,0,2,2
+IOA,Independent Olympic Athletes,Sailing,0,1,1
+IOA,Independent Olympic Athletes,Shooting,1,19,14
+IOA,Independent Olympic Athletes,Swimming,0,10,6
+IOA,Independent Olympic Athletes,Synchronized Swimming,0,5,3
+IOA,Independent Olympic Athletes,Table Tennis,0,7,5
+IOA,Independent Olympic Athletes,Tennis,0,1,1
+IOA,Independent Olympic Athletes,Weightlifting,0,1,1
+IOA,Independent Olympic Athletes,Wrestling,0,9,9
+IRI,Iran,Archery,0,7,7
+IRI,Iran,Artistic Gymnastics,0,2,1
+IRI,Iran,Athletics,0,66,43
+IRI,Iran,Badminton,0,2,2
+IRI,Iran,Basketball,0,37,36
+IRI,Iran,Boxing,0,57,51
+IRI,Iran,Canoe Sprint,0,3,3
+IRI,Iran,Canoeing,0,6,4
+IRI,Iran,Cycling,0,70,36
+IRI,Iran,Cycling Road,0,3,2
+IRI,Iran,Diving,0,1,1
+IRI,Iran,Equestrianism,0,1,1
+IRI,Iran,Fencing,0,70,26
+IRI,Iran,Football,0,48,45
+IRI,Iran,Gymnastics,0,12,2
+IRI,Iran,Judo,0,18,14
+IRI,Iran,Karate,1,3,3
+IRI,Iran,Rowing,0,9,7
+IRI,Iran,Shooting,1,51,28
+IRI,Iran,Sport Climbing,0,1,1
+IRI,Iran,Swimming,0,8,8
+IRI,Iran,Table Tennis,0,13,8
+IRI,Iran,Taekwondo,3,21,18
+IRI,Iran,Volleyball,0,24,22
+IRI,Iran,Water Polo,0,11,11
+IRI,Iran,Weightlifting,7,78,56
+IRI,Iran,Wrestling,12,212,152
+IRL,Ireland,Archery,0,11,7
+IRL,Ireland,Art Competitions,0,42,31
+IRL,Ireland,Artistic Gymnastics,1,8,2
+IRL,Ireland,Athletics,4,360,223
+IRL,Ireland,Badminton,0,10,5
+IRL,Ireland,Basketball,0,13,13
+IRL,Ireland,Boxing,4,141,119
+IRL,Ireland,Canoe Slalom,0,8,4
+IRL,Ireland,Canoeing,0,48,20
+IRL,Ireland,Cycling,0,73,47
+IRL,Ireland,Cycling Road,0,8,6
+IRL,Ireland,Cycling Track,0,21,11
+IRL,Ireland,Diving,0,6,5
+IRL,Ireland,Equestrian,0,32,13
+IRL,Ireland,Equestrianism,0,183,76
+IRL,Ireland,Fencing,0,53,17
+IRL,Ireland,Football,0,23,23
+IRL,Ireland,Golf,0,12,6
+IRL,Ireland,Gymnastics,0,18,3
+IRL,Ireland,Hockey,0,51,49
+IRL,Ireland,Judo,0,18,16
+IRL,Ireland,"Marathon Swimming, Swimming",0,3,1
+IRL,Ireland,Modern Pentathlon,0,11,5
+IRL,Ireland,Rowing,4,95,71
+IRL,Ireland,Rugby Sevens,0,41,33
+IRL,Ireland,Sailing,0,93,63
+IRL,Ireland,Shooting,0,26,16
+IRL,Ireland,Swimming,3,155,55
+IRL,Ireland,Taekwondo,0,2,1
+IRL,Ireland,Tennis,0,19,7
+IRL,Ireland,Triathlon,0,7,6
+IRL,Ireland,Water Polo,0,14,12
+IRL,Ireland,Weightlifting,0,3,3
+IRL,Ireland,Wrestling,0,9,6
+IRQ,Iraq,Archery,0,1,1
+IRQ,Iraq,Athletics,0,52,32
+IRQ,Iraq,Basketball,0,10,10
+IRQ,Iraq,Boxing,0,22,19
+IRQ,Iraq,Cycling,0,3,3
+IRQ,Iraq,Football,0,99,92
+IRQ,Iraq,Judo,0,3,3
+IRQ,Iraq,Rowing,0,4,4
+IRQ,Iraq,Shooting,0,4,3
+IRQ,Iraq,Swimming,0,5,5
+IRQ,Iraq,Table Tennis,0,1,1
+IRQ,Iraq,Taekwondo,0,1,1
+IRQ,Iraq,Weightlifting,0,30,25
+IRQ,Iraq,Wrestling,0,23,19
+ISL,Iceland,Art Competitions,0,1,1
+ISL,Iceland,Athletics,0,119,66
+ISL,Iceland,Badminton,0,8,4
+ISL,Iceland,Gymnastics,0,25,2
+ISL,Iceland,Handball,0,102,71
+ISL,Iceland,Judo,0,15,9
+ISL,Iceland,Sailing,0,6,4
+ISL,Iceland,Shooting,0,6,5
+ISL,Iceland,Swimming,0,138,51
+ISL,Iceland,Triathlon,0,1,1
+ISL,Iceland,Water Polo,0,8,8
+ISL,Iceland,Weightlifting,0,7,5
+ISL,Iceland,Wrestling,0,2,2
+ISR,Israel,Archery,0,5,3
+ISR,Israel,Artistic Gymnastics,1,17,3
+ISR,Israel,Artistic Swimming,0,4,3
+ISR,Israel,Athletics,0,101,65
+ISR,Israel,Badminton,0,5,2
+ISR,Israel,Baseball/Softball,0,24,24
+ISR,Israel,Basketball,0,12,12
+ISR,Israel,Boxing,0,5,5
+ISR,Israel,Canoeing,0,15,6
+ISR,Israel,Cycling,0,4,4
+ISR,Israel,Cycling Mountain Bike,0,2,2
+ISR,Israel,Cycling Road,0,4,3
+ISR,Israel,Cycling Track,0,2,1
+ISR,Israel,Diving,0,3,1
+ISR,Israel,Equestrian,0,13,7
+ISR,Israel,Fencing,0,22,14
+ISR,Israel,Football,0,51,51
+ISR,Israel,Golf,0,1,1
+ISR,Israel,Gymnastics,0,90,14
+ISR,Israel,Judo,0,79,35
+ISR,Israel,Marathon Swimming,0,2,1
+ISR,Israel,Rhythmic Gymnastics,1,38,35
+ISR,Israel,Sailing,2,68,46
+ISR,Israel,Shooting,0,66,26
+ISR,Israel,Surfing,0,2,1
+ISR,Israel,Swimming,0,201,65
+ISR,Israel,Synchronized Swimming,0,8,3
+ISR,Israel,Table Tennis,0,1,1
+ISR,Israel,Taekwondo,0,5,4
+ISR,Israel,Tennis,0,20,10
+ISR,Israel,Triathlon,0,4,3
+ISR,Israel,Weightlifting,0,13,13
+ISR,Israel,Wrestling,0,17,14
+ISV,Virgin Islands,Archery,0,2,1
+ISV,Virgin Islands,Athletics,0,63,31
+ISV,Virgin Islands,Boxing,0,10,9
+ISV,Virgin Islands,Cycling,0,2,2
+ISV,Virgin Islands,Equestrianism,0,4,4
+ISV,Virgin Islands,Fencing,0,6,5
+ISV,Virgin Islands,Sailing,0,48,35
+ISV,Virgin Islands,Shooting,0,23,15
+ISV,Virgin Islands,Swimming,0,86,24
+ISV,Virgin Islands,Weightlifting,0,1,1
+ISV,Virgin Islands,Wrestling,0,4,4
+ITA,Italy,3x3 Basketball,0,4,4
+ITA,Italy,Archery,4,111,31
+ITA,Italy,Art Competitions,5,189,119
+ITA,Italy,Artistic Gymnastics,1,110,16
+ITA,Italy,Artistic Swimming,0,21,15
+ITA,Italy,Athletics,29,1210,665
+ITA,Italy,Badminton,0,4,3
+ITA,Italy,Baseball,0,88,67
+ITA,Italy,Baseball/Softball,0,15,15
+ITA,Italy,Basketball,0,196,143
+ITA,Italy,Beach Volleyball,0,36,23
+ITA,Italy,Boxing,15,187,167
+ITA,Italy,Breaking,0,1,1
+ITA,Italy,Canoe Slalom,1,10,4
+ITA,Italy,Canoe Sprint,0,10,7
+ITA,Italy,Canoeing,8,180,104
+ITA,Italy,Cycling,70,447,289
+ITA,Italy,Cycling BMX Racing,0,3,3
+ITA,Italy,Cycling Mountain Bike,0,8,7
+ITA,Italy,Cycling Road,0,19,13
+ITA,Italy,"Cycling Road, Cycling Track",0,10,3
+ITA,Italy,Cycling Track,8,43,16
+ITA,Italy,Diving,3,119,51
+ITA,Italy,Equestrian,0,18,11
+ITA,Italy,Equestrianism,10,293,92
+ITA,Italy,Fencing,155,820,250
+ITA,Italy,Football,14,240,223
+ITA,Italy,Golf,0,11,8
+ITA,Italy,Gymnastics,68,1363,228
+ITA,Italy,Hockey,0,33,32
+ITA,Italy,Judo,5,118,63
+ITA,Italy,Karate,1,5,5
+ITA,Italy,Marathon Swimming,0,5,5
+ITA,Italy,"Marathon Swimming, Swimming",0,5,2
+ITA,Italy,Modern Pentathlon,4,96,49
+ITA,Italy,Rhythmic Gymnastics,0,61,43
+ITA,Italy,Rowing,56,589,414
+ITA,Italy,Sailing,14,283,190
+ITA,Italy,Shooting,18,383,163
+ITA,Italy,Skateboarding,0,5,4
+ITA,Italy,Softball,0,30,25
+ITA,Italy,Sport Climbing,0,7,6
+ITA,Italy,Surfing,0,2,1
+ITA,Italy,Swimming,7,864,303
+ITA,Italy,Synchronized Swimming,0,52,35
+ITA,Italy,Table Tennis,0,22,11
+ITA,Italy,Taekwondo,2,16,12
+ITA,Italy,Tennis,2,135,51
+ITA,Italy,Trampolining,0,3,1
+ITA,Italy,Triathlon,0,32,19
+ITA,Italy,Tug-Of-War,0,8,8
+ITA,Italy,Volleyball,13,242,143
+ITA,Italy,Water Polo,46,318,191
+ITA,Italy,Weightlifting,5,102,70
+ITA,Italy,Wrestling,7,169,110
+IVB,British Virgin Islands,Athletics,0,36,21
+IVB,British Virgin Islands,Sailing,0,11,9
+IVB,British Virgin Islands,Swimming,0,2,1
+JAM,Jamaica,Artistic Gymnastics,0,1,1
+JAM,Jamaica,Athletics,48,837,363
+JAM,Jamaica,Badminton,0,1,1
+JAM,Jamaica,Boxing,0,23,22
+JAM,Jamaica,Cycling,0,35,17
+JAM,Jamaica,Diving,0,4,2
+JAM,Jamaica,Equestrianism,0,2,1
+JAM,Jamaica,Gymnastics,0,4,1
+JAM,Jamaica,Judo,0,2,2
+JAM,Jamaica,Sailing,0,17,11
+JAM,Jamaica,Shooting,0,2,2
+JAM,Jamaica,Swimming,0,44,16
+JAM,Jamaica,Table Tennis,0,6,3
+JAM,Jamaica,Taekwondo,0,1,1
+JAM,Jamaica,Triathlon,0,1,1
+JAM,Jamaica,Weightlifting,0,5,4
+JOR,Jordan,Archery,0,1,1
+JOR,Jordan,Artistic Gymnastics,0,2,1
+JOR,Jordan,Athletics,0,23,16
+JOR,Jordan,Boxing,0,13,11
+JOR,Jordan,Equestrian,0,1,1
+JOR,Jordan,Equestrianism,0,4,2
+JOR,Jordan,Fencing,0,2,2
+JOR,Jordan,Judo,0,2,2
+JOR,Jordan,Karate,0,1,1
+JOR,Jordan,Shooting,0,17,14
+JOR,Jordan,Swimming,0,17,12
+JOR,Jordan,Table Tennis,0,6,5
+JOR,Jordan,Taekwondo,1,14,11
+JOR,Jordan,Triathlon,0,1,1
+JOR,Jordan,Wrestling,0,4,2
+JPN,Japan,3x3 Basketball,0,8,8
+JPN,Japan,Archery,0,115,46
+JPN,Japan,Art Competitions,0,129,93
+JPN,Japan,Artistic Gymnastics,9,134,17
+JPN,Japan,Artistic Swimming,0,21,14
+JPN,Japan,Athletics,8,919,566
+JPN,Japan,Badminton,2,99,69
+JPN,Japan,Baseball,0,112,99
+JPN,Japan,Baseball/Softball,39,39,39
+JPN,Japan,Basketball,0,163,125
+JPN,Japan,Beach Volleyball,0,24,16
+JPN,Japan,Boxing,3,85,77
+JPN,Japan,Breaking,1,4,4
+JPN,Japan,Canoe Slalom,0,11,6
+JPN,Japan,Canoe Sprint,0,11,8
+JPN,Japan,Canoeing,0,98,57
+JPN,Japan,Cycling,0,170,106
+JPN,Japan,Cycling BMX Freestyle,0,3,3
+JPN,Japan,Cycling BMX Racing,0,4,3
+JPN,Japan,Cycling Mountain Bike,0,3,3
+JPN,Japan,Cycling Road,0,7,4
+JPN,Japan,Cycling Track,0,46,20
+JPN,Japan,Diving,0,111,48
+JPN,Japan,Equestrian,0,38,14
+JPN,Japan,Equestrianism,1,199,75
+JPN,Japan,Fencing,9,235,102
+JPN,Japan,Football,0,307,259
+JPN,Japan,Golf,0,12,11
+JPN,Japan,Gymnastics,65,1216,135
+JPN,Japan,Handball,0,111,97
+JPN,Japan,Hockey,0,177,131
+JPN,Japan,Judo,51,183,111
+JPN,Japan,Karate,1,8,8
+JPN,Japan,Marathon Swimming,0,4,3
+JPN,Japan,Modern Pentathlon,0,51,27
+JPN,Japan,Rhythmic Gymnastics,0,40,31
+JPN,Japan,Rowing,0,188,159
+JPN,Japan,Rugby Sevens,0,77,65
+JPN,Japan,Sailing,0,138,98
+JPN,Japan,Shooting,1,222,92
+JPN,Japan,Skateboarding,5,20,16
+JPN,Japan,Softball,15,59,43
+JPN,Japan,Sport Climbing,0,8,6
+JPN,Japan,Surfing,0,8,7
+JPN,Japan,Swimming,30,966,373
+JPN,Japan,Synchronized Swimming,0,78,45
+JPN,Japan,Table Tennis,2,122,41
+JPN,Japan,Taekwondo,0,11,7
+JPN,Japan,Tennis,0,92,39
+JPN,Japan,Trampoline Gymnastics,0,6,5
+JPN,Japan,Trampolining,0,12,9
+JPN,Japan,Triathlon,0,36,19
+JPN,Japan,Volleyball,36,282,205
+JPN,Japan,Water Polo,0,115,93
+JPN,Japan,Weightlifting,2,121,87
+JPN,Japan,Wrestling,45,263,200
+KAZ,Kazakhstan,Archery,0,39,19
+KAZ,Kazakhstan,Artistic Gymnastics,0,17,2
+KAZ,Kazakhstan,Artistic Swimming,0,2,2
+KAZ,Kazakhstan,Athletics,2,156,92
+KAZ,Kazakhstan,Badminton,0,1,1
+KAZ,Kazakhstan,Boxing,7,75,60
+KAZ,Kazakhstan,Breaking,0,1,1
+KAZ,Kazakhstan,Canoe Slalom,0,2,2
+KAZ,Kazakhstan,Canoe Sprint,0,17,10
+KAZ,Kazakhstan,Canoeing,0,68,27
+KAZ,Kazakhstan,Cycling,1,41,19
+KAZ,Kazakhstan,Cycling Road,0,7,4
+KAZ,Kazakhstan,Cycling Track,0,5,3
+KAZ,Kazakhstan,Diving,0,13,8
+KAZ,Kazakhstan,Fencing,0,19,14
+KAZ,Kazakhstan,Gymnastics,0,45,7
+KAZ,Kazakhstan,Handball,0,14,14
+KAZ,Kazakhstan,Judo,1,71,48
+KAZ,Kazakhstan,Karate,0,5,5
+KAZ,Kazakhstan,Marathon Swimming,0,1,1
+KAZ,Kazakhstan,Modern Pentathlon,1,14,10
+KAZ,Kazakhstan,Rhythmic Gymnastics,0,6,5
+KAZ,Kazakhstan,Rowing,0,10,6
+KAZ,Kazakhstan,Shooting,0,80,30
+KAZ,Kazakhstan,Sport Climbing,0,2,2
+KAZ,Kazakhstan,Swimming,1,74,37
+KAZ,Kazakhstan,Synchronized Swimming,0,10,8
+KAZ,Kazakhstan,Table Tennis,0,5,4
+KAZ,Kazakhstan,Taekwondo,0,13,12
+KAZ,Kazakhstan,Tennis,0,24,10
+KAZ,Kazakhstan,Trampoline Gymnastics,0,1,1
+KAZ,Kazakhstan,Trampolining,0,1,1
+KAZ,Kazakhstan,Triathlon,0,7,5
+KAZ,Kazakhstan,Volleyball,0,12,12
+KAZ,Kazakhstan,Water Polo,0,74,57
+KAZ,Kazakhstan,Weightlifting,6,42,34
+KAZ,Kazakhstan,Wrestling,1,96,66
+KEN,Kenya,Archery,0,4,3
+KEN,Kenya,Athletics,41,555,358
+KEN,Kenya,Beach Volleyball,0,2,2
+KEN,Kenya,Boxing,1,66,56
+KEN,Kenya,Cycling,0,1,1
+KEN,Kenya,Fencing,0,1,1
+KEN,Kenya,Hockey,0,110,69
+KEN,Kenya,Judo,0,9,9
+KEN,Kenya,Rowing,0,2,2
+KEN,Kenya,Rugby Sevens,0,63,58
+KEN,Kenya,Sailing,0,4,4
+KEN,Kenya,Shooting,0,32,19
+KEN,Kenya,Swimming,0,17,13
+KEN,Kenya,Taekwondo,0,3,3
+KEN,Kenya,Volleyball,0,49,39
+KEN,Kenya,Weightlifting,0,9,8
+KEN,Kenya,Wrestling,0,7,4
+KGZ,Kyrgyzstan,Athletics,0,36,25
+KGZ,Kyrgyzstan,Boxing,0,13,11
+KGZ,Kyrgyzstan,Canoeing,0,4,2
+KGZ,Kyrgyzstan,Cycling,0,5,1
+KGZ,Kyrgyzstan,Fencing,0,3,3
+KGZ,Kyrgyzstan,Judo,0,17,14
+KGZ,Kyrgyzstan,Modern Pentathlon,0,3,3
+KGZ,Kyrgyzstan,Sailing,0,1,1
+KGZ,Kyrgyzstan,Shooting,0,19,5
+KGZ,Kyrgyzstan,Swimming,0,82,35
+KGZ,Kyrgyzstan,Taekwondo,0,2,1
+KGZ,Kyrgyzstan,Weightlifting,0,8,7
+KGZ,Kyrgyzstan,Wrestling,0,53,35
+KIR,Kiribati,Athletics,0,9,9
+KIR,Kiribati,Judo,0,2,2
+KIR,Kiribati,Weightlifting,0,6,4
+KOR,South Korea,Archery,68,130,51
+KOR,South Korea,Artistic Gymnastics,1,86,11
+KOR,South Korea,Artistic Swimming,0,2,2
+KOR,South Korea,Athletics,1,253,170
+KOR,South Korea,Badminton,12,136,80
+KOR,South Korea,Baseball,24,68,60
+KOR,South Korea,Baseball/Softball,0,24,24
+KOR,South Korea,Basketball,0,146,115
+KOR,South Korea,Boxing,3,114,97
+KOR,South Korea,Breaking,0,1,1
+KOR,South Korea,Canoe Sprint,0,1,1
+KOR,South Korea,Canoeing,0,48,26
+KOR,South Korea,Cycling,0,113,70
+KOR,South Korea,Cycling Road,0,3,3
+KOR,South Korea,Cycling Track,0,2,1
+KOR,South Korea,Diving,0,41,27
+KOR,South Korea,Equestrian,0,2,2
+KOR,South Korea,Equestrianism,0,54,27
+KOR,South Korea,Fencing,16,251,108
+KOR,South Korea,Football,0,178,170
+KOR,South Korea,Golf,1,17,16
+KOR,South Korea,Gymnastics,1,512,58
+KOR,South Korea,Handball,25,260,171
+KOR,South Korea,Hockey,0,225,155
+KOR,South Korea,Judo,11,167,115
+KOR,South Korea,Karate,0,1,1
+KOR,South Korea,Modern Pentathlon,0,39,24
+KOR,South Korea,Rhythmic Gymnastics,0,7,6
+KOR,South Korea,Rowing,0,65,62
+KOR,South Korea,Rugby Sevens,0,13,13
+KOR,South Korea,Sailing,0,45,29
+KOR,South Korea,Shooting,10,259,154
+KOR,South Korea,Sport Climbing,0,5,4
+KOR,South Korea,Swimming,1,282,114
+KOR,South Korea,Synchronized Swimming,0,11,8
+KOR,South Korea,Table Tennis,4,125,42
+KOR,South Korea,Taekwondo,14,31,25
+KOR,South Korea,Tennis,0,30,14
+KOR,South Korea,Triathlon,0,1,1
+KOR,South Korea,Volleyball,0,227,176
+KOR,South Korea,Water Polo,0,13,13
+KOR,South Korea,Weightlifting,3,129,89
+KOR,South Korea,Wrestling,11,161,129
+KOS,Kosovo,Athletics,0,4,3
+KOS,Kosovo,Boxing,0,2,1
+KOS,Kosovo,Cycling,0,1,1
+KOS,Kosovo,Judo,3,12,6
+KOS,Kosovo,Shooting,0,2,2
+KOS,Kosovo,Swimming,0,6,6
+KOS,Kosovo,Wrestling,0,1,1
+KSA,Saudi Arabia,Archery,0,5,5
+KSA,Saudi Arabia,Athletics,0,109,64
+KSA,Saudi Arabia,Cycling,0,14,9
+KSA,Saudi Arabia,Equestrian,0,6,3
+KSA,Saudi Arabia,Equestrianism,0,28,7
+KSA,Saudi Arabia,Fencing,0,12,9
+KSA,Saudi Arabia,Football,0,52,52
+KSA,Saudi Arabia,Judo,0,5,4
+KSA,Saudi Arabia,Karate,0,1,1
+KSA,Saudi Arabia,Rowing,0,1,1
+KSA,Saudi Arabia,Shooting,0,15,11
+KSA,Saudi Arabia,Swimming,0,12,7
+KSA,Saudi Arabia,Table Tennis,0,3,3
+KSA,Saudi Arabia,Taekwondo,0,2,2
+KSA,Saudi Arabia,Weightlifting,0,9,9
+KUW,Kuwait,Athletics,0,53,35
+KUW,Kuwait,Boxing,0,3,3
+KUW,Kuwait,Diving,0,8,6
+KUW,Kuwait,Fencing,0,58,23
+KUW,Kuwait,Football,0,51,50
+KUW,Kuwait,Handball,0,26,25
+KUW,Kuwait,Judo,0,24,18
+KUW,Kuwait,Karate,0,1,1
+KUW,Kuwait,Rowing,0,3,3
+KUW,Kuwait,Sailing,0,1,1
+KUW,Kuwait,Shooting,0,30,16
+KUW,Kuwait,Swimming,0,39,23
+KUW,Kuwait,Table Tennis,0,3,2
+KUW,Kuwait,Taekwondo,0,1,1
+KUW,Kuwait,Weightlifting,0,2,1
+LAO,Laos,Archery,0,1,1
+LAO,Laos,Athletics,0,30,23
+LAO,Laos,Boxing,0,9,9
+LAO,Laos,Cycling,0,1,1
+LAO,Laos,Judo,0,2,1
+LAO,Laos,Rhythmic Gymnastics,0,1,1
+LAO,Laos,Shooting,0,6,6
+LAO,Laos,Swimming,0,12,10
+LAT,Latvia,3x3 Basketball,4,8,6
+LAT,Latvia,Art Competitions,0,24,7
+LAT,Latvia,Athletics,0,162,100
+LAT,Latvia,Basketball,0,19,19
+LAT,Latvia,Beach Volleyball,0,14,9
+LAT,Latvia,Boxing,0,3,3
+LAT,Latvia,Canoe Sprint,0,1,1
+LAT,Latvia,Canoeing,0,20,10
+LAT,Latvia,Cycling,2,62,33
+LAT,Latvia,Cycling BMX Freestyle,0,1,1
+LAT,Latvia,Cycling BMX Racing,0,4,4
+LAT,Latvia,Cycling Mountain Bike,0,1,1
+LAT,Latvia,Cycling Road,0,5,3
+LAT,Latvia,Diving,0,1,1
+LAT,Latvia,Equestrian,0,2,1
+LAT,Latvia,Fencing,0,1,1
+LAT,Latvia,Football,0,11,11
+LAT,Latvia,Gymnastics,1,28,4
+LAT,Latvia,Judo,0,11,6
+LAT,Latvia,Karate,0,1,1
+LAT,Latvia,Modern Pentathlon,0,18,7
+LAT,Latvia,Rowing,0,8,6
+LAT,Latvia,Sailing,0,9,6
+LAT,Latvia,Shooting,0,21,8
+LAT,Latvia,Swimming,0,34,13
+LAT,Latvia,Table Tennis,0,1,1
+LAT,Latvia,Tennis,0,11,6
+LAT,Latvia,Weightlifting,0,23,15
+LAT,Latvia,Wrestling,0,19,16
+LBA,Libya,Archery,0,1,1
+LBA,Libya,Athletics,0,29,21
+LBA,Libya,Cycling,0,14,11
+LBA,Libya,Judo,0,8,7
+LBA,Libya,Rowing,0,3,3
+LBA,Libya,Shooting,0,1,1
+LBA,Libya,Swimming,0,17,13
+LBA,Libya,Table Tennis,0,1,1
+LBA,Libya,Taekwondo,0,3,3
+LBA,Libya,Volleyball,0,9,9
+LBA,Libya,Weightlifting,0,8,8
+LBN,Lebanon,Athletics,0,1,1
+LBN,Lebanon,Fencing,0,1,1
+LBN,Lebanon,Judo,0,2,2
+LBN,Lebanon,Shooting,0,2,1
+LBN,Lebanon,Swimming,0,4,4
+LBN,Lebanon,Table Tennis,0,1,1
+LBN,Lebanon,Taekwondo,0,1,1
+LBN,Lebanon,Tennis,0,4,2
+LBN,Lebanon,Weightlifting,0,1,1
+LBR,Liberia,Athletics,0,84,45
+LBR,Liberia,Boxing,0,4,4
+LCA,Saint Lucia,Athletics,1,23,15
+LCA,Saint Lucia,Sailing,0,6,5
+LCA,Saint Lucia,Swimming,0,9,8
+LES,Lesotho,Athletics,0,55,40
+LES,Lesotho,Boxing,0,10,10
+LES,Lesotho,Cycling,0,1,1
+LES,Lesotho,Swimming,0,1,1
+LES,Lesotho,Taekwondo,0,4,4
+LIB,,Athletics,0,29,19
+LIB,,Boxing,0,9,8
+LIB,,Canoeing,0,1,1
+LIB,,Cycling,0,13,8
+LIB,,Fencing,0,55,18
+LIB,,Judo,0,18,16
+LIB,,Rowing,0,1,1
+LIB,,Sailing,0,3,3
+LIB,,Shooting,0,26,20
+LIB,,Swimming,0,43,19
+LIB,,Table Tennis,0,3,3
+LIB,,Taekwondo,0,1,1
+LIB,,Weightlifting,0,13,9
+LIB,,Wrestling,0,23,20
+LIE,Liechtenstein,Artistic Swimming,0,2,2
+LIE,Liechtenstein,Athletics,0,33,17
+LIE,Liechtenstein,Cycling,0,14,8
+LIE,Liechtenstein,Cycling Mountain Bike,0,1,1
+LIE,Liechtenstein,Equestrianism,0,1,1
+LIE,Liechtenstein,Gymnastics,0,7,1
+LIE,Liechtenstein,Judo,0,17,12
+LIE,Liechtenstein,Shooting,0,16,11
+LIE,Liechtenstein,Swimming,0,10,2
+LIE,Liechtenstein,Tennis,0,2,1
+LTU,Lithuania,3x3 Basketball,0,4,4
+LTU,Lithuania,Artistic Gymnastics,0,10,1
+LTU,Lithuania,Athletics,3,134,87
+LTU,Lithuania,Badminton,0,3,2
+LTU,Lithuania,Basketball,0,83,52
+LTU,Lithuania,Beach Volleyball,0,2,2
+LTU,Lithuania,Boxing,0,18,14
+LTU,Lithuania,Breaking,0,1,1
+LTU,Lithuania,Canoe Sprint,0,8,5
+LTU,Lithuania,Canoeing,0,26,15
+LTU,Lithuania,Cycling,0,81,35
+LTU,Lithuania,Cycling Road,0,3,2
+LTU,Lithuania,Cycling Track,0,10,4
+LTU,Lithuania,Equestrian,0,2,2
+LTU,Lithuania,Football,0,11,11
+LTU,Lithuania,Gymnastics,0,23,5
+LTU,Lithuania,Judo,0,9,7
+LTU,Lithuania,Modern Pentathlon,1,25,12
+LTU,Lithuania,Rhythmic Gymnastics,0,1,1
+LTU,Lithuania,Rowing,0,47,36
+LTU,Lithuania,Sailing,0,14,8
+LTU,Lithuania,Shooting,1,8,3
+LTU,Lithuania,Swimming,1,104,36
+LTU,Lithuania,Table Tennis,0,5,2
+LTU,Lithuania,Tennis,0,1,1
+LTU,Lithuania,Weightlifting,0,7,4
+LTU,Lithuania,Wrestling,0,20,12
+LUX,Luxembourg,Archery,0,12,8
+LUX,Luxembourg,Art Competitions,2,42,10
+LUX,Luxembourg,Athletics,2,108,55
+LUX,Luxembourg,Boxing,0,29,26
+LUX,Luxembourg,Canoeing,0,19,12
+LUX,Luxembourg,Cycling,0,72,42
+LUX,Luxembourg,Cycling Road,0,6,4
+LUX,Luxembourg,Equestrian,0,2,1
+LUX,Luxembourg,Fencing,0,58,22
+LUX,Luxembourg,Football,0,67,60
+LUX,Luxembourg,Gymnastics,0,433,56
+LUX,Luxembourg,Judo,0,4,2
+LUX,Luxembourg,Sailing,0,1,1
+LUX,Luxembourg,Shooting,0,22,13
+LUX,Luxembourg,Swimming,0,57,31
+LUX,Luxembourg,Table Tennis,0,11,5
+LUX,Luxembourg,Tennis,0,9,4
+LUX,Luxembourg,Triathlon,0,6,5
+LUX,Luxembourg,Water Polo,0,7,7
+LUX,Luxembourg,Weightlifting,0,14,10
+LUX,Luxembourg,Wrestling,0,18,15
+MAD,Madagascar,Athletics,0,61,37
+MAD,Madagascar,Boxing,0,12,10
+MAD,Madagascar,Cycling,0,1,1
+MAD,Madagascar,Judo,0,15,14
+MAD,Madagascar,Swimming,0,25,16
+MAD,Madagascar,Table Tennis,0,1,1
+MAD,Madagascar,Tennis,0,8,2
+MAD,Madagascar,Weightlifting,0,6,6
+MAD,Madagascar,Wrestling,0,1,1
+MAL,,Athletics,0,13,10
+MAL,,Hockey,0,17,17
+MAL,,Shooting,0,5,5
+MAL,,Swimming,0,5,3
+MAL,,Weightlifting,0,5,5
+MAR,Morocco,Archery,0,1,1
+MAR,Morocco,Athletics,8,226,148
+MAR,Morocco,Basketball,0,12,12
+MAR,Morocco,Beach Volleyball,0,4,2
+MAR,Morocco,Boxing,0,92,71
+MAR,Morocco,Breaking,0,2,2
+MAR,Morocco,Canoe Slalom,0,4,2
+MAR,Morocco,Canoe Sprint,0,1,1
+MAR,Morocco,Canoeing,0,3,3
+MAR,Morocco,Cycling,0,20,12
+MAR,Morocco,Cycling BMX Racing,0,1,1
+MAR,Morocco,Cycling Road,0,3,2
+MAR,Morocco,Equestrian,0,10,6
+MAR,Morocco,Equestrianism,0,2,2
+MAR,Morocco,Fencing,0,33,12
+MAR,Morocco,Football,0,129,127
+MAR,Morocco,Golf,0,3,2
+MAR,Morocco,Gymnastics,0,49,7
+MAR,Morocco,Judo,0,34,25
+MAR,Morocco,Karate,0,1,1
+MAR,Morocco,Modern Pentathlon,0,2,2
+MAR,Morocco,Rowing,0,2,2
+MAR,Morocco,Sailing,0,2,2
+MAR,Morocco,Shooting,0,11,8
+MAR,Morocco,Skateboarding,0,1,1
+MAR,Morocco,Surfing,0,2,1
+MAR,Morocco,Swimming,0,13,9
+MAR,Morocco,Table Tennis,0,1,1
+MAR,Morocco,Taekwondo,0,20,15
+MAR,Morocco,Tennis,0,6,3
+MAR,Morocco,Triathlon,0,2,2
+MAR,Morocco,Weightlifting,0,12,10
+MAR,Morocco,Wrestling,0,42,30
+MAS,Malaysia,Archery,0,30,12
+MAS,Malaysia,Artistic Gymnastics,0,12,2
+MAS,Malaysia,Athletics,0,69,43
+MAS,Malaysia,Badminton,0,67,42
+MAS,Malaysia,Boxing,0,3,3
+MAS,Malaysia,Canoeing,0,1,1
+MAS,Malaysia,Cycling,0,51,23
+MAS,Malaysia,Cycling Road,0,1,1
+MAS,Malaysia,Cycling Track,0,10,3
+MAS,Malaysia,Diving,0,44,19
+MAS,Malaysia,Fencing,0,4,2
+MAS,Malaysia,Football,0,15,15
+MAS,Malaysia,Golf,0,8,5
+MAS,Malaysia,Gymnastics,0,9,2
+MAS,Malaysia,Hockey,0,126,91
+MAS,Malaysia,Judo,0,1,1
+MAS,Malaysia,Sailing,0,13,7
+MAS,Malaysia,Shooting,0,24,20
+MAS,Malaysia,Swimming,0,99,33
+MAS,Malaysia,Table Tennis,0,4,2
+MAS,Malaysia,Taekwondo,0,4,3
+MAS,Malaysia,Weightlifting,0,12,11
+MAS,Malaysia,Wrestling,0,2,2
+MAW,Malawi,Archery,0,2,1
+MAW,Malawi,Athletics,0,48,31
+MAW,Malawi,Boxing,0,16,15
+MAW,Malawi,Cycling,0,17,6
+MAW,Malawi,Judo,0,1,1
+MAW,Malawi,Swimming,0,11,10
+MDA,Moldova,Archery,0,12,4
+MDA,Moldova,Athletics,0,72,36
+MDA,Moldova,Boxing,0,8,5
+MDA,Moldova,Canoe Sprint,0,10,3
+MDA,Moldova,Canoeing,0,8,6
+MDA,Moldova,Cycling,0,12,7
+MDA,Moldova,Equestrian,0,1,1
+MDA,Moldova,Judo,0,16,13
+MDA,Moldova,Shooting,0,8,4
+MDA,Moldova,Swimming,0,45,23
+MDA,Moldova,Table Tennis,0,1,1
+MDA,Moldova,Taekwondo,0,1,1
+MDA,Moldova,Tennis,0,1,1
+MDA,Moldova,Weightlifting,0,24,17
+MDA,Moldova,Wrestling,0,28,22
+MDV,Maldives,Athletics,0,35,21
+MDV,Maldives,Badminton,0,3,2
+MDV,Maldives,Swimming,0,19,14
+MDV,Maldives,Table Tennis,0,1,1
+MEX,Mexico,Archery,0,79,31
+MEX,Mexico,Art Competitions,0,18,2
+MEX,Mexico,Artistic Gymnastics,0,30,4
+MEX,Mexico,Artistic Swimming,0,13,9
+MEX,Mexico,Athletics,3,413,258
+MEX,Mexico,Badminton,0,6,6
+MEX,Mexico,Baseball/Softball,0,39,39
+MEX,Mexico,Basketball,0,84,65
+MEX,Mexico,Beach Volleyball,0,14,12
+MEX,Mexico,Boxing,2,104,99
+MEX,Mexico,Canoe Slalom,0,3,1
+MEX,Mexico,Canoe Sprint,0,4,2
+MEX,Mexico,Canoeing,0,64,33
+MEX,Mexico,Cycling,0,141,81
+MEX,Mexico,Cycling Mountain Bike,0,4,4
+MEX,Mexico,Cycling Road,0,3,3
+MEX,Mexico,Cycling Track,0,15,5
+MEX,Mexico,Diving,1,194,80
+MEX,Mexico,Equestrian,0,14,7
+MEX,Mexico,Equestrianism,4,185,70
+MEX,Mexico,Fencing,0,129,57
+MEX,Mexico,Football,16,206,201
+MEX,Mexico,Golf,0,11,7
+MEX,Mexico,Gymnastics,0,244,36
+MEX,Mexico,Hockey,0,34,24
+MEX,Mexico,Judo,0,33,23
+MEX,Mexico,Marathon Swimming,0,3,3
+MEX,Mexico,Modern Pentathlon,0,83,36
+MEX,Mexico,Polo,0,7,5
+MEX,Mexico,Rhythmic Gymnastics,0,6,6
+MEX,Mexico,Rowing,0,73,55
+MEX,Mexico,Sailing,0,70,52
+MEX,Mexico,Shooting,0,128,74
+MEX,Mexico,Surfing,0,1,1
+MEX,Mexico,Swimming,1,403,135
+MEX,Mexico,Synchronized Swimming,0,34,22
+MEX,Mexico,Table Tennis,0,7,5
+MEX,Mexico,Taekwondo,2,21,17
+MEX,Mexico,Tennis,0,33,16
+MEX,Mexico,Trampoline Gymnastics,0,1,1
+MEX,Mexico,Triathlon,0,23,16
+MEX,Mexico,Volleyball,0,36,36
+MEX,Mexico,Water Polo,0,40,31
+MEX,Mexico,Weightlifting,1,33,26
+MEX,Mexico,Wrestling,0,75,54
+MGL,Mongolia,3x3 Basketball,0,4,4
+MGL,Mongolia,Archery,0,27,16
+MGL,Mongolia,Athletics,0,28,19
+MGL,Mongolia,Boxing,1,59,49
+MGL,Mongolia,Cycling,0,24,13
+MGL,Mongolia,Cycling Road,0,2,1
+MGL,Mongolia,Gymnastics,0,49,6
+MGL,Mongolia,Judo,1,128,75
+MGL,Mongolia,Shooting,0,81,20
+MGL,Mongolia,Swimming,0,13,11
+MGL,Mongolia,Table Tennis,0,2,2
+MGL,Mongolia,Taekwondo,0,1,1
+MGL,Mongolia,Weightlifting,0,16,14
+MGL,Mongolia,Wrestling,0,128,85
+MHL,Marshall Islands,Athletics,0,7,6
+MHL,Marshall Islands,Swimming,0,10,8
+MHL,Marshall Islands,Taekwondo,0,1,1
+MHL,Marshall Islands,Weightlifting,0,2,1
+MKD,North Macedonia,Athletics,0,12,11
+MKD,North Macedonia,Canoeing,0,6,4
+MKD,North Macedonia,Judo,0,3,3
+MKD,North Macedonia,Karate,0,1,1
+MKD,North Macedonia,Shooting,0,9,6
+MKD,North Macedonia,Swimming,0,33,15
+MKD,North Macedonia,Taekwondo,0,2,2
+MKD,North Macedonia,Wrestling,0,10,9
+MLI,Mali,Athletics,0,36,23
+MLI,Mali,Basketball,0,12,12
+MLI,Mali,Boxing,0,5,5
+MLI,Mali,Football,0,35,35
+MLI,Mali,Judo,0,14,13
+MLI,Mali,Swimming,0,13,10
+MLI,Mali,Taekwondo,0,5,4
+MLT,Malta,Archery,0,4,2
+MLT,Malta,Athletics,0,22,18
+MLT,Malta,Badminton,0,1,1
+MLT,Malta,Cycling,0,18,10
+MLT,Malta,Judo,0,9,5
+MLT,Malta,Sailing,0,10,8
+MLT,Malta,Shooting,0,21,9
+MLT,Malta,Swimming,0,20,12
+MLT,Malta,Water Polo,0,18,18
+MLT,Malta,Weightlifting,0,2,2
+MLT,Malta,Wrestling,0,4,3
+MNE,Montenegro,Athletics,0,9,6
+MNE,Montenegro,Boxing,0,3,3
+MNE,Montenegro,Handball,0,44,32
+MNE,Montenegro,Judo,0,4,2
+MNE,Montenegro,Sailing,0,4,2
+MNE,Montenegro,Shooting,0,5,2
+MNE,Montenegro,Swimming,0,7,7
+MNE,Montenegro,Tennis,0,2,2
+MNE,Montenegro,Water Polo,0,65,41
+MON,Monaco,Archery,0,2,1
+MON,Monaco,Art Competitions,0,8,4
+MON,Monaco,Athletics,0,17,8
+MON,Monaco,Cycling,0,1,1
+MON,Monaco,Fencing,0,7,4
+MON,Monaco,Gymnastics,0,8,3
+MON,Monaco,Judo,0,10,6
+MON,Monaco,Marathon Swimming,0,1,1
+MON,Monaco,Rowing,0,9,7
+MON,Monaco,Sailing,0,13,11
+MON,Monaco,Shooting,0,51,20
+MON,Monaco,Swimming,0,15,8
+MON,Monaco,Table Tennis,0,2,1
+MON,Monaco,Taekwondo,0,1,1
+MON,Monaco,Triathlon,0,1,1
+MON,Monaco,Weightlifting,0,2,2
+MOZ,Mozambique,Athletics,1,39,25
+MOZ,Mozambique,Boxing,0,9,8
+MOZ,Mozambique,Canoe Sprint,0,1,1
+MOZ,Mozambique,Canoeing,0,4,2
+MOZ,Mozambique,Judo,0,5,5
+MOZ,Mozambique,Sailing,0,4,3
+MOZ,Mozambique,Swimming,0,33,23
+MRI,Mauritius,Archery,0,3,2
+MRI,Mauritius,Athletics,0,51,31
+MRI,Mauritius,Badminton,0,30,12
+MRI,Mauritius,Beach Volleyball,0,2,2
+MRI,Mauritius,Boxing,0,16,14
+MRI,Mauritius,Cycling,0,2,1
+MRI,Mauritius,Cycling Road,0,2,2
+MRI,Mauritius,Judo,0,8,6
+MRI,Mauritius,Sailing,0,3,3
+MRI,Mauritius,Swimming,0,29,18
+MRI,Mauritius,Table Tennis,0,5,3
+MRI,Mauritius,Triathlon,0,3,2
+MRI,Mauritius,Weightlifting,0,8,7
+MRI,Mauritius,Wrestling,0,2,1
+MTN,Mauritania,Athletics,0,25,19
+MTN,Mauritania,Swimming,0,1,1
+MTN,Mauritania,Wrestling,0,7,5
+MYA,Myanmar,Archery,0,5,4
+MYA,Myanmar,Athletics,0,30,20
+MYA,Myanmar,Badminton,0,2,1
+MYA,Myanmar,Boxing,0,20,17
+MYA,Myanmar,Canoeing,0,2,1
+MYA,Myanmar,Football,0,13,13
+MYA,Myanmar,Judo,0,3,3
+MYA,Myanmar,Rowing,0,2,1
+MYA,Myanmar,Sailing,0,6,3
+MYA,Myanmar,Shooting,0,7,6
+MYA,Myanmar,Swimming,0,8,6
+MYA,Myanmar,Weightlifting,0,17,14
+NAM,Namibia,Athletics,0,35,18
+NAM,Namibia,Boxing,0,14,12
+NAM,Namibia,Cycling,0,10,6
+NAM,Namibia,Cycling Mountain Bike,0,3,2
+NAM,Namibia,Cycling Road,0,3,2
+NAM,Namibia,Gymnastics,0,5,1
+NAM,Namibia,Marathon Swimming,0,2,2
+NAM,Namibia,Rowing,0,1,1
+NAM,Namibia,Shooting,0,8,2
+NAM,Namibia,Swimming,0,9,2
+NAM,Namibia,Wrestling,0,2,2
+NBO,,Athletics,0,2,2
+NCA,Nicaragua,Athletics,0,40,27
+NCA,Nicaragua,Baseball,0,20,19
+NCA,Nicaragua,Boxing,0,14,14
+NCA,Nicaragua,Cycling,0,10,5
+NCA,Nicaragua,Judo,0,7,5
+NCA,Nicaragua,Rowing,0,3,2
+NCA,Nicaragua,Shooting,0,10,6
+NCA,Nicaragua,Surfing,0,1,1
+NCA,Nicaragua,Swimming,0,25,14
+NCA,Nicaragua,Taekwondo,0,1,1
+NCA,Nicaragua,Weightlifting,0,12,11
+NCA,Nicaragua,Wrestling,0,1,1
+NED,Netherlands,3x3 Basketball,4,8,6
+NED,Netherlands,Archery,8,72,38
+NED,Netherlands,Art Competitions,2,209,115
+NED,Netherlands,Artistic Gymnastics,0,101,14
+NED,Netherlands,Artistic Swimming,0,4,2
+NED,Netherlands,Athletics,18,633,336
+NED,Netherlands,Badminton,0,38,20
+NED,Netherlands,Baseball,0,92,64
+NED,Netherlands,Beach Volleyball,0,40,25
+NED,Netherlands,Boxing,1,68,60
+NED,Netherlands,Breaking,0,3,3
+NED,Netherlands,Canoe Slalom,0,7,3
+NED,Netherlands,Canoe Sprint,0,4,2
+NED,Netherlands,Canoeing,0,85,46
+NED,Netherlands,Cycling,25,473,236
+NED,Netherlands,Cycling BMX Racing,1,12,9
+NED,Netherlands,Cycling Mountain Bike,0,6,5
+NED,Netherlands,Cycling Road,1,22,13
+NED,Netherlands,Cycling Track,12,53,17
+NED,Netherlands,Diving,0,38,25
+NED,Netherlands,Equestrian,0,40,15
+NED,Netherlands,Equestrianism,18,248,81
+NED,Netherlands,Fencing,0,254,82
+NED,Netherlands,Football,0,133,124
+NED,Netherlands,Golf,0,3,2
+NED,Netherlands,Gymnastics,12,349,83
+NED,Netherlands,Handball,0,46,31
+NED,Netherlands,Hockey,133,489,314
+NED,Netherlands,Judo,4,124,66
+NED,Netherlands,Marathon Swimming,1,3,2
+NED,Netherlands,Modern Pentathlon,0,18,13
+NED,Netherlands,Rowing,36,538,391
+NED,Netherlands,Sailing,15,231,149
+NED,Netherlands,Shooting,0,175,68
+NED,Netherlands,Skateboarding,0,4,2
+NED,Netherlands,Softball,0,30,30
+NED,Netherlands,Swimming,30,775,271
+NED,Netherlands,Synchronized Swimming,0,14,8
+NED,Netherlands,Table Tennis,0,44,11
+NED,Netherlands,Taekwondo,0,7,7
+NED,Netherlands,Tennis,0,69,29
+NED,Netherlands,Trampolining,0,4,2
+NED,Netherlands,Triathlon,0,23,16
+NED,Netherlands,Tug-Of-War,0,8,8
+NED,Netherlands,Volleyball,12,118,85
+NED,Netherlands,Water Polo,12,221,164
+NED,Netherlands,Weightlifting,0,24,20
+NED,Netherlands,Wrestling,0,44,36
+NEP,Nepal,Archery,0,1,1
+NEP,Nepal,Athletics,0,41,32
+NEP,Nepal,Badminton,0,1,1
+NEP,Nepal,Boxing,0,15,14
+NEP,Nepal,Judo,0,6,6
+NEP,Nepal,Shooting,0,9,9
+NEP,Nepal,Swimming,0,16,13
+NEP,Nepal,Table Tennis,0,1,1
+NEP,Nepal,Taekwondo,0,3,3
+NEP,Nepal,Weightlifting,0,7,7
+NFL,,Athletics,0,1,1
+NGR,Nigeria,Artistic Gymnastics,0,7,1
+NGR,Nigeria,Athletics,7,486,245
+NGR,Nigeria,Badminton,0,9,6
+NGR,Nigeria,Basketball,0,71,62
+NGR,Nigeria,Boxing,0,75,69
+NGR,Nigeria,Canoe Sprint,0,5,3
+NGR,Nigeria,Canoeing,0,2,1
+NGR,Nigeria,"Cycling Road, Cycling Track",0,3,1
+NGR,Nigeria,Football,16,181,166
+NGR,Nigeria,Handball,0,16,16
+NGR,Nigeria,Judo,0,11,8
+NGR,Nigeria,Rowing,0,2,2
+NGR,Nigeria,Swimming,0,15,12
+NGR,Nigeria,Table Tennis,0,80,23
+NGR,Nigeria,Taekwondo,0,9,5
+NGR,Nigeria,Tennis,0,6,4
+NGR,Nigeria,Weightlifting,0,29,23
+NGR,Nigeria,Wrestling,0,46,36
+NIG,Niger,Athletics,0,24,21
+NIG,Niger,Boxing,0,13,11
+NIG,Niger,Fencing,0,1,1
+NIG,Niger,Judo,0,5,4
+NIG,Niger,Rowing,0,1,1
+NIG,Niger,Swimming,0,12,12
+NIG,Niger,Taekwondo,0,5,5
+NOR,Norway,Archery,0,18,9
+NOR,Norway,Art Competitions,0,17,8
+NOR,Norway,Artistic Gymnastics,0,5,2
+NOR,Norway,Athletics,11,397,234
+NOR,Norway,Badminton,0,3,3
+NOR,Norway,Beach Volleyball,2,28,16
+NOR,Norway,Boxing,1,56,51
+NOR,Norway,Canoe Sprint,0,8,5
+NOR,Norway,Canoeing,9,100,51
+NOR,Norway,Cycling,2,152,84
+NOR,Norway,Cycling BMX Racing,0,1,1
+NOR,Norway,Cycling Mountain Bike,0,2,2
+NOR,Norway,Cycling Road,0,14,10
+NOR,Norway,Cycling Track,0,2,2
+NOR,Norway,Diving,0,26,18
+NOR,Norway,Equestrian,0,3,3
+NOR,Norway,Equestrianism,0,60,24
+NOR,Norway,Fencing,0,104,38
+NOR,Norway,Figure Skating,0,6,6
+NOR,Norway,Football,17,118,110
+NOR,Norway,Golf,0,10,9
+NOR,Norway,Gymnastics,44,346,127
+NOR,Norway,Handball,43,177,122
+NOR,Norway,Judo,0,4,4
+NOR,Norway,"Marathon Swimming, Swimming",0,3,1
+NOR,Norway,Modern Pentathlon,0,6,5
+NOR,Norway,Rhythmic Gymnastics,0,1,1
+NOR,Norway,Rowing,4,188,133
+NOR,Norway,Sailing,81,279,211
+NOR,Norway,Shooting,29,436,125
+NOR,Norway,Swimming,0,114,48
+NOR,Norway,Taekwondo,0,6,4
+NOR,Norway,Tennis,0,35,12
+NOR,Norway,Triathlon,1,9,7
+NOR,Norway,Weightlifting,2,15,12
+NOR,Norway,Wrestling,4,89,62
+NRU,Nauru,Athletics,0,2,2
+NRU,Nauru,Judo,0,2,2
+NRU,Nauru,Weightlifting,0,12,9
+NZL,New Zealand,Archery,0,10,8
+NZL,New Zealand,Artistic Gymnastics,0,13,2
+NZL,New Zealand,Artistic Swimming,0,2,2
+NZL,New Zealand,Athletics,11,268,163
+NZL,New Zealand,Badminton,0,15,9
+NZL,New Zealand,Basketball,0,60,43
+NZL,New Zealand,Beach Volleyball,0,2,2
+NZL,New Zealand,Boxing,1,29,28
+NZL,New Zealand,Canoe Slalom,1,7,3
+NZL,New Zealand,Canoe Sprint,11,31,12
+NZL,New Zealand,Canoeing,12,75,33
+NZL,New Zealand,Cycling,1,230,121
+NZL,New Zealand,Cycling BMX Racing,0,4,4
+NZL,New Zealand,Cycling Mountain Bike,0,3,3
+NZL,New Zealand,Cycling Road,0,10,6
+NZL,New Zealand,Cycling Track,2,57,27
+NZL,New Zealand,Diving,0,8,8
+NZL,New Zealand,Equestrian,0,24,11
+NZL,New Zealand,Equestrianism,3,121,39
+NZL,New Zealand,Fencing,0,8,5
+NZL,New Zealand,Football,0,164,119
+NZL,New Zealand,Golf,1,8,5
+NZL,New Zealand,Gymnastics,0,51,9
+NZL,New Zealand,Hockey,14,346,234
+NZL,New Zealand,Judo,0,21,17
+NZL,New Zealand,Karate,0,1,1
+NZL,New Zealand,Modern Pentathlon,0,1,1
+NZL,New Zealand,Rhythmic Gymnastics,0,2,2
+NZL,New Zealand,Rowing,45,306,199
+NZL,New Zealand,Rugby Sevens,25,76,54
+NZL,New Zealand,Sailing,14,176,114
+NZL,New Zealand,Shooting,0,46,27
+NZL,New Zealand,Softball,0,15,15
+NZL,New Zealand,Sport Climbing,0,2,2
+NZL,New Zealand,Surfing,0,4,3
+NZL,New Zealand,Swimming,2,342,120
+NZL,New Zealand,Synchronized Swimming,0,6,4
+NZL,New Zealand,Table Tennis,0,17,5
+NZL,New Zealand,Taekwondo,0,9,7
+NZL,New Zealand,Tennis,0,14,9
+NZL,New Zealand,Trampoline Gymnastics,0,4,2
+NZL,New Zealand,Trampolining,0,1,1
+NZL,New Zealand,Triathlon,1,36,20
+NZL,New Zealand,Water Polo,1,1,1
+NZL,New Zealand,Weightlifting,0,30,23
+NZL,New Zealand,Wrestling,0,18,17
+OMA,Oman,Athletics,0,42,23
+OMA,Oman,Boxing,0,2,2
+OMA,Oman,Cycling,0,1,1
+OMA,Oman,Sailing,0,1,1
+OMA,Oman,Shooting,0,23,16
+OMA,Oman,Swimming,0,5,4
+OMA,Oman,Weightlifting,0,1,1
+PAK,Pakistan,Athletics,1,134,68
+PAK,Pakistan,Badminton,0,1,1
+PAK,Pakistan,Boxing,0,48,38
+PAK,Pakistan,Cycling,0,31,11
+PAK,Pakistan,Hockey,42,245,151
+PAK,Pakistan,Judo,0,2,2
+PAK,Pakistan,Rowing,0,3,3
+PAK,Pakistan,Sailing,0,10,8
+PAK,Pakistan,Shooting,0,31,17
+PAK,Pakistan,Swimming,0,29,22
+PAK,Pakistan,Table Tennis,0,1,1
+PAK,Pakistan,Weightlifting,0,13,8
+PAK,Pakistan,Wrestling,0,32,24
+PAN,Panama,Artistic Gymnastics,0,6,1
+PAN,Panama,Athletics,1,42,23
+PAN,Panama,Basketball,0,12,12
+PAN,Panama,Boxing,0,7,6
+PAN,Panama,Canoeing,0,1,1
+PAN,Panama,Cycling Road,0,2,2
+PAN,Panama,Fencing,0,3,3
+PAN,Panama,Gymnastics,0,4,1
+PAN,Panama,Judo,0,7,6
+PAN,Panama,Shooting,0,4,3
+PAN,Panama,Swimming,0,38,17
+PAN,Panama,Taekwondo,0,2,1
+PAN,Panama,Weightlifting,0,17,12
+PAN,Panama,Wrestling,0,18,12
+PAR,Paraguay,Athletics,0,35,24
+PAR,Paraguay,Beach Volleyball,0,2,2
+PAR,Paraguay,Boxing,0,4,4
+PAR,Paraguay,Cycling Road,0,1,1
+PAR,Paraguay,Fencing,0,9,7
+PAR,Paraguay,Football,0,53,51
+PAR,Paraguay,Golf,0,4,3
+PAR,Paraguay,Judo,0,6,5
+PAR,Paraguay,Rowing,0,8,6
+PAR,Paraguay,Sailing,0,2,2
+PAR,Paraguay,Shooting,0,10,9
+PAR,Paraguay,Swimming,0,25,15
+PAR,Paraguay,Table Tennis,0,3,1
+PAR,Paraguay,Tennis,0,10,6
+PER,Peru,Art Competitions,0,3,2
+PER,Peru,Artistic Gymnastics,0,5,1
+PER,Peru,Athletics,0,101,70
+PER,Peru,Badminton,0,7,6
+PER,Peru,Basketball,0,32,32
+PER,Peru,Boxing,0,10,10
+PER,Peru,Canoeing,0,1,1
+PER,Peru,Cycling,0,26,15
+PER,Peru,Cycling Road,0,1,1
+PER,Peru,Diving,0,3,2
+PER,Peru,Equestrianism,0,2,2
+PER,Peru,Fencing,0,10,7
+PER,Peru,Football,0,31,31
+PER,Peru,Gymnastics,0,4,1
+PER,Peru,Judo,0,7,5
+PER,Peru,Karate,0,1,1
+PER,Peru,Marathon Swimming,0,1,1
+PER,Peru,Modern Pentathlon,0,2,2
+PER,Peru,Rowing,0,16,16
+PER,Peru,Sailing,0,14,10
+PER,Peru,Shooting,1,96,45
+PER,Peru,Skateboarding,0,1,1
+PER,Peru,Surfing,0,7,6
+PER,Peru,Swimming,0,85,37
+PER,Peru,Table Tennis,0,11,7
+PER,Peru,Taekwondo,0,3,2
+PER,Peru,Tennis,0,4,4
+PER,Peru,Volleyball,0,75,49
+PER,Peru,Weightlifting,0,14,13
+PER,Peru,Wrestling,0,23,16
+PHI,Philippines,Archery,0,10,9
+PHI,Philippines,Art Competitions,0,2,2
+PHI,Philippines,Artistic Gymnastics,2,33,4
+PHI,Philippines,Athletics,0,101,57
+PHI,Philippines,Badminton,0,1,1
+PHI,Philippines,Basketball,0,79,63
+PHI,Philippines,Boxing,0,84,73
+PHI,Philippines,Cycling,0,27,16
+PHI,Philippines,Diving,0,4,3
+PHI,Philippines,Equestrianism,0,3,2
+PHI,Philippines,Fencing,0,3,3
+PHI,Philippines,Golf,0,6,5
+PHI,Philippines,Gymnastics,0,20,5
+PHI,Philippines,Judo,0,17,13
+PHI,Philippines,Rowing,0,4,4
+PHI,Philippines,Sailing,0,20,14
+PHI,Philippines,Shooting,0,73,36
+PHI,Philippines,Skateboarding,0,1,1
+PHI,Philippines,Swimming,0,203,65
+PHI,Philippines,Table Tennis,0,1,1
+PHI,Philippines,Taekwondo,0,11,8
+PHI,Philippines,Weightlifting,1,28,18
+PHI,Philippines,Wrestling,0,26,15
+PLE,Palestine,Athletics,0,13,13
+PLE,Palestine,Boxing,0,1,1
+PLE,Palestine,Equestrianism,0,1,1
+PLE,Palestine,Judo,0,4,4
+PLE,Palestine,Shooting,0,1,1
+PLE,Palestine,Swimming,0,12,10
+PLE,Palestine,Taekwondo,0,1,1
+PLE,Palestine,Weightlifting,0,1,1
+PLW,Palau,Athletics,0,11,9
+PLW,Palau,Canoeing,0,2,1
+PLW,Palau,Judo,0,1,1
+PLW,Palau,Swimming,0,11,11
+PLW,Palau,Weightlifting,0,2,2
+PLW,Palau,Wrestling,0,4,3
+PNG,Papua New Guinea,Athletics,0,62,31
+PNG,Papua New Guinea,Boxing,0,17,14
+PNG,Papua New Guinea,Judo,0,2,1
+PNG,Papua New Guinea,Sailing,0,4,3
+PNG,Papua New Guinea,Shooting,0,3,2
+PNG,Papua New Guinea,Swimming,0,16,8
+PNG,Papua New Guinea,Taekwondo,0,6,5
+PNG,Papua New Guinea,Weightlifting,0,13,7
+POL,Poland,3x3 Basketball,0,8,7
+POL,Poland,Archery,0,71,33
+POL,Poland,Art Competitions,3,163,93
+POL,Poland,Artistic Gymnastics,0,5,1
+POL,Poland,Athletics,41,1004,551
+POL,Poland,Badminton,0,32,13
+POL,Poland,Basketball,0,82,69
+POL,Poland,Beach Volleyball,0,14,9
+POL,Poland,Boxing,8,146,114
+POL,Poland,Canoe Slalom,0,11,5
+POL,Poland,Canoe Sprint,0,32,16
+POL,Poland,Canoeing,0,288,139
+POL,Poland,Cycling,0,242,132
+POL,Poland,Cycling Mountain Bike,0,4,4
+POL,Poland,Cycling Road,0,15,8
+POL,Poland,Cycling Track,0,43,16
+POL,Poland,Diving,0,22,11
+POL,Poland,Equestrian,0,25,13
+POL,Poland,Equestrianism,1,128,53
+POL,Poland,Fencing,8,443,157
+POL,Poland,Football,17,106,97
+POL,Poland,Golf,0,2,1
+POL,Poland,Gymnastics,1,641,77
+POL,Poland,Handball,0,72,54
+POL,Poland,Hockey,0,92,85
+POL,Poland,Judo,3,85,57
+POL,Poland,Marathon Swimming,0,1,1
+POL,Poland,Modern Pentathlon,5,65,32
+POL,Poland,Rhythmic Gymnastics,0,15,13
+POL,Poland,Rowing,10,339,233
+POL,Poland,Sailing,1,115,84
+POL,Poland,Shooting,4,203,88
+POL,Poland,Skateboarding,0,1,1
+POL,Poland,Sport Climbing,1,3,2
+POL,Poland,Swimming,1,333,125
+POL,Poland,Table Tennis,0,53,18
+POL,Poland,Taekwondo,0,6,6
+POL,Poland,Tennis,0,53,22
+POL,Poland,Triathlon,0,8,5
+POL,Poland,Volleyball,12,178,129
+POL,Poland,Weightlifting,5,121,77
+POL,Poland,Wrestling,5,189,124
+POR,Portugal,Archery,0,8,4
+POR,Portugal,Art Competitions,0,1,1
+POR,Portugal,Artistic Gymnastics,0,11,1
+POR,Portugal,Athletics,5,369,191
+POR,Portugal,Badminton,0,12,6
+POR,Portugal,Beach Volleyball,0,8,4
+POR,Portugal,Boxing,0,1,1
+POR,Portugal,Breaking,0,1,1
+POR,Portugal,Canoe Slalom,0,1,1
+POR,Portugal,Canoe Sprint,0,13,7
+POR,Portugal,Canoeing,0,53,22
+POR,Portugal,Cycling,0,38,22
+POR,Portugal,Cycling Mountain Bike,0,2,1
+POR,Portugal,Cycling Road,0,9,4
+POR,Portugal,Cycling Track,2,7,4
+POR,Portugal,Diving,0,1,1
+POR,Portugal,Equestrian,0,19,10
+POR,Portugal,Equestrianism,0,116,39
+POR,Portugal,Fencing,0,113,50
+POR,Portugal,Football,0,65,64
+POR,Portugal,Golf,0,2,2
+POR,Portugal,Gymnastics,0,146,21
+POR,Portugal,Handball,0,15,15
+POR,Portugal,Judo,0,68,41
+POR,Portugal,Marathon Swimming,0,3,2
+POR,Portugal,Modern Pentathlon,0,18,8
+POR,Portugal,Rhythmic Gymnastics,0,3,3
+POR,Portugal,Rowing,0,43,36
+POR,Portugal,Sailing,0,137,71
+POR,Portugal,Shooting,0,126,50
+POR,Portugal,Skateboarding,0,3,2
+POR,Portugal,Surfing,0,4,2
+POR,Portugal,Swimming,0,176,75
+POR,Portugal,Table Tennis,0,30,10
+POR,Portugal,Taekwondo,0,3,3
+POR,Portugal,Tennis,0,20,10
+POR,Portugal,Trampoline Gymnastics,0,2,2
+POR,Portugal,Trampolining,0,7,4
+POR,Portugal,Triathlon,0,16,12
+POR,Portugal,Water Polo,0,9,9
+POR,Portugal,Weightlifting,0,10,6
+POR,Portugal,Wrestling,0,20,15
+PRK,North Korea,Archery,0,19,15
+PRK,North Korea,Artistic Gymnastics,0,4,1
+PRK,North Korea,Athletics,0,41,29
+PRK,North Korea,Boxing,2,27,23
+PRK,North Korea,Cycling,0,3,3
+PRK,North Korea,Diving,0,35,21
+PRK,North Korea,Football,0,46,46
+PRK,North Korea,Gymnastics,3,261,39
+PRK,North Korea,Judo,2,36,30
+PRK,North Korea,Rhythmic Gymnastics,0,2,2
+PRK,North Korea,Rowing,0,6,6
+PRK,North Korea,Shooting,1,62,31
+PRK,North Korea,Synchronized Swimming,0,6,6
+PRK,North Korea,Table Tennis,0,55,26
+PRK,North Korea,Volleyball,0,11,11
+PRK,North Korea,Weightlifting,5,51,40
+PRK,North Korea,Wrestling,3,35,27
+PUR,Puerto Rico,Archery,0,8,8
+PUR,Puerto Rico,Athletics,1,166,108
+PUR,Puerto Rico,Baseball,0,20,20
+PUR,Puerto Rico,Basketball,0,144,101
+PUR,Puerto Rico,Beach Volleyball,0,2,2
+PUR,Puerto Rico,Boxing,0,92,91
+PUR,Puerto Rico,Cycling,0,5,4
+PUR,Puerto Rico,Diving,0,16,8
+PUR,Puerto Rico,Equestrian,0,1,1
+PUR,Puerto Rico,Equestrianism,0,7,6
+PUR,Puerto Rico,Fencing,0,13,11
+PUR,Puerto Rico,Golf,0,3,3
+PUR,Puerto Rico,Gymnastics,0,45,7
+PUR,Puerto Rico,Judo,0,41,31
+PUR,Puerto Rico,Rowing,0,3,2
+PUR,Puerto Rico,Sailing,0,45,30
+PUR,Puerto Rico,Shooting,0,64,40
+PUR,Puerto Rico,Skateboarding,0,3,3
+PUR,Puerto Rico,Softball,0,15,15
+PUR,Puerto Rico,Swimming,0,192,54
+PUR,Puerto Rico,Synchronized Swimming,0,2,2
+PUR,Puerto Rico,Table Tennis,0,8,6
+PUR,Puerto Rico,Taekwondo,0,5,5
+PUR,Puerto Rico,Tennis,1,5,4
+PUR,Puerto Rico,Triathlon,0,1,1
+PUR,Puerto Rico,Volleyball,0,12,12
+PUR,Puerto Rico,Weightlifting,0,33,22
+PUR,Puerto Rico,Wrestling,0,31,24
+QAT,Qatar,Archery,0,1,1
+QAT,Qatar,Athletics,1,110,71
+QAT,Qatar,Beach Volleyball,0,6,4
+QAT,Qatar,Boxing,0,2,2
+QAT,Qatar,Equestrianism,0,8,4
+QAT,Qatar,Fencing,0,1,1
+QAT,Qatar,Football,0,31,31
+QAT,Qatar,Handball,0,15,15
+QAT,Qatar,Judo,0,2,2
+QAT,Qatar,Rowing,0,1,1
+QAT,Qatar,Sailing,0,2,2
+QAT,Qatar,Shooting,0,21,10
+QAT,Qatar,Swimming,0,10,7
+QAT,Qatar,Table Tennis,0,4,3
+QAT,Qatar,Taekwondo,0,1,1
+QAT,Qatar,Weightlifting,1,7,6
+RHO,,Athletics,0,4,2
+RHO,,Boxing,0,4,4
+RHO,,Diving,0,1,1
+RHO,,Sailing,0,2,2
+RHO,,Shooting,0,1,1
+ROC,ROC,3x3 Basketball,0,8,8
+ROC,ROC,Archery,0,9,4
+ROC,ROC,Artistic Gymnastics,8,80,12
+ROC,ROC,Artistic Swimming,10,10,8
+ROC,ROC,Athletics,1,10,10
+ROC,ROC,Badminton,0,4,4
+ROC,ROC,Beach Volleyball,0,6,6
+ROC,ROC,Boxing,1,11,11
+ROC,ROC,Canoe Slalom,0,4,2
+ROC,ROC,Canoe Sprint,0,28,15
+ROC,ROC,Cycling BMX Freestyle,0,2,2
+ROC,ROC,Cycling BMX Racing,0,3,3
+ROC,ROC,Cycling Mountain Bike,0,2,2
+ROC,ROC,Cycling Road,0,5,4
+ROC,ROC,Cycling Track,0,22,10
+ROC,ROC,Diving,0,11,7
+ROC,ROC,Equestrian,0,10,6
+ROC,ROC,Fencing,9,42,24
+ROC,ROC,Handball,0,15,15
+ROC,ROC,Judo,0,24,13
+ROC,ROC,Marathon Swimming,0,2,2
+ROC,ROC,Modern Pentathlon,0,3,3
+ROC,ROC,Rhythmic Gymnastics,0,7,7
+ROC,ROC,Rowing,0,10,10
+ROC,ROC,Rugby Sevens,0,13,13
+ROC,ROC,Sailing,0,6,6
+ROC,ROC,Shooting,2,31,17
+ROC,ROC,Sport Climbing,0,3,3
+ROC,ROC,Swimming,2,87,36
+ROC,ROC,Table Tennis,0,3,3
+ROC,ROC,Taekwondo,2,4,4
+ROC,ROC,Tennis,2,18,8
+ROC,ROC,Trampoline Gymnastics,0,4,4
+ROC,ROC,Triathlon,0,8,4
+ROC,ROC,Volleyball,0,24,24
+ROC,ROC,Water Polo,0,13,13
+ROC,ROC,Weightlifting,0,2,2
+ROC,ROC,Wrestling,4,17,17
+ROT,,Athletics,0,6,6
+ROT,,Judo,0,2,2
+ROT,,Swimming,0,4,2
+ROU,Romania,3x3 Basketball,0,4,4
+ROU,Romania,Archery,0,7,6
+ROU,Romania,Art Competitions,0,3,2
+ROU,Romania,Artistic Gymnastics,0,42,9
+ROU,Romania,Athletics,11,346,202
+ROU,Romania,Badminton,0,1,1
+ROU,Romania,Basketball,0,12,12
+ROU,Romania,Boxing,1,118,89
+ROU,Romania,Canoe Sprint,0,7,4
+ROU,Romania,Canoeing,18,222,105
+ROU,Romania,Cycling,0,35,18
+ROU,Romania,Cycling Mountain Bike,0,2,2
+ROU,Romania,Cycling Road,0,1,1
+ROU,Romania,Diving,0,23,13
+ROU,Romania,Equestrianism,0,57,29
+ROU,Romania,Fencing,7,314,108
+ROU,Romania,Football,0,62,62
+ROU,Romania,Gymnastics,40,1172,138
+ROU,Romania,Handball,0,145,108
+ROU,Romania,Judo,1,49,31
+ROU,Romania,Modern Pentathlon,0,21,11
+ROU,Romania,Rhythmic Gymnastics,0,8,8
+ROU,Romania,Rowing,78,439,240
+ROU,Romania,Rugby,0,16,16
+ROU,Romania,Sailing,0,8,8
+ROU,Romania,Shooting,6,136,57
+ROU,Romania,Swimming,4,216,61
+ROU,Romania,Table Tennis,0,56,16
+ROU,Romania,Tennis,0,56,25
+ROU,Romania,Triathlon,0,2,1
+ROU,Romania,Volleyball,0,54,52
+ROU,Romania,Water Polo,0,106,80
+ROU,Romania,Weightlifting,2,73,52
+ROU,Romania,Wrestling,7,181,109
+RSA,South Africa,Archery,0,14,8
+RSA,South Africa,Art Competitions,0,21,11
+RSA,South Africa,Artistic Gymnastics,0,16,2
+RSA,South Africa,Artistic Swimming,0,2,2
+RSA,South Africa,Athletics,8,456,256
+RSA,South Africa,Badminton,0,23,14
+RSA,South Africa,Baseball,0,24,24
+RSA,South Africa,Beach Volleyball,0,8,8
+RSA,South Africa,Boxing,6,75,69
+RSA,South Africa,Canoe Sprint,0,8,4
+RSA,South Africa,Canoeing,0,40,24
+RSA,South Africa,Cycling,1,136,58
+RSA,South Africa,Cycling BMX Freestyle,0,1,1
+RSA,South Africa,Cycling BMX Racing,0,2,2
+RSA,South Africa,Cycling Mountain Bike,0,4,2
+RSA,South Africa,Cycling Road,0,10,7
+RSA,South Africa,Cycling Track,0,7,3
+RSA,South Africa,Diving,0,10,6
+RSA,South Africa,Equestrian,0,2,2
+RSA,South Africa,Equestrianism,0,5,5
+RSA,South Africa,Fencing,0,34,16
+RSA,South Africa,Football,0,85,76
+RSA,South Africa,Golf,0,10,8
+RSA,South Africa,Gymnastics,0,51,6
+RSA,South Africa,Hockey,0,198,152
+RSA,South Africa,Judo,0,10,9
+RSA,South Africa,Marathon Swimming,0,2,2
+RSA,South Africa,Modern Pentathlon,0,11,6
+RSA,South Africa,Rhythmic Gymnastics,0,2,2
+RSA,South Africa,Rowing,4,76,58
+RSA,South Africa,Rugby Sevens,0,52,46
+RSA,South Africa,Sailing,0,49,38
+RSA,South Africa,Shooting,0,102,36
+RSA,South Africa,Skateboarding,0,6,4
+RSA,South Africa,Sport Climbing,0,6,6
+RSA,South Africa,Surfing,0,4,4
+RSA,South Africa,Swimming,11,327,107
+RSA,South Africa,Synchronized Swimming,0,4,2
+RSA,South Africa,Table Tennis,0,2,2
+RSA,South Africa,Taekwondo,0,1,1
+RSA,South Africa,Tennis,4,51,26
+RSA,South Africa,Triathlon,0,19,11
+RSA,South Africa,Tug-Of-War,0,5,5
+RSA,South Africa,Water Polo,0,43,41
+RSA,South Africa,Weightlifting,0,15,13
+RSA,South Africa,Wrestling,0,29,23
+RUS,Russia,Archery,0,47,16
+RUS,Russia,Art Competitions,0,4,4
+RUS,Russia,Athletics,29,604,392
+RUS,Russia,Badminton,0,30,16
+RUS,Russia,Basketball,0,94,64
+RUS,Russia,Beach Volleyball,0,18,14
+RUS,Russia,Boxing,10,64,48
+RUS,Russia,Canoeing,3,114,57
+RUS,Russia,Cycling,5,174,79
+RUS,Russia,Diving,6,77,28
+RUS,Russia,Equestrianism,0,35,24
+RUS,Russia,Fencing,33,218,81
+RUS,Russia,Figure Skating,1,2,1
+RUS,Russia,Football,0,15,15
+RUS,Russia,Golf,0,1,1
+RUS,Russia,Gymnastics,16,408,56
+RUS,Russia,Handball,30,100,66
+RUS,Russia,Judo,5,71,57
+RUS,Russia,Modern Pentathlon,4,26,19
+RUS,Russia,Rhythmic Gymnastics,34,47,42
+RUS,Russia,Rowing,4,86,47
+RUS,Russia,Sailing,0,81,62
+RUS,Russia,Shooting,7,250,94
+RUS,Russia,Swimming,5,381,139
+RUS,Russia,Synchronized Swimming,54,63,31
+RUS,Russia,Table Tennis,0,39,16
+RUS,Russia,Taekwondo,0,11,9
+RUS,Russia,Tennis,4,77,28
+RUS,Russia,Trampolining,2,16,9
+RUS,Russia,Triathlon,0,20,12
+RUS,Russia,Volleyball,12,142,88
+RUS,Russia,Water Polo,0,103,65
+RUS,Russia,Weightlifting,3,45,36
+RUS,Russia,Wrestling,29,120,99
+RWA,Rwanda,Athletics,0,43,28
+RWA,Rwanda,Cycling,0,6,5
+RWA,Rwanda,Cycling Road,0,4,3
+RWA,Rwanda,Fencing,0,1,1
+RWA,Rwanda,Judo,0,1,1
+RWA,Rwanda,Swimming,0,14,10
+SAA,,Athletics,0,8,6
+SAA,,Boxing,0,3,3
+SAA,,Canoeing,0,5,3
+SAA,,Fencing,0,15,5
+SAA,,Gymnastics,0,48,6
+SAA,,Rowing,0,7,7
+SAA,,Shooting,0,3,2
+SAA,,Swimming,0,1,1
+SAA,,Wrestling,0,3,3
+SAM,Samoa,Archery,0,2,2
+SAM,Samoa,Athletics,0,15,10
+SAM,Samoa,Boxing,0,21,20
+SAM,Samoa,Canoe Sprint,0,10,4
+SAM,Samoa,Canoeing,0,6,2
+SAM,Samoa,Cycling,0,1,1
+SAM,Samoa,Judo,0,5,5
+SAM,Samoa,Rugby Sevens,0,12,12
+SAM,Samoa,Sailing,0,3,3
+SAM,Samoa,Swimming,0,4,4
+SAM,Samoa,Taekwondo,0,2,2
+SAM,Samoa,Weightlifting,0,15,13
+SAM,Samoa,Wrestling,0,4,4
+SCG,,Athletics,0,46,31
+SCG,,Basketball,0,36,26
+SCG,,Boxing,0,1,1
+SCG,,Canoeing,0,11,7
+SCG,,Cycling,0,1,1
+SCG,,Diving,0,2,2
+SCG,,Fencing,0,2,1
+SCG,,Football,0,17,17
+SCG,,Handball,0,15,15
+SCG,,Judo,0,4,4
+SCG,,Rowing,0,12,10
+SCG,,Shooting,1,32,8
+SCG,,Swimming,0,28,15
+SCG,,Table Tennis,0,13,4
+SCG,,Tennis,0,3,3
+SCG,,Volleyball,11,35,21
+SCG,,Water Polo,0,38,23
+SCG,,Weightlifting,0,1,1
+SCG,,Wrestling,0,3,3
+SEN,Senegal,Athletics,0,166,80
+SEN,Senegal,Basketball,0,60,53
+SEN,Senegal,Boxing,0,6,6
+SEN,Senegal,Canoe Slalom,0,4,2
+SEN,Senegal,Canoe Sprint,0,1,1
+SEN,Senegal,Canoeing,0,6,4
+SEN,Senegal,Fencing,0,8,6
+SEN,Senegal,Football,0,17,17
+SEN,Senegal,Judo,0,49,36
+SEN,Senegal,Sailing,0,1,1
+SEN,Senegal,Shooting,0,3,3
+SEN,Senegal,Swimming,0,28,13
+SEN,Senegal,Table Tennis,0,3,2
+SEN,Senegal,Taekwondo,0,4,3
+SEN,Senegal,Wrestling,0,41,19
+SEY,Seychelles,Athletics,0,49,27
+SEY,Seychelles,Badminton,0,2,2
+SEY,Seychelles,Boxing,0,14,10
+SEY,Seychelles,Canoeing,0,4,1
+SEY,Seychelles,Judo,0,5,3
+SEY,Seychelles,Sailing,0,12,6
+SEY,Seychelles,Swimming,0,29,15
+SEY,Seychelles,Weightlifting,0,5,5
+SGP,Singapore,Artistic Gymnastics,0,2,1
+SGP,Singapore,Athletics,0,32,22
+SGP,Singapore,Badminton,0,27,18
+SGP,Singapore,Basketball,0,10,10
+SGP,Singapore,Boxing,0,1,1
+SGP,Singapore,Canoe Sprint,0,1,1
+SGP,Singapore,Canoeing,0,2,1
+SGP,Singapore,Diving,0,2,2
+SGP,Singapore,Equestrian,0,2,1
+SGP,Singapore,Fencing,0,8,4
+SGP,Singapore,Golf,0,1,1
+SGP,Singapore,Gymnastics,0,4,1
+SGP,Singapore,Hockey,0,17,17
+SGP,Singapore,Judo,0,2,2
+SGP,Singapore,Marathon Swimming,0,1,1
+SGP,Singapore,Rowing,0,3,3
+SGP,Singapore,Sailing,0,45,36
+SGP,Singapore,Shooting,0,19,11
+SGP,Singapore,Swimming,1,162,33
+SGP,Singapore,Table Tennis,0,49,20
+SGP,Singapore,Water Polo,0,10,10
+SGP,Singapore,Weightlifting,0,11,10
+SKN,Saint Kitts and Nevis,Athletics,0,46,22
+SKN,Saint Kitts and Nevis,Swimming,0,1,1
+SLE,Sierra Leone,Athletics,0,101,49
+SLE,Sierra Leone,Boxing,0,9,9
+SLE,Sierra Leone,Cycling,0,1,1
+SLE,Sierra Leone,Judo,0,2,2
+SLE,Sierra Leone,Swimming,0,7,6
+SLE,Sierra Leone,Weightlifting,0,2,2
+SLO,Slovenia,Archery,0,14,6
+SLO,Slovenia,Artistic Gymnastics,0,6,1
+SLO,Slovenia,Athletics,1,113,68
+SLO,Slovenia,Badminton,0,3,2
+SLO,Slovenia,Basketball,0,12,12
+SLO,Slovenia,Canoe Slalom,1,12,5
+SLO,Slovenia,Canoe Sprint,0,4,2
+SLO,Slovenia,Canoeing,0,36,22
+SLO,Slovenia,Cycling,0,36,21
+SLO,Slovenia,Cycling Mountain Bike,0,2,1
+SLO,Slovenia,Cycling Road,1,15,9
+SLO,Slovenia,Golf,0,3,2
+SLO,Slovenia,Gymnastics,0,24,6
+SLO,Slovenia,Handball,0,79,67
+SLO,Slovenia,Judo,3,36,22
+SLO,Slovenia,Marathon Swimming,0,1,1
+SLO,Slovenia,Rhythmic Gymnastics,0,2,1
+SLO,Slovenia,Rowing,2,44,23
+SLO,Slovenia,Sailing,0,42,22
+SLO,Slovenia,Shooting,1,27,6
+SLO,Slovenia,Sport Climbing,2,5,3
+SLO,Slovenia,Swimming,0,117,39
+SLO,Slovenia,Table Tennis,0,14,6
+SLO,Slovenia,Taekwondo,0,6,6
+SLO,Slovenia,Tennis,0,20,10
+SLO,Slovenia,Triathlon,0,2,1
+SLO,Slovenia,Volleyball,0,13,13
+SMR,San Marino,Archery,0,4,3
+SMR,San Marino,Athletics,0,21,13
+SMR,San Marino,Cycling,0,16,10
+SMR,San Marino,Gymnastics,0,7,1
+SMR,San Marino,Judo,0,10,5
+SMR,San Marino,Sailing,0,3,3
+SMR,San Marino,Shooting,0,60,30
+SMR,San Marino,Swimming,0,29,13
+SMR,San Marino,Tennis,0,2,2
+SMR,San Marino,Weightlifting,0,2,2
+SMR,San Marino,Wrestling,0,3,2
+SOL,Solomon Islands,Archery,0,1,1
+SOL,Solomon Islands,Athletics,0,19,12
+SOL,Solomon Islands,Boxing,0,1,1
+SOL,Solomon Islands,Judo,0,1,1
+SOL,Solomon Islands,Swimming,0,2,2
+SOL,Solomon Islands,Weightlifting,0,8,6
+SOM,Somalia,Athletics,0,34,21
+SOM,Somalia,Boxing,0,1,1
+SRB,Serbia,3x3 Basketball,0,8,6
+SRB,Serbia,Athletics,0,50,31
+SRB,Serbia,Basketball,0,60,54
+SRB,Serbia,Boxing,0,5,5
+SRB,Serbia,Canoe Sprint,0,18,10
+SRB,Serbia,Canoeing,0,31,17
+SRB,Serbia,Cycling,0,6,4
+SRB,Serbia,Cycling Road,0,2,2
+SRB,Serbia,Football,0,15,15
+SRB,Serbia,Handball,0,15,15
+SRB,Serbia,Judo,0,19,8
+SRB,Serbia,Karate,1,1,1
+SRB,Serbia,Rowing,0,19,13
+SRB,Serbia,Shooting,2,70,20
+SRB,Serbia,Swimming,0,55,20
+SRB,Serbia,Table Tennis,0,10,6
+SRB,Serbia,Taekwondo,2,10,9
+SRB,Serbia,Tennis,1,34,13
+SRB,Serbia,Volleyball,0,97,70
+SRB,Serbia,Water Polo,39,65,44
+SRB,Serbia,Wrestling,1,15,11
+SRI,Sri Lanka,Artistic Gymnastics,0,5,1
+SRI,Sri Lanka,Athletics,0,72,48
+SRI,Sri Lanka,Badminton,0,7,4
+SRI,Sri Lanka,Boxing,0,14,13
+SRI,Sri Lanka,Cycling,0,1,1
+SRI,Sri Lanka,Diving,0,2,2
+SRI,Sri Lanka,Equestrian,0,1,1
+SRI,Sri Lanka,Judo,0,2,1
+SRI,Sri Lanka,Sailing,0,4,3
+SRI,Sri Lanka,Shooting,0,23,10
+SRI,Sri Lanka,Swimming,0,29,16
+SRI,Sri Lanka,Weightlifting,0,4,4
+SRI,Sri Lanka,Wrestling,0,1,1
+SSD,South Sudan,Athletics,0,7,5
+SSD,South Sudan,Basketball,0,12,12
+STP,So Tom and Prncipe,Athletics,0,14,13
+STP,So Tom and Prncipe,Canoe Sprint,0,5,3
+STP,So Tom and Prncipe,Canoeing,0,3,2
+STP,So Tom and Prncipe,Judo,0,1,1
+SUD,Sudan,Athletics,0,55,35
+SUD,Sudan,Boxing,0,20,17
+SUD,Sudan,Football,0,14,14
+SUD,Sudan,Judo,0,4,4
+SUD,Sudan,Rowing,0,2,2
+SUD,Sudan,Shooting,0,6,3
+SUD,Sudan,Swimming,0,10,9
+SUD,Sudan,Table Tennis,0,1,1
+SUD,Sudan,Weightlifting,0,4,4
+SUI,Switzerland,Aeronautics,1,1,1
+SUI,Switzerland,Alpinism,2,2,2
+SUI,Switzerland,Archery,0,16,14
+SUI,Switzerland,Art Competitions,3,158,67
+SUI,Switzerland,Artistic Gymnastics,0,86,11
+SUI,Switzerland,Athletics,0,501,321
+SUI,Switzerland,Badminton,0,15,9
+SUI,Switzerland,Basketball,0,36,29
+SUI,Switzerland,Beach Volleyball,0,34,24
+SUI,Switzerland,Boxing,0,38,37
+SUI,Switzerland,Canoe Slalom,0,9,4
+SUI,Switzerland,Canoeing,0,82,54
+SUI,Switzerland,Cycling,5,290,175
+SUI,Switzerland,Cycling BMX Freestyle,0,2,1
+SUI,Switzerland,Cycling BMX Racing,0,9,7
+SUI,Switzerland,Cycling Mountain Bike,1,10,7
+SUI,Switzerland,Cycling Road,0,16,10
+SUI,Switzerland,Cycling Track,0,16,10
+SUI,Switzerland,Diving,0,23,17
+SUI,Switzerland,Equestrian,0,34,13
+SUI,Switzerland,Equestrianism,5,276,93
+SUI,Switzerland,Fencing,1,247,103
+SUI,Switzerland,Figure Skating,0,1,1
+SUI,Switzerland,Football,0,43,39
+SUI,Switzerland,Golf,0,7,5
+SUI,Switzerland,Gymnastics,23,863,95
+SUI,Switzerland,Handball,0,59,55
+SUI,Switzerland,Hockey,0,72,63
+SUI,Switzerland,Ice Hockey,0,8,8
+SUI,Switzerland,Judo,1,39,29
+SUI,Switzerland,Karate,0,1,1
+SUI,Switzerland,Modern Pentathlon,0,45,24
+SUI,Switzerland,Rhythmic Gymnastics,0,2,2
+SUI,Switzerland,Rowing,24,279,198
+SUI,Switzerland,Sailing,3,173,122
+SUI,Switzerland,Shooting,24,306,115
+SUI,Switzerland,Sport Climbing,0,2,2
+SUI,Switzerland,Swimming,0,294,105
+SUI,Switzerland,Synchronized Swimming,0,25,14
+SUI,Switzerland,Table Tennis,0,2,2
+SUI,Switzerland,Taekwondo,0,1,1
+SUI,Switzerland,Tennis,4,62,23
+SUI,Switzerland,Trampolining,0,2,2
+SUI,Switzerland,Triathlon,2,39,20
+SUI,Switzerland,Water Polo,0,36,29
+SUI,Switzerland,Weightlifting,0,40,34
+SUI,Switzerland,Wrestling,4,115,91
+SUR,Suriname,Athletics,0,30,14
+SUR,Suriname,Badminton,0,5,3
+SUR,Suriname,Cycling,0,3,1
+SUR,Suriname,Cycling Track,0,4,1
+SUR,Suriname,Judo,0,5,4
+SUR,Suriname,Swimming,1,33,15
+SVK,Slovakia,Archery,0,4,3
+SVK,Slovakia,Artistic Gymnastics,0,5,1
+SVK,Slovakia,Athletics,1,112,62
+SVK,Slovakia,Badminton,0,3,3
+SVK,Slovakia,Basketball,0,12,12
+SVK,Slovakia,Boxing,0,4,4
+SVK,Slovakia,Canoe Slalom,0,12,5
+SVK,Slovakia,Canoe Sprint,0,7,5
+SVK,Slovakia,Canoeing,12,106,47
+SVK,Slovakia,Cycling,0,45,21
+SVK,Slovakia,Cycling Road,0,6,3
+SVK,Slovakia,Football,0,18,18
+SVK,Slovakia,Golf,0,1,1
+SVK,Slovakia,Gymnastics,0,28,6
+SVK,Slovakia,Judo,0,8,6
+SVK,Slovakia,Rowing,0,5,4
+SVK,Slovakia,Sailing,0,8,6
+SVK,Slovakia,Shooting,1,63,20
+SVK,Slovakia,Skateboarding,0,1,1
+SVK,Slovakia,Swimming,0,46,15
+SVK,Slovakia,Synchronized Swimming,0,6,6
+SVK,Slovakia,Table Tennis,0,10,6
+SVK,Slovakia,Tennis,0,51,22
+SVK,Slovakia,Trampolining,0,1,1
+SVK,Slovakia,Triathlon,0,3,2
+SVK,Slovakia,Water Polo,0,13,13
+SVK,Slovakia,Weightlifting,0,10,7
+SVK,Slovakia,Wrestling,0,15,11
+SWE,Sweden,Archery,0,69,25
+SWE,Sweden,Art Competitions,2,107,50
+SWE,Sweden,Artistic Gymnastics,0,8,2
+SWE,Sweden,Athletics,35,1051,566
+SWE,Sweden,Badminton,0,36,19
+SWE,Sweden,Basketball,0,12,12
+SWE,Sweden,Beach Volleyball,2,8,6
+SWE,Sweden,Boxing,0,81,72
+SWE,Sweden,Canoe Slalom,0,3,2
+SWE,Sweden,Canoe Sprint,0,8,5
+SWE,Sweden,Canoeing,23,229,94
+SWE,Sweden,Cycling,15,238,106
+SWE,Sweden,Cycling Mountain Bike,0,2,1
+SWE,Sweden,Cycling Road,0,2,2
+SWE,Sweden,Diving,6,155,91
+SWE,Sweden,Equestrian,4,45,16
+SWE,Sweden,Equestrianism,37,391,138
+SWE,Sweden,Fencing,6,246,100
+SWE,Sweden,Figure Skating,3,8,7
+SWE,Sweden,Football,12,263,214
+SWE,Sweden,Golf,0,12,10
+SWE,Sweden,Gymnastics,95,489,123
+SWE,Sweden,Handball,0,229,153
+SWE,Sweden,Ice Hockey,0,11,11
+SWE,Sweden,Judo,0,34,24
+SWE,Sweden,"Marathon Swimming, Swimming",0,4,1
+SWE,Sweden,Modern Pentathlon,9,103,54
+SWE,Sweden,Rhythmic Gymnastics,0,1,1
+SWE,Sweden,Rowing,0,150,99
+SWE,Sweden,Sailing,33,343,247
+SWE,Sweden,Shooting,32,586,199
+SWE,Sweden,Skateboarding,0,2,2
+SWE,Sweden,Swimming,11,806,267
+SWE,Sweden,Synchronized Swimming,0,1,1
+SWE,Sweden,Table Tennis,1,80,26
+SWE,Sweden,Taekwondo,0,8,7
+SWE,Sweden,Tennis,0,130,46
+SWE,Sweden,Triathlon,0,5,3
+SWE,Sweden,Tug-Of-War,11,27,27
+SWE,Sweden,Volleyball,0,12,12
+SWE,Sweden,Water Polo,0,71,49
+SWE,Sweden,Weightlifting,0,65,53
+SWE,Sweden,Wrestling,28,291,167
+SWZ,Eswatini,Athletics,0,36,22
+SWZ,Eswatini,Boxing,0,9,9
+SWZ,Eswatini,Shooting,0,2,1
+SWZ,Eswatini,Swimming,0,20,11
+SWZ,Eswatini,Taekwondo,0,1,1
+SWZ,Eswatini,Weightlifting,0,3,2
+SYR,Syria,Artistic Gymnastics,0,5,1
+SYR,Syria,Athletics,1,34,26
+SYR,Syria,Boxing,0,19,17
+SYR,Syria,Cycling,0,1,1
+SYR,Syria,Diving,0,2,2
+SYR,Syria,Equestrian,0,2,2
+SYR,Syria,Equestrianism,0,1,1
+SYR,Syria,Football,0,15,15
+SYR,Syria,Judo,0,10,10
+SYR,Syria,Shooting,0,12,11
+SYR,Syria,Swimming,0,15,10
+SYR,Syria,Table Tennis,0,2,2
+SYR,Syria,Triathlon,0,2,2
+SYR,Syria,Weightlifting,0,14,10
+SYR,Syria,Wrestling,0,38,32
+TAN,Tanzania,Athletics,0,109,65
+TAN,Tanzania,Boxing,0,36,29
+TAN,Tanzania,Hockey,0,16,16
+TAN,Tanzania,Judo,0,2,2
+TAN,Tanzania,Swimming,0,8,6
+TCH,Czechoslovakia,Archery,0,4,4
+TCH,Czechoslovakia,Art Competitions,0,87,51
+TCH,Czechoslovakia,Athletics,11,363,215
+TCH,Czechoslovakia,Badminton,0,2,2
+TCH,Czechoslovakia,Basketball,0,123,103
+TCH,Czechoslovakia,Boxing,3,51,39
+TCH,Czechoslovakia,Canoeing,10,169,120
+TCH,Czechoslovakia,Cycling,2,173,97
+TCH,Czechoslovakia,Diving,1,19,9
+TCH,Czechoslovakia,Equestrianism,1,57,22
+TCH,Czechoslovakia,Fencing,0,108,44
+TCH,Czechoslovakia,Football,16,84,79
+TCH,Czechoslovakia,Gymnastics,19,1057,130
+TCH,Czechoslovakia,Handball,0,88,77
+TCH,Czechoslovakia,Hockey,0,16,16
+TCH,Czechoslovakia,Ice Hockey,0,8,8
+TCH,Czechoslovakia,Judo,0,17,11
+TCH,Czechoslovakia,Modern Pentathlon,0,33,16
+TCH,Czechoslovakia,Rhythmic Gymnastics,0,4,3
+TCH,Czechoslovakia,Rowing,7,246,172
+TCH,Czechoslovakia,Sailing,0,12,11
+TCH,Czechoslovakia,Shooting,4,193,92
+TCH,Czechoslovakia,Swimming,0,110,52
+TCH,Czechoslovakia,Synchronized Swimming,0,1,1
+TCH,Czechoslovakia,Table Tennis,0,12,8
+TCH,Czechoslovakia,Tennis,1,35,19
+TCH,Czechoslovakia,Volleyball,0,83,61
+TCH,Czechoslovakia,Water Polo,0,43,39
+TCH,Czechoslovakia,Weightlifting,3,66,49
+TCH,Czechoslovakia,Wrestling,1,105,74
+TGA,Tonga,Archery,0,3,3
+TGA,Tonga,Athletics,0,22,15
+TGA,Tonga,Boxing,0,14,14
+TGA,Tonga,Judo,0,1,1
+TGA,Tonga,Swimming,0,7,4
+TGA,Tonga,Taekwondo,0,3,2
+TGA,Tonga,Weightlifting,0,5,5
+THA,Thailand,Archery,0,7,6
+THA,Thailand,Athletics,0,163,108
+THA,Thailand,Badminton,0,66,35
+THA,Thailand,Basketball,0,9,9
+THA,Thailand,Boxing,4,95,74
+THA,Thailand,Canoe Sprint,0,1,1
+THA,Thailand,Canoeing,0,1,1
+THA,Thailand,Cycling,0,50,27
+THA,Thailand,Cycling BMX Racing,0,3,3
+THA,Thailand,Cycling Road,0,4,3
+THA,Thailand,Cycling Track,0,2,1
+THA,Thailand,Diving,0,6,4
+THA,Thailand,Equestrian,0,7,4
+THA,Thailand,Equestrianism,0,2,2
+THA,Thailand,Fencing,0,19,8
+THA,Thailand,Football,0,28,27
+THA,Thailand,Golf,0,12,9
+THA,Thailand,Judo,0,12,12
+THA,Thailand,Modern Pentathlon,0,1,1
+THA,Thailand,Rowing,0,8,5
+THA,Thailand,Sailing,0,39,24
+THA,Thailand,Shooting,0,131,67
+THA,Thailand,Skateboarding,0,1,1
+THA,Thailand,Swimming,0,88,27
+THA,Thailand,Table Tennis,0,14,5
+THA,Thailand,Taekwondo,2,18,16
+THA,Thailand,Tennis,0,13,6
+THA,Thailand,Weightlifting,5,47,39
+TJK,Tajikistan,Archery,0,2,2
+TJK,Tajikistan,Athletics,1,13,8
+TJK,Tajikistan,Boxing,0,16,11
+TJK,Tajikistan,Diving,0,2,2
+TJK,Tajikistan,Judo,0,20,15
+TJK,Tajikistan,Shooting,0,4,1
+TJK,Tajikistan,Swimming,0,11,8
+TJK,Tajikistan,Taekwondo,0,3,3
+TJK,Tajikistan,Weightlifting,0,1,1
+TJK,Tajikistan,Wrestling,0,12,10
+TKM,Turkmenistan,Athletics,0,13,12
+TKM,Turkmenistan,Boxing,0,7,5
+TKM,Turkmenistan,Judo,0,13,10
+TKM,Turkmenistan,Shooting,0,5,2
+TKM,Turkmenistan,Swimming,0,13,12
+TKM,Turkmenistan,Table Tennis,0,2,1
+TKM,Turkmenistan,Weightlifting,0,15,12
+TKM,Turkmenistan,Wrestling,0,2,2
+TLS,Timor-Leste,Athletics,0,9,8
+TLS,Timor-Leste,Cycling,0,1,1
+TLS,Timor-Leste,Swimming,0,4,3
+TLS,Timor-Leste,Taekwondo,0,1,1
+TOG,Togo,Athletics,0,33,22
+TOG,Togo,Boxing,0,8,8
+TOG,Togo,Canoeing,0,3,1
+TOG,Togo,Cycling,0,5,5
+TOG,Togo,Judo,0,3,1
+TOG,Togo,Rowing,0,3,3
+TOG,Togo,Swimming,0,6,5
+TOG,Togo,Table Tennis,0,2,2
+TOG,Togo,Tennis,0,1,1
+TOG,Togo,Triathlon,0,1,1
+TPE,Chinese Taipei,Archery,0,115,42
+TPE,Chinese Taipei,Artistic Gymnastics,0,38,5
+TPE,Chinese Taipei,Athletics,0,138,75
+TPE,Chinese Taipei,Badminton,4,45,29
+TPE,Chinese Taipei,Baseball,0,67,57
+TPE,Chinese Taipei,Basketball,0,11,11
+TPE,Chinese Taipei,Boxing,1,31,29
+TPE,Chinese Taipei,Breaking,0,1,1
+TPE,Chinese Taipei,Canoe Slalom,0,5,2
+TPE,Chinese Taipei,Canoe Sprint,0,1,1
+TPE,Chinese Taipei,Cycling,0,41,20
+TPE,Chinese Taipei,Cycling Road,0,1,1
+TPE,Chinese Taipei,Diving,0,6,5
+TPE,Chinese Taipei,Equestrian,0,1,1
+TPE,Chinese Taipei,Equestrianism,0,1,1
+TPE,Chinese Taipei,Fencing,0,10,6
+TPE,Chinese Taipei,Football,0,13,13
+TPE,Chinese Taipei,Golf,0,11,10
+TPE,Chinese Taipei,Gymnastics,0,92,12
+TPE,Chinese Taipei,Judo,0,49,42
+TPE,Chinese Taipei,Karate,0,2,2
+TPE,Chinese Taipei,Modern Pentathlon,0,3,3
+TPE,Chinese Taipei,Rowing,0,6,4
+TPE,Chinese Taipei,Sailing,0,13,9
+TPE,Chinese Taipei,Shooting,0,74,36
+TPE,Chinese Taipei,Softball,0,45,34
+TPE,Chinese Taipei,Swimming,0,166,55
+TPE,Chinese Taipei,Table Tennis,0,83,35
+TPE,Chinese Taipei,Taekwondo,2,23,18
+TPE,Chinese Taipei,Tennis,0,26,17
+TPE,Chinese Taipei,Weightlifting,2,70,47
+TPE,Chinese Taipei,Wrestling,0,7,7
+TTO,Trinidad and Tobago,Athletics,7,295,132
+TTO,Trinidad and Tobago,Badminton,0,1,1
+TTO,Trinidad and Tobago,Boxing,0,6,6
+TTO,Trinidad and Tobago,Cycling,0,47,19
+TTO,Trinidad and Tobago,Cycling Road,0,1,1
+TTO,Trinidad and Tobago,Cycling Track,0,8,2
+TTO,Trinidad and Tobago,Gymnastics,0,4,1
+TTO,Trinidad and Tobago,Judo,0,2,2
+TTO,Trinidad and Tobago,Rowing,0,2,2
+TTO,Trinidad and Tobago,Sailing,0,8,6
+TTO,Trinidad and Tobago,Shooting,0,8,4
+TTO,Trinidad and Tobago,Swimming,0,41,13
+TTO,Trinidad and Tobago,Table Tennis,0,2,1
+TTO,Trinidad and Tobago,Taekwondo,0,2,2
+TTO,Trinidad and Tobago,Weightlifting,0,8,4
+TUN,Tunisia,Archery,0,5,2
+TUN,Tunisia,Athletics,1,80,51
+TUN,Tunisia,Basketball,0,12,12
+TUN,Tunisia,Beach Volleyball,0,2,2
+TUN,Tunisia,Boxing,0,50,42
+TUN,Tunisia,Canoe Slalom,0,3,1
+TUN,Tunisia,Canoe Sprint,0,6,4
+TUN,Tunisia,Canoeing,0,8,3
+TUN,Tunisia,Cycling,0,10,6
+TUN,Tunisia,Fencing,0,40,21
+TUN,Tunisia,Football,0,65,65
+TUN,Tunisia,Gymnastics,0,8,1
+TUN,Tunisia,Handball,0,72,56
+TUN,Tunisia,Judo,0,43,33
+TUN,Tunisia,Marathon Swimming,0,1,1
+TUN,Tunisia,"Marathon Swimming, Swimming",0,4,1
+TUN,Tunisia,Modern Pentathlon,0,6,3
+TUN,Tunisia,Rowing,0,13,11
+TUN,Tunisia,Sailing,0,11,10
+TUN,Tunisia,Shooting,0,11,6
+TUN,Tunisia,Swimming,3,33,11
+TUN,Tunisia,Table Tennis,0,19,11
+TUN,Tunisia,Taekwondo,1,13,11
+TUN,Tunisia,Tennis,0,8,4
+TUN,Tunisia,Volleyball,0,82,71
+TUN,Tunisia,Weightlifting,0,18,15
+TUN,Tunisia,Wrestling,0,42,33
+TUR,Turkey,Archery,1,70,25
+TUR,Turkey,Art Competitions,0,3,2
+TUR,Turkey,Artistic Gymnastics,0,64,6
+TUR,Turkey,Athletics,1,268,154
+TUR,Turkey,Badminton,0,4,4
+TUR,Turkey,Basketball,0,42,36
+TUR,Turkey,Boxing,1,81,70
+TUR,Turkey,Canoeing,0,2,1
+TUR,Turkey,Cycling,0,40,22
+TUR,Turkey,Cycling Road,0,3,3
+TUR,Turkey,Diving,0,2,2
+TUR,Turkey,Equestrianism,0,39,17
+TUR,Turkey,Fencing,0,38,26
+TUR,Turkey,Football,0,71,62
+TUR,Turkey,Gymnastics,0,11,3
+TUR,Turkey,Judo,1,55,35
+TUR,Turkey,Karate,0,7,7
+TUR,Turkey,"Marathon Swimming, Swimming",0,5,2
+TUR,Turkey,Modern Pentathlon,0,4,3
+TUR,Turkey,Rowing,0,5,5
+TUR,Turkey,Sailing,0,60,42
+TUR,Turkey,Shooting,0,56,27
+TUR,Turkey,Swimming,0,130,54
+TUR,Turkey,Table Tennis,0,7,5
+TUR,Turkey,Taekwondo,1,22,13
+TUR,Turkey,Tennis,0,1,1
+TUR,Turkey,Volleyball,0,37,32
+TUR,Turkey,Weightlifting,8,69,49
+TUR,Turkey,Wrestling,29,286,199
+TUV,Tuvalu,Athletics,0,9,7
+TUV,Tuvalu,Weightlifting,0,2,2
+UAE,United Arab Emirates,Athletics,0,25,21
+UAE,United Arab Emirates,Cycling,0,16,10
+UAE,United Arab Emirates,Cycling Road,0,1,1
+UAE,United Arab Emirates,Equestrian,0,6,3
+UAE,United Arab Emirates,Equestrianism,0,1,1
+UAE,United Arab Emirates,Football,0,18,18
+UAE,United Arab Emirates,Judo,0,13,11
+UAE,United Arab Emirates,Sailing,0,1,1
+UAE,United Arab Emirates,Shooting,1,17,8
+UAE,United Arab Emirates,Swimming,0,64,16
+UAE,United Arab Emirates,Taekwondo,0,1,1
+UAE,United Arab Emirates,Weightlifting,0,2,2
+UAR,,Athletics,0,2,2
+UAR,,Boxing,0,4,4
+UAR,,Diving,0,4,3
+UAR,,Equestrianism,0,6,3
+UAR,,Fencing,0,9,6
+UAR,,Football,0,17,17
+UAR,,Gymnastics,0,48,6
+UAR,,Rowing,0,9,9
+UAR,,Shooting,0,3,3
+UAR,,Water Polo,0,10,10
+UAR,,Weightlifting,0,7,7
+UAR,,Wrestling,0,4,4
+UGA,Uganda,Archery,0,1,1
+UGA,Uganda,Athletics,5,188,103
+UGA,Uganda,Badminton,0,2,1
+UGA,Uganda,Boxing,0,74,58
+UGA,Uganda,Cycling,0,2,2
+UGA,Uganda,Cycling Road,0,1,1
+UGA,Uganda,Hockey,0,17,17
+UGA,Uganda,Rowing,0,2,1
+UGA,Uganda,Swimming,0,14,13
+UGA,Uganda,Table Tennis,0,7,3
+UGA,Uganda,Weightlifting,0,7,6
+UKR,Ukraine,Archery,1,76,26
+UKR,Ukraine,Artistic Gymnastics,0,84,9
+UKR,Ukraine,Artistic Swimming,0,12,8
+UKR,Ukraine,Athletics,3,467,277
+UKR,Ukraine,Badminton,0,21,9
+UKR,Ukraine,Basketball,0,12,12
+UKR,Ukraine,Boxing,5,51,45
+UKR,Ukraine,Breaking,0,3,3
+UKR,Ukraine,Canoe Slalom,0,5,1
+UKR,Ukraine,Canoe Sprint,0,30,15
+UKR,Ukraine,Canoeing,3,63,32
+UKR,Ukraine,Cycling,0,101,51
+UKR,Ukraine,Cycling Mountain Bike,0,3,2
+UKR,Ukraine,Cycling Road,0,5,3
+UKR,Ukraine,Cycling Track,0,6,2
+UKR,Ukraine,Diving,0,81,36
+UKR,Ukraine,Equestrian,0,2,2
+UKR,Ukraine,Equestrianism,0,26,10
+UKR,Ukraine,Fencing,9,114,45
+UKR,Ukraine,Football,0,18,18
+UKR,Ukraine,Gymnastics,5,336,47
+UKR,Ukraine,Handball,0,15,15
+UKR,Ukraine,Judo,0,56,39
+UKR,Ukraine,Karate,0,3,3
+UKR,Ukraine,Marathon Swimming,0,1,1
+UKR,Ukraine,Modern Pentathlon,0,19,12
+UKR,Ukraine,Rhythmic Gymnastics,1,47,37
+UKR,Ukraine,Rowing,4,89,58
+UKR,Ukraine,Sailing,2,46,25
+UKR,Ukraine,Shooting,4,121,33
+UKR,Ukraine,Sport Climbing,0,2,2
+UKR,Ukraine,Swimming,4,221,72
+UKR,Ukraine,Synchronized Swimming,0,18,11
+UKR,Ukraine,Table Tennis,0,16,9
+UKR,Ukraine,Taekwondo,0,3,3
+UKR,Ukraine,Tennis,0,36,18
+UKR,Ukraine,Trampoline Gymnastics,0,1,1
+UKR,Ukraine,Trampolining,1,9,6
+UKR,Ukraine,Triathlon,0,12,6
+UKR,Ukraine,Volleyball,0,12,12
+UKR,Ukraine,Water Polo,0,13,13
+UKR,Ukraine,Weightlifting,3,52,38
+UKR,Ukraine,Wrestling,4,108,72
+UNK,,Art Competitions,0,2,2
+URS,Russia,Archery,1,25,16
+URS,Russia,Athletics,83,855,547
+URS,Russia,Basketball,48,146,103
+URS,Russia,Boxing,14,96,85
+URS,Russia,Canoeing,54,141,96
+URS,Russia,Cycling,29,151,94
+URS,Russia,Diving,4,100,59
+URS,Russia,Equestrianism,16,162,57
+URS,Russia,Fencing,63,279,101
+URS,Russia,Football,36,102,95
+URS,Russia,Gymnastics,141,797,82
+URS,Russia,Handball,55,99,73
+URS,Russia,Hockey,0,47,41
+URS,Russia,Judo,5,31,28
+URS,Russia,Modern Pentathlon,13,54,19
+URS,Russia,Rhythmic Gymnastics,1,2,2
+URS,Russia,Rowing,23,321,261
+URS,Russia,Sailing,7,110,67
+URS,Russia,Shooting,17,139,85
+URS,Russia,Swimming,18,471,192
+URS,Russia,Synchronized Swimming,0,5,3
+URS,Russia,Table Tennis,0,8,5
+URS,Russia,Tennis,0,10,7
+URS,Russia,Volleyball,81,141,107
+URS,Russia,Water Polo,22,99,65
+URS,Russia,Weightlifting,39,71,56
+URS,Russia,Wrestling,62,160,129
+URU,Uruguay,Art Competitions,0,8,4
+URU,Uruguay,Athletics,0,57,32
+URU,Uruguay,Basketball,0,81,60
+URU,Uruguay,Boxing,0,36,36
+URU,Uruguay,Canoe Sprint,0,1,1
+URU,Uruguay,Canoeing,0,4,2
+URU,Uruguay,Cycling,0,103,49
+URU,Uruguay,Cycling Road,0,1,1
+URU,Uruguay,Diving,0,1,1
+URU,Uruguay,Equestrianism,0,9,6
+URU,Uruguay,Fencing,0,45,19
+URU,Uruguay,Football,31,47,39
+URU,Uruguay,Judo,0,8,6
+URU,Uruguay,Modern Pentathlon,0,11,7
+URU,Uruguay,Rowing,0,47,36
+URU,Uruguay,Rugby Sevens,0,14,14
+URU,Uruguay,Sailing,0,38,29
+URU,Uruguay,Shooting,0,7,7
+URU,Uruguay,Swimming,0,73,28
+URU,Uruguay,Taekwondo,0,1,1
+URU,Uruguay,Tennis,0,2,2
+URU,Uruguay,Water Polo,0,15,13
+URU,Uruguay,Weightlifting,0,4,4
+USA,United States,3x3 Basketball,4,12,12
+USA,United States,Archery,22,198,71
+USA,United States,Art Competitions,4,562,265
+USA,United States,Artistic Gymnastics,9,143,16
+USA,United States,Artistic Swimming,0,13,10
+USA,United States,Athletics,596,3525,2048
+USA,United States,Badminton,0,45,28
+USA,United States,Baseball,24,88,88
+USA,United States,Baseball/Softball,0,39,39
+USA,United States,Basketball,329,389,300
+USA,United States,Beach Volleyball,14,68,48
+USA,United States,Boxing,50,273,260
+USA,United States,Breaking,0,4,4
+USA,United States,Canoe Slalom,0,9,4
+USA,United States,Canoe Sprint,1,6,3
+USA,United States,Canoeing,8,311,176
+USA,United States,Cycling,16,523,271
+USA,United States,Cycling BMX Freestyle,0,8,5
+USA,United States,Cycling BMX Racing,0,12,9
+USA,United States,Cycling Mountain Bike,0,8,6
+USA,United States,Cycling Road,0,15,9
+USA,United States,"Cycling Road, Cycling Track",0,5,2
+USA,United States,"Cycling Road, Triathlon",0,2,1
+USA,United States,Cycling Track,6,26,12
+USA,United States,Diving,48,306,171
+USA,United States,Equestrian,0,44,18
+USA,United States,Equestrianism,30,456,143
+USA,United States,Fencing,10,767,289
+USA,United States,Figure Skating,0,5,3
+USA,United States,Football,86,362,292
+USA,United States,Golf,15,131,98
+USA,United States,Gymnastics,60,2013,314
+USA,United States,Handball,0,142,106
+USA,United States,Hockey,0,198,162
+USA,United States,Ice Hockey,0,11,11
+USA,United States,Jeu De Paume,1,2,2
+USA,United States,Judo,2,113,76
+USA,United States,Karate,0,4,4
+USA,United States,Lacrosse,0,12,12
+USA,United States,Marathon Swimming,0,5,5
+USA,United States,"Marathon Swimming, Swimming",0,3,1
+USA,United States,Modern Pentathlon,0,101,56
+USA,United States,Polo,2,12,12
+USA,United States,Rhythmic Gymnastics,0,29,26
+USA,United States,Roque,1,4,4
+USA,United States,Rowing,190,907,710
+USA,United States,Rugby,36,36,30
+USA,United States,Rugby Sevens,0,77,58
+USA,United States,Sailing,60,322,252
+USA,United States,Shooting,121,711,307
+USA,United States,Skateboarding,0,24,20
+USA,United States,Softball,45,60,36
+USA,United States,Sport Climbing,0,12,10
+USA,United States,Surfing,2,9,6
+USA,United States,Swimming,698,1854,765
+USA,United States,Synchronized Swimming,16,62,42
+USA,United States,Table Tennis,0,85,34
+USA,United States,Taekwondo,3,24,18
+USA,United States,Tennis,34,235,119
+USA,United States,Trampoline Gymnastics,0,4,3
+USA,United States,Trampolining,0,8,7
+USA,United States,Triathlon,1,43,30
+USA,United States,Tug-Of-War,5,35,35
+USA,United States,Volleyball,48,313,195
+USA,United States,Water Polo,45,369,242
+USA,United States,Weightlifting,17,166,120
+USA,United States,Wrestling,57,414,339
+UZB,,Archery,0,4,2
+UZB,Uzbekistan,Archery,0,4,2
+UZB,,Artistic Gymnastics,0,26,4
+UZB,Uzbekistan,Artistic Gymnastics,0,26,4
+UZB,,Athletics,0,105,62
+UZB,Uzbekistan,Athletics,0,105,62
+UZB,,Boxing,10,72,56
+UZB,Uzbekistan,Boxing,10,72,56
+UZB,,Canoe Sprint,0,7,4
+UZB,Uzbekistan,Canoe Sprint,0,7,4
+UZB,,Canoeing,0,47,29
+UZB,Uzbekistan,Canoeing,0,47,29
+UZB,,Cycling,0,5,3
+UZB,Uzbekistan,Cycling,0,5,3
+UZB,,Cycling Road,0,6,4
+UZB,Uzbekistan,Cycling Road,0,6,4
+UZB,,Diving,0,1,1
+UZB,Uzbekistan,Diving,0,1,1
+UZB,,Fencing,0,7,6
+UZB,Uzbekistan,Fencing,0,7,6
+UZB,,Football,0,21,21
+UZB,Uzbekistan,Football,0,21,21
+UZB,,Gymnastics,0,35,4
+UZB,Uzbekistan,Gymnastics,0,35,4
+UZB,,Judo,1,85,47
+UZB,Uzbekistan,Judo,1,85,47
+UZB,,Modern Pentathlon,0,3,2
+UZB,Uzbekistan,Modern Pentathlon,0,3,2
+UZB,,Rhythmic Gymnastics,0,19,19
+UZB,Uzbekistan,Rhythmic Gymnastics,0,19,19
+UZB,,Rowing,0,11,9
+UZB,Uzbekistan,Rowing,0,11,9
+UZB,,Shooting,0,22,9
+UZB,Uzbekistan,Shooting,0,22,9
+UZB,,Swimming,0,61,31
+UZB,Uzbekistan,Swimming,0,61,31
+UZB,,Table Tennis,0,2,2
+UZB,Uzbekistan,Table Tennis,0,2,2
+UZB,,Taekwondo,2,20,13
+UZB,Uzbekistan,Taekwondo,2,20,13
+UZB,,Tennis,0,7,5
+UZB,Uzbekistan,Tennis,0,7,5
+UZB,,Trampolining,0,5,1
+UZB,Uzbekistan,Trampolining,0,5,1
+UZB,,Weightlifting,2,30,22
+UZB,Uzbekistan,Weightlifting,2,30,22
+UZB,,Wrestling,5,67,42
+UZB,Uzbekistan,Wrestling,5,67,42
+VAN,Vanuatu,Archery,0,1,1
+VAN,Vanuatu,Athletics,0,26,17
+VAN,Vanuatu,Boxing,0,2,2
+VAN,Vanuatu,Judo,0,4,3
+VAN,Vanuatu,Rowing,0,2,2
+VAN,Vanuatu,Swimming,0,2,2
+VAN,Vanuatu,Table Tennis,0,6,4
+VAN,Vanuatu,Weightlifting,0,1,1
+VEN,Venezuela,Archery,0,5,2
+VEN,Venezuela,Art Competitions,0,1,1
+VEN,Venezuela,Athletics,1,128,75
+VEN,Venezuela,Basketball,0,22,22
+VEN,Venezuela,Beach Volleyball,0,4,4
+VEN,Venezuela,Boxing,1,87,78
+VEN,Venezuela,Canoeing,0,5,3
+VEN,Venezuela,Cycling,0,104,54
+VEN,Venezuela,Cycling BMX Freestyle,0,1,1
+VEN,Venezuela,Cycling Road,0,1,1
+VEN,Venezuela,Diving,0,19,12
+VEN,Venezuela,Equestrian,0,2,2
+VEN,Venezuela,Equestrianism,0,10,6
+VEN,Venezuela,Fencing,1,100,44
+VEN,Venezuela,Football,0,16,16
+VEN,Venezuela,Golf,0,2,1
+VEN,Venezuela,Gymnastics,0,23,3
+VEN,Venezuela,Judo,0,44,33
+VEN,Venezuela,Karate,0,3,3
+VEN,Venezuela,Marathon Swimming,0,1,1
+VEN,Venezuela,Rowing,0,4,4
+VEN,Venezuela,Sailing,0,22,17
+VEN,Venezuela,Shooting,0,61,38
+VEN,Venezuela,Softball,0,15,15
+VEN,Venezuela,Swimming,0,172,57
+VEN,Venezuela,Synchronized Swimming,0,5,4
+VEN,Venezuela,Table Tennis,0,12,5
+VEN,Venezuela,Taekwondo,0,11,8
+VEN,Venezuela,Tennis,0,11,6
+VEN,Venezuela,Triathlon,0,2,1
+VEN,Venezuela,Volleyball,0,34,34
+VEN,Venezuela,Weightlifting,0,36,29
+VEN,Venezuela,Wrestling,0,39,32
+VIE,Vietnam,Archery,0,8,3
+VIE,Vietnam,Artistic Gymnastics,0,3,2
+VIE,Vietnam,Athletics,0,31,25
+VIE,Vietnam,Badminton,0,9,6
+VIE,Vietnam,Boxing,0,6,6
+VIE,Vietnam,Canoe Sprint,0,1,1
+VIE,Vietnam,Canoeing,0,1,1
+VIE,Vietnam,Cycling,0,1,1
+VIE,Vietnam,Cycling Road,0,1,1
+VIE,Vietnam,Fencing,0,5,5
+VIE,Vietnam,Gymnastics,0,14,3
+VIE,Vietnam,Judo,0,5,4
+VIE,Vietnam,Rowing,0,9,9
+VIE,Vietnam,Shooting,1,27,16
+VIE,Vietnam,Swimming,0,44,24
+VIE,Vietnam,Table Tennis,0,2,1
+VIE,Vietnam,Taekwondo,0,10,9
+VIE,Vietnam,Weightlifting,0,12,10
+VIE,Vietnam,Wrestling,0,8,7
+VIN,Saint Vincent and the Grenadines,Athletics,0,39,24
+VIN,Saint Vincent and the Grenadines,Swimming,0,10,10
+VNM,,Athletics,0,5,4
+VNM,,Boxing,0,1,1
+VNM,,Cycling,0,31,17
+VNM,,Fencing,0,8,3
+VNM,,Judo,0,3,3
+VNM,,Shooting,0,5,4
+VNM,,Swimming,0,9,7
+WIF,,Athletics,0,12,7
+WIF,,Cycling,0,3,1
+WIF,,Sailing,0,2,2
+WIF,,Shooting,0,2,2
+WIF,,Weightlifting,0,1,1
+YAR,,Athletics,0,7,6
+YAR,,Judo,0,2,2
+YAR,,Wrestling,0,2,2
+YEM,Yemen,Athletics,0,16,15
+YEM,Yemen,Gymnastics,0,4,1
+YEM,Yemen,Judo,0,10,9
+YEM,Yemen,Shooting,0,2,2
+YEM,Yemen,Swimming,0,7,6
+YEM,Yemen,Taekwondo,0,2,2
+YEM,Yemen,Wrestling,0,1,1
+YMD,,Athletics,0,3,3
+YMD,,Boxing,0,2,2
+YUG,Serbia,Archery,0,2,2
+YUG,Serbia,Art Competitions,0,15,11
+YUG,Serbia,Athletics,0,195,135
+YUG,Serbia,Basketball,12,132,91
+YUG,Serbia,Boxing,3,45,36
+YUG,Serbia,Canoeing,3,48,27
+YUG,Serbia,Cycling,0,82,43
+YUG,Serbia,Diving,0,2,1
+YUG,Serbia,Equestrianism,0,7,4
+YUG,Serbia,Fencing,0,25,16
+YUG,Serbia,Football,16,160,146
+YUG,Serbia,Gymnastics,5,647,75
+YUG,Serbia,Handball,43,115,85
+YUG,Serbia,Judo,0,24,15
+YUG,Serbia,Rhythmic Gymnastics,0,4,3
+YUG,Serbia,Rowing,4,132,109
+YUG,Serbia,Sailing,0,18,12
+YUG,Serbia,Shooting,2,57,30
+YUG,Serbia,Swimming,1,104,45
+YUG,Serbia,Table Tennis,0,9,5
+YUG,Serbia,Tennis,0,6,4
+YUG,Serbia,Volleyball,0,12,12
+YUG,Serbia,Water Polo,37,122,73
+YUG,Serbia,Weightlifting,0,4,4
+YUG,Serbia,Wrestling,4,79,54
+ZAM,Zambia,Athletics,0,80,52
+ZAM,Zambia,Badminton,0,1,1
+ZAM,Zambia,Boxing,0,56,48
+ZAM,Zambia,Fencing,0,1,1
+ZAM,Zambia,Football,0,74,63
+ZAM,Zambia,Judo,0,14,14
+ZAM,Zambia,Swimming,0,18,13
+ZAM,Zambia,Wrestling,0,2,2
+ZIM,Zimbabwe,Archery,0,9,6
+ZIM,Zimbabwe,Athletics,0,87,52
+ZIM,Zimbabwe,Boxing,0,11,10
+ZIM,Zimbabwe,Cycling,0,9,7
+ZIM,Zimbabwe,Diving,0,17,9
+ZIM,Zimbabwe,Equestrianism,0,1,1
+ZIM,Zimbabwe,Football,0,17,17
+ZIM,Zimbabwe,Golf,0,1,1
+ZIM,Zimbabwe,Hockey,15,30,30
+ZIM,Zimbabwe,Judo,0,7,5
+ZIM,Zimbabwe,Rowing,0,9,8
+ZIM,Zimbabwe,Sailing,0,8,8
+ZIM,Zimbabwe,Shooting,0,21,15
+ZIM,Zimbabwe,Swimming,2,71,27
+ZIM,Zimbabwe,Tennis,0,19,8
+ZIM,Zimbabwe,Triathlon,0,3,2
+ZIM,Zimbabwe,Weightlifting,0,1,1
